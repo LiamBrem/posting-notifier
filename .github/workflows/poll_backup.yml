@@ -1,0 +1,45 @@
+name: Poll backup sources (GitHub repos)
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: poll-backup-sources
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Run backup poller
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python3 backup_poller.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name "posting-notifier-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add state/seen_backup.json state/notified.json
+          git diff --cached --quiet || git commit -m "Update seen backup postings [skip ci]"
+          # state/notified.json is shared with the other two poll_*.yml
+          # workflows (independent concurrency groups, so they can race on
+          # it) — retry with rebase on push rejection instead of failing.
+          for i in 1 2 3 4 5; do
+            git push && break
+            git pull --rebase
+            sleep $((RANDOM % 10 + 1))
+          done

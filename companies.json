@@ -1,0 +1,23 @@
+[
+  "Google", "Anthropic", "OpenAI", "Deepmind", "Waymo", "Jane Street",
+  "Hudson River Trading", "Nvidia", "Apple", "Databricks", "Two Sigma",
+  "Citadel", "Jump Trading", "Meta", "Netflix", "Uber", "Renaissance Technologies",
+  "Cursor", "Stripe", "Optiver", "xAI", "Snowflake", "Microsoft", "Airbnb",
+  "Five Rings", "IMC Trading", "Palantir", "Radix Trading", "ByteDance",
+  "Coinbase", "D.E. Shaw", "Amazon", "SpaceX", "Scale AI", "Roblox", "Anduril",
+  "LinkedIn", "Datadog", "Notion", "Ramp", "Spotify", "Hugging Face", "NASA",
+  "Neuralink", "GitHub", "Twitch", "Bloomberg", "Intel", "X", "Akuna Capital",
+  "Tesla", "Robinhood", "Figma", "Cloudflare", "DoorDash", "Discord", "Reddit",
+  "Blue Origin", "Lyft", "Slack", "Snap", "Square", "MongoDB", "Dropbox",
+  "Rippling", "Goldman Sachs", "Adobe", "PayPal", "Pinterest", "Plaid",
+  "Salesforce", "Oracle", "Flow Traders", "Atlassian", "Disney", "Morgan Stanley",
+  "Palo Alto Networks", "Splunk", "Red Hat", "Shopify", "Blackrock", "Riot Games",
+  "Capital One", "Lockheed Martin", "Duolingo", "IBM", "Cohere", "Instacart",
+  "Zoom", "Cisco", "Asana", "Brex", "Indeed", "Ebay", "Samsung", "Verily",
+  "Okta", "Nextdoor", "Glean", "Canva", "JPMC", "HubSpot", "VMware", "Zillow",
+  "Nuro", "Cruise", "Box", "Airtable", "Hulu", "Autodesk", "Intuit", "Docusign",
+  "Voleon", "Twilio", "Workday", "Affirm", "Tableau", "ServiceNow", "Expedia",
+  "Bolt", "Walmart", "GrubHub", "Samsara", "Elastic", "Yelp", "Arista Networks",
+  "Quora", "Etsy", "Postmates", "Nutanix", "Retool", "Qualtrics", "Redfin",
+  "Carvana", "Flexport", "Kayak", "Peloton", "Addepar", "Wish", "Tanium", "Yext"
+]
