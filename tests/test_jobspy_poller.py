@@ -45,6 +45,53 @@ class TestCompanyMatches(unittest.TestCase):
         self.assertFalse(jp.company_matches("Meta", "ByteDance"))
 
 
+class TestUncoveredCompanies(unittest.TestCase):
+    def setUp(self):
+        self.tmpdir = tempfile.mkdtemp()
+        self.companies_path = os.path.join(self.tmpdir, "companies.json")
+        self.classified_path = os.path.join(self.tmpdir, "companies_classified.json")
+        self._orig_companies_path = jp.COMPANIES_PATH
+        self._orig_classified_path = jp.CLASSIFIED_PATH
+        jp.COMPANIES_PATH = self.companies_path
+        jp.CLASSIFIED_PATH = self.classified_path
+
+    def tearDown(self):
+        jp.COMPANIES_PATH = self._orig_companies_path
+        jp.CLASSIFIED_PATH = self._orig_classified_path
+
+    def _write(self, companies, classified):
+        import json
+        with open(self.companies_path, "w") as f:
+            json.dump(companies, f)
+        with open(self.classified_path, "w") as f:
+            json.dump(classified, f)
+
+    def test_covered_company_excluded(self):
+        self._write(
+            ["Acme", "Globex"],
+            {"greenhouse:acme": {"company": "Acme", "ats": "greenhouse", "slug": "acme"}},
+        )
+        self.assertEqual(jp.uncovered_companies(), ["Globex"])
+
+    def test_no_coverage_returns_everything(self):
+        self._write(["Acme", "Globex"], {})
+        self.assertEqual(jp.uncovered_companies(), ["Acme", "Globex"])
+
+    def test_full_coverage_returns_nothing(self):
+        self._write(
+            ["Acme"],
+            {"greenhouse:acme": {"company": "Acme", "ats": "greenhouse", "slug": "acme"}},
+        )
+        self.assertEqual(jp.uncovered_companies(), [])
+
+    def test_preserves_original_order(self):
+        self._write(
+            ["Zeta", "Acme", "Globex"],
+            {"greenhouse:acme": {"company": "Acme", "ats": "greenhouse", "slug": "acme"}},
+        )
+        self.assertEqual(jp.uncovered_companies(), ["Zeta", "Globex"])
+
+
 class TestCleanDate(unittest.TestCase):
     def test_real_date_passes_through(self):
         d = date_days_ago(RECENT_DAYS)
@@ -65,13 +112,18 @@ class TestCollectMatchesEndToEnd(unittest.TestCase):
         self.tmpdir = tempfile.mkdtemp()
         self.seen_path = os.path.join(self.tmpdir, "seen_jobspy.json")
         self.companies_path = os.path.join(self.tmpdir, "companies.json")
+        self.classified_path = os.path.join(self.tmpdir, "companies_classified.json")
         with open(self.companies_path, "w") as f:
             f.write('["Acme"]')
+        with open(self.classified_path, "w") as f:
+            f.write('{}')  # nothing Tier-1-covered -> Acme stays in scope
 
         self._orig_seen_path = jp.SEEN_PATH
         self._orig_companies_path = jp.COMPANIES_PATH
+        self._orig_classified_path = jp.CLASSIFIED_PATH
         jp.SEEN_PATH = self.seen_path
         jp.COMPANIES_PATH = self.companies_path
+        jp.CLASSIFIED_PATH = self.classified_path
 
         self._sleep_patcher = patch("jobspy_poller.time.sleep")
         self._sleep_patcher.start()
@@ -79,6 +131,7 @@ class TestCollectMatchesEndToEnd(unittest.TestCase):
     def tearDown(self):
         jp.SEEN_PATH = self._orig_seen_path
         jp.COMPANIES_PATH = self._orig_companies_path
+        jp.CLASSIFIED_PATH = self._orig_classified_path
         self._sleep_patcher.stop()
 
     @patch("jobspy_poller.scrape_jobs")

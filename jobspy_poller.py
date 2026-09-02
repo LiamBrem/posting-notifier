@@ -1,10 +1,13 @@
 """
-Tier 3: broad market scan via JobSpy (Indeed + LinkedIn), run across ALL
-141 target companies for redundancy — not just the 66 Tier 1 can't reach
-directly. Tier 1 (direct ATS polling) and the backup tier (curated GitHub
-repos) are both scoped to a company's actual job board, so if either has a
-bug, an API change, or simply hasn't run yet, this tier is an independent
-third path to the same posting via Indeed/LinkedIn's own search.
+Tier 3: broad market scan via JobSpy (Indeed + LinkedIn), scoped to just
+the companies Tier 1 can't reach directly (custom/JS-rendered career
+sites with no guessable public API — see companies_classified.json for
+what IS covered). Previously this ran across all 141 companies for
+redundancy, but that made every run scan the full list — cut back to just
+the uncovered subset, both to shrink runtime (a full 141-company scan hit
+GitHub Actions' patience) and because the backup-repo tier (Tier 2)
+already provides redundancy for the covered companies without needing a
+second broad scraping pass on top of it.
 
 This is the least precise tier: JobSpy returns whatever the job board's own
 search ranks as relevant for "{company} software engineer", so — unlike
@@ -13,11 +16,10 @@ new-grad lists — it needs the full new-grad + SWE + US-location filter
 from filters.py to avoid spam, and a company-name match to drop stray
 results that leak in from unrelated companies.
 
-It's redundant with the other two tiers by design, but unlike the earlier
-version of this script, that no longer means duplicate pings: matches are
-handed to dedup.py, which groups by role and checks the shared cross-tier
-notified registry before sending — so if Tier 1 already notified for a
-role, JobSpy finding "the same" role again here stays silent.
+Matches are handed to dedup.py, which groups by role and checks the
+shared cross-tier notified registry before sending — so if the backup
+tier already notified for a role on one of these companies, JobSpy
+finding "the same" role again here stays silent.
 
 Run manually:
     NTFY_TOPIC=your-secret-topic python3 jobspy_poller.py
@@ -36,6 +38,7 @@ import filters
 from company_match import ALIASES, company_matches
 
 COMPANIES_PATH = "companies.json"
+CLASSIFIED_PATH = "companies_classified.json"
 SEEN_PATH = "state/seen_jobspy.json"
 
 # Google jobs was unreliable/blocked in testing (silent 0 results); Indeed
@@ -75,9 +78,19 @@ def search_terms_for(company: str) -> list[str]:
     return [f"{alias} software engineer" for alias in ALIASES.get(company, [company])]
 
 
+def uncovered_companies() -> list[str]:
+    """Companies in companies.json with no Tier-1 (direct ATS) connector —
+    computed fresh each run against companies_classified.json, so this
+    stays in sync automatically if classify.py ever picks up more."""
+    all_companies = load_json(COMPANIES_PATH, [])
+    classified = load_json(CLASSIFIED_PATH, {})
+    covered = {e["company"] for e in classified.values()}
+    return [c for c in all_companies if c not in covered]
+
+
 def collect_matches() -> list[dict]:
-    companies = load_json(COMPANIES_PATH, [])
-    print(f"Scanning {len(companies)} companies via JobSpy (Indeed + LinkedIn)...")
+    companies = uncovered_companies()
+    print(f"Scanning {len(companies)} Tier-1-uncovered companies via JobSpy (Indeed + LinkedIn)...")
 
     bootstrap = not os.path.exists(SEEN_PATH)
     seen = load_json(SEEN_PATH, {})

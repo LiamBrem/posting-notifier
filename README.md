@@ -29,9 +29,14 @@ no daily-batch delay from aggregator repos/sites in the loop.
   `state/seen_backup.json` → notify.
 - `.github/workflows/poll_backup.yml` — runs `backup_poller.py` hourly.
 - `jobspy_poller.py` — Tier 3: scans [JobSpy](https://github.com/speedyapply/JobSpy)
-  (Indeed + LinkedIn) for every company in `companies.json`, filters, diffs
-  against `state/seen_jobspy.json`, hands matches to `dedup.py`.
-- `.github/workflows/poll_jobspy.yml` — runs `jobspy_poller.py` hourly.
+  (Indeed + LinkedIn) for the companies Tier 1 can't reach directly,
+  filters, diffs against `state/seen_jobspy.json`, hands matches to
+  `dedup.py`.
+- `.github/workflows/poll_jobspy.yml` — runs `jobspy_poller.py` every 2 hours.
+- `company_match.py` — shared company-name matching (with an `ALIASES`
+  table for name mismatches like ByteDance/TikTok), used by both
+  `jobspy_poller.py` and `backup_poller.py` to keep notifications scoped
+  to companies actually in `companies.json`.
 - `dedup.py` — the cross-tier notification gate all three pollers funnel
   their matches through (see below).
 - `bootstrap_dedup.py` — one-time seeding script for `state/notified.json`.
@@ -52,16 +57,28 @@ track new-grad SWE postings broadly:
 Both repos update themselves roughly daily, so this tier runs hourly —
 polling faster wouldn't surface anything sooner.
 
+**Company filter.** SimplifyJobs and speedyapply both track hundreds of
+companies, way beyond `companies.json` — every row is checked against
+your target list via `company_match.py` before anything else, so a
+company only notifies here if it's actually one you're tracking. (This
+was missing in an earlier version and caused a real incident: a single
+run notified on ~38 postings, most from companies never on the list —
+Booz Allen, Raytheon, Northrop Grumman, PepsiCo, and others. Fixed, with
+regression tests in `tests/test_backup_poller.py` and
+`tests/test_company_match.py`.)
+
 **Backup, not a duplicate feed.** Before notifying on a row from either
-repo, `backup_poller.py` checks whether it's something Tier 1 already
-knows about: most rows' apply links point straight at a Greenhouse/Lever/
-Ashby/SmartRecruiters URL (or a custom domain that embeds one via
-`?gh_jid=`), and if that job's id is already in Tier 1's `state/seen.json`,
-it's skipped — Tier 1 already caught (or will catch, same cycle) that one
-directly and faster. What's left after that check is genuinely new
-information: either a company outside the 75 (Google, Amazon, Rivian,
-TikTok, etc. all show up this way), or — less commonly — a posting on one
-of the 75 that slipped through Tier 1's filter wording or an API hiccup.
+repo, `backup_poller.py` also checks whether it's something Tier 1
+already knows about: most rows' apply links point straight at a
+Greenhouse/Lever/Ashby/SmartRecruiters URL (or a custom domain that
+embeds one via `?gh_jid=`), and if that job's id is already in Tier 1's
+`state/seen.json`, it's skipped — Tier 1 already caught (or will catch,
+same cycle) that one directly and faster. What's left after both checks
+is genuinely new information: either a company on your list outside the
+75 Tier 1 covers directly (Amazon, Google, etc., for the companies that
+also happen to show up in these repos), or — less commonly — a posting on
+one of the 75 that slipped through Tier 1's filter wording or an API
+hiccup.
 
 Rows from these repos skip the `NEW_GRAD_RE`/`SWE_RE` keyword filters in
 `filters.py` (raw ATS titles like "Software Engineer 1" often don't
@@ -74,25 +91,22 @@ Run it the same way as the main poller:
 NTFY_TOPIC=your-topic-here python3 backup_poller.py
 ```
 
-## Tier 3: JobSpy (redundancy, all 141 companies)
+## Tier 3: JobSpy (Tier-1-uncovered companies only)
 
 `jobspy_poller.py` runs [JobSpy](https://github.com/speedyapply/JobSpy)
 (the same scraping library speedyapply's own bots are built on) against
-Indeed and LinkedIn for **every** company in `companies.json`, not just
-the ones Tier 1 can't reach directly. The point isn't coverage — Tier 1
-and the backup tier already cover that — it's redundancy: Tier 1 depends
-on a company's ATS API staying up and its slug staying correct, and the
-backup tier depends on two community repos staying maintained. JobSpy is
-a structurally independent third path to the same postings, via a
-completely different data source (job-board search, not the employer's
-own listing), so if either of the other two tiers silently breaks, this
-one still has a shot at catching the posting.
+Indeed and LinkedIn, scoped to just the companies Tier 1 can't reach
+directly — `uncovered_companies()` computes this fresh each run as
+`companies.json` minus whatever `companies_classified.json` covers, so it
+stays in sync automatically if `classify.py` ever picks up more coverage.
 
-Because it's redundant by design, **expect occasional duplicate
-notifications** for the same posting — a job matched by more than one
-tier isn't a bug, it's the redundancy working. Notifications are tagged
-with which tier/site caught them (e.g. `Anduril [jobspy/indeed]`) so you
-can tell.
+This used to run across all 141 companies for redundancy, but a full scan
+took ~20 minutes (close to GitHub Actions' patience) for a benefit Tier 2
+already provides on the covered companies without a second scraping pass.
+Runs every 2 hours now rather than hourly, since it's a coverage gap-filler
+rather than a speed play — for these companies, Tier 2's backup repos are
+the faster path anyway. Notifications are tagged with which tier/site
+caught them (e.g. `Anduril [jobspy/indeed]`) so you can tell.
 
 This is the least precise tier: unlike Tier 1 (the company's full,
 exhaustive listing) or the backup repos (pre-curated as new-grad), JobSpy
@@ -128,10 +142,10 @@ NTFY_TOPIC=your-topic-here python3 jobspy_poller.py
 
 ## Cross-tier deduplication
 
-Running 3 tiers on overlapping ground (on purpose, for redundancy) would
-mean getting pinged more than once for the same real posting — once per
-location it's listed at, and once per tier that independently finds it.
-`dedup.py` is what keeps that from happening:
+Tier 2 and Tier 3 both cover the 66 Tier-1-uncovered companies, so there's
+still real overlap between tiers even after scoping JobSpy down — plus a
+role posted at multiple locations would otherwise ping once per location.
+`dedup.py` is what keeps either from turning into repeat notifications:
 
 - Each poller does its own fetch → per-source "is this id new" check →
   content/US/recency filtering, exactly as before, and ends up with a
@@ -194,7 +208,7 @@ connector for it.
    python3 classify.py          # only needed once, or to refresh coverage
    NTFY_TOPIC=your-topic-here python3 poller.py
    NTFY_TOPIC=your-topic-here python3 backup_poller.py
-   NTFY_TOPIC=your-topic-here python3 jobspy_poller.py   # slow — scans all 141 companies
+   NTFY_TOPIC=your-topic-here python3 jobspy_poller.py   # scans ~66 Tier-1-uncovered companies
    ```
 
 3. **Push to GitHub** and add the topic as a repo secret so Actions can use

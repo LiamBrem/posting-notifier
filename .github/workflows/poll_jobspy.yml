@@ -2,7 +2,7 @@ name: Poll JobSpy (Indeed + LinkedIn)
 
 on:
   schedule:
-    - cron: "15 * * * *"
+    - cron: "15 */2 * * *"
   workflow_dispatch: {}
 
 permissions:
