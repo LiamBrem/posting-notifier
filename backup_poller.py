@@ -5,15 +5,23 @@ anything Tier 1 (direct ATS polling, poller.py) hasn't already caught to
 dedup.py, which groups by role and checks the cross-tier notified
 registry before sending.
 
+Company filter: SimplifyJobs and speedyapply track hundreds of companies,
+not just the ones in companies.json — without filtering, this tier fires
+for anything in their tables (Booz Allen, Raytheon, PepsiCo, ...). Every
+row is checked against companies.json via company_match.py before
+anything else, same matching logic (and same ALIASES table) jobspy_poller
+uses, so a company only notifies here if it's actually one you're
+tracking.
+
 Cross-referencing against Tier 1: if a row's apply link points to a
 Greenhouse/Lever/Ashby/SmartRecruiters URL whose job id is already in
 state/seen.json (written by poller.py), it's something Tier 1 already
 knows about — skip it here to avoid a duplicate ping. This also means: if
-this repo has a job Tier 1 doesn't cover (a company outside our 75, or one
-Tier 1 hasn't polled yet), it fires here as a genuine catch. (This is on
-top of, not instead of, dedup.py's own company+title cross-tier check —
-this one is precise/id-based when the URL is recognizable, dedup.py's is
-the fuzzy fallback that also catches JobSpy overlap.)
+this repo has a job on one of our 66 Tier-1-can't-reach-directly
+companies, it fires here as a genuine catch. (This is on top of, not
+instead of, dedup.py's own company+title cross-tier check — this one is
+precise/id-based when the URL is recognizable, dedup.py's is the fuzzy
+fallback that also catches JobSpy overlap.)
 
 Meant to run on a slower cadence than Tier 1 (hourly is plenty — both
 source repos update themselves roughly daily anyway, so polling faster
@@ -28,11 +36,13 @@ import sys
 
 import dedup
 import filters
+from company_match import matches_any_target
 from sources import BACKUP_SOURCES
 from sources.common import extract_ats_ref
 
 TIER1_SEEN_PATH = "state/seen.json"
 BACKUP_SEEN_PATH = "state/seen_backup.json"
+COMPANIES_PATH = "companies.json"
 
 
 def load_json(path, default):
@@ -67,6 +77,7 @@ def already_caught_by_tier1(job: dict, tier1_index: dict) -> bool:
 
 
 def collect_matches() -> list[dict]:
+    target_companies = load_json(COMPANIES_PATH, [])
     tier1_seen = load_json(TIER1_SEEN_PATH, {})
     tier1_index = build_tier1_id_index(tier1_seen)
 
@@ -90,6 +101,14 @@ def collect_matches() -> list[dict]:
             current_ids.add(job["id"])
             if job["id"] in seen_ids or bootstrap:
                 continue
+            matched_company = matches_any_target(job["company"], target_companies)
+            if matched_company is None:
+                continue
+            # normalize to companies.json's canonical name, not whatever
+            # display name the source used (e.g. "TikTok" -> "ByteDance"),
+            # so dedup.py's cross-tier (company, title) key lines up with
+            # what Tier 1/JobSpy would report for the same company
+            job["company"] = matched_company
             # backup sources are already scoped to new-grad SWE roles by the
             # repo itself, so we only re-apply the US-location + exclude
             # filters here, not the new-grad/SWE keyword regexes (raw ATS

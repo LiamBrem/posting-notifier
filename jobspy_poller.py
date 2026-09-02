@@ -33,6 +33,7 @@ from jobspy import scrape_jobs
 
 import dedup
 import filters
+from company_match import ALIASES, company_matches
 
 COMPANIES_PATH = "companies.json"
 SEEN_PATH = "state/seen_jobspy.json"
@@ -44,18 +45,6 @@ RESULTS_PER_COMPANY = 15
 HOURS_OLD = 168  # 1 week — state-based dedup handles genuine "new", this
                  # just bounds how much each call returns
 SLEEP_BETWEEN_CALLS = (1.5, 3.5)  # seconds of jitter between scrape calls
-
-# Company names Indeed/LinkedIn listings actually use, when they differ
-# from companies.json. Add to this as false-negatives turn up.
-ALIASES = {
-    "ByteDance": ["TikTok", "ByteDance"],
-    "X": ["X", "Twitter"],
-    "Meta": ["Meta", "Facebook"],
-    "D.E. Shaw": ["D.E. Shaw", "DE Shaw"],
-    "Hudson River Trading": ["Hudson River Trading", "HRT"],
-    "JPMC": ["JPMorgan Chase", "JPMorganChase", "JPMC"],
-    "IMC Trading": ["IMC Trading", "IMC"],
-}
 
 
 def load_json(path, default):
@@ -80,17 +69,6 @@ def clean_date(value):
     normalize the "missing" cases to None so filters.is_recent() fails open
     on them instead of choking on a pandas NaT."""
     return None if pd.isna(value) else value
-
-
-def company_matches(company_field, target: str) -> bool:
-    if not isinstance(company_field, str) or not company_field.strip():
-        return False
-    field = company_field.strip().lower()
-    for alias in ALIASES.get(target, [target]):
-        alias = alias.lower()
-        if alias in field or field in alias:
-            return True
-    return False
 
 
 def search_terms_for(company: str) -> list[str]:
