@@ -9,6 +9,7 @@ import unittest
 from unittest.mock import patch
 import tempfile
 import os
+import json
 
 import dedup
 
@@ -57,13 +58,17 @@ class TestGroupAndNotify(unittest.TestCase):
     def setUp(self):
         self.tmpdir = tempfile.mkdtemp()
         self.notified_path = os.path.join(self.tmpdir, "notified.json")
+        self.delta_path = os.path.join(self.tmpdir, ".notified_delta.json")
         self._orig_path = dedup.NOTIFIED_PATH
+        self._orig_delta_path = dedup.NOTIFIED_DELTA_PATH
         dedup.NOTIFIED_PATH = self.notified_path
+        dedup.NOTIFIED_DELTA_PATH = self.delta_path
         self.send_patcher = patch("dedup.notify.send")
         self.mock_send = self.send_patcher.start()
 
     def tearDown(self):
         dedup.NOTIFIED_PATH = self._orig_path
+        dedup.NOTIFIED_DELTA_PATH = self._orig_delta_path
         self.send_patcher.stop()
 
     def test_multiple_locations_collapse_to_one_notification(self):
@@ -144,6 +149,41 @@ class TestGroupAndNotify(unittest.TestCase):
         dedup.group_and_notify(jobs)
         (payload,), _ = self.mock_send.call_args
         self.assertIn("+3 more", payload["location"])
+
+    def test_delta_file_contains_only_this_runs_additions(self):
+        # seed the registry with a role from a "previous run"
+        job_old = [{"company": "Acme", "title": "Old Role",
+                    "location": "NY", "url": "https://acme.com/old"}]
+        dedup.group_and_notify(job_old)
+
+        job_new = [{"company": "Acme", "title": "New Role",
+                    "location": "NY", "url": "https://acme.com/new"}]
+        dedup.group_and_notify(job_new)
+
+        with open(self.delta_path) as f:
+            delta = json.load(f)
+        self.assertEqual(len(delta), 1)
+        self.assertIn(dedup.canonical_key("Acme", "New Role"), delta)
+        self.assertNotIn(dedup.canonical_key("Acme", "Old Role"), delta)
+
+    def test_delta_empty_when_nothing_new(self):
+        job = [{"company": "Acme", "title": "Software Engineer, New Grad",
+                "location": "NY", "url": "https://acme.com/1"}]
+        dedup.group_and_notify(job)  # first call: real addition
+        dedup.group_and_notify(job)  # second call: already notified
+
+        with open(self.delta_path) as f:
+            delta = json.load(f)
+        self.assertEqual(delta, {})
+
+    def test_bootstrap_mode_populates_delta_too(self):
+        job = [{"company": "Acme", "title": "Software Engineer, New Grad",
+                "location": "NY", "url": "https://acme.com/1"}]
+        dedup.group_and_notify(job, bootstrap=True)
+
+        with open(self.delta_path) as f:
+            delta = json.load(f)
+        self.assertIn(dedup.canonical_key("Acme", "Software Engineer, New Grad"), delta)
 
 
 if __name__ == "__main__":

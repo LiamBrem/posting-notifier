@@ -24,6 +24,11 @@ from datetime import datetime, timezone
 import notify
 
 NOTIFIED_PATH = "state/notified.json"
+# Keys this run added to the registry, written alongside the full file so
+# sync_state.py can merge just the delta against a freshly-fetched remote
+# copy instead of the whole (possibly stale) local file — see sync_state.py
+# for why that distinction matters.
+NOTIFIED_DELTA_PATH = "state/.notified_delta.json"
 MAX_LOCATIONS_SHOWN = 5
 
 
@@ -92,12 +97,14 @@ def group_and_notify(jobs: list[dict], bootstrap: bool = False) -> int:
     notified = load_notified()
     now = datetime.now(timezone.utc).isoformat()
     sent = 0
+    added = {}  # this run's additions only — see NOTIFIED_DELTA_PATH
 
     for key, g in groups.items():
         if key in notified:
             continue
         if bootstrap:
             notified[key] = now
+            added[key] = now
             continue
 
         locations = g["locations"]
@@ -117,7 +124,10 @@ def group_and_notify(jobs: list[dict], bootstrap: bool = False) -> int:
             "url": g["urls"][0] if g["urls"] else "",
         })
         notified[key] = now
+        added[key] = now
         sent += 1
 
     save_notified(notified)
+    with open(NOTIFIED_DELTA_PATH, "w") as f:
+        json.dump(added, f, indent=2, sort_keys=True)
     return sent

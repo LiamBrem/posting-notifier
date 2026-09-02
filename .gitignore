@@ -2,3 +2,7 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+
+# per-run artifact written by dedup.py, consumed by sync_state.py within
+# the same job — never meant to persist across runs or be committed
+state/.notified_delta.json

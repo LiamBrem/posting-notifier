@@ -1,7 +1,7 @@
 # posting-notifier
 
 Polls target companies' ATS APIs directly (Greenhouse, Lever, Ashby,
-SmartRecruiters) every 10 minutes for new-grad US SWE postings and pushes
+SmartRecruiters) every 30 minutes for new-grad US SWE postings and pushes
 an [ntfy.sh](https://ntfy.sh) notification the moment a new one appears —
 no daily-batch delay from aggregator repos/sites in the loop.
 
@@ -21,7 +21,7 @@ no daily-batch delay from aggregator repos/sites in the loop.
 - `poller.py` — the main loop: fetch → filter → diff against
   `state/seen.json` → notify on anything new.
 - `notify.py` — sends the ntfy.sh push.
-- `.github/workflows/poll.yml` — runs `poller.py` on a 10-minute cron via
+- `.github/workflows/poll.yml` — runs `poller.py` on a 30-minute cron via
   GitHub Actions and commits the updated `state/seen.json` back.
 - `sources/` — parsers for the two backup GitHub repos (see below).
 - `backup_poller.py` — the backup-tier loop: fetch both repos → filter →
@@ -40,6 +40,9 @@ no daily-batch delay from aggregator repos/sites in the loop.
 - `dedup.py` — the cross-tier notification gate all three pollers funnel
   their matches through (see below).
 - `bootstrap_dedup.py` — one-time seeding script for `state/notified.json`.
+- `sync_state.py` — commits and pushes each workflow's updated state files;
+  every `poll_*.yml` workflow calls this instead of raw git commands (see
+  Cross-tier deduplication below for why).
 - `tests/` — offline unit tests for every tier (see Testing below).
 
 ## Backup tier (GitHub repos)
@@ -173,6 +176,21 @@ notification storm. Run `python3 bootstrap_dedup.py` once to seed
 tiers, without sending anything — from then on, normal poller runs only
 notify on genuinely new postings.
 
+**Committing `state/notified.json` safely.** All three workflows write to
+this one shared file on independent schedules, so two runs can genuinely
+race — and JobSpy's run can take 15-20+ minutes, giving a wide window for
+the other two (which take under a minute) to push in the meantime. A
+plain `git pull --rebase` handles a clean fast-forward fine but can hit a
+real textual conflict on this frequently-reformatted JSON file (this
+happened in practice and broke a run). `sync_state.py` avoids it
+entirely: `dedup.py` writes a `state/.notified_delta.json` alongside the
+full file, listing only *this run's* newly-added entries, and
+`sync_state.py` merges just that delta onto a freshly-fetched copy of the
+remote file before committing — never the possibly-stale rest of the
+working tree. That also means a long-running job can't accidentally
+resurrect an entry someone deliberately removed on the remote while it
+was mid-flight (a plain whole-file union would have).
+
 ## Coverage
 
 Of the 141 target companies, **75 were auto-matched** to a standard ATS
@@ -220,7 +238,7 @@ connector for it.
    ```
 
    Since the repo will contain your target company list, keep it private —
-   Actions minutes aren't unlimited on a private repo, but at a 10-minute
+   Actions minutes aren't unlimited on a private repo, but at a 30-minute
    cadence this is well within the free tier.
 
 4. Confirm all three workflows ran (Actions tab) and that `state/seen.json`,
@@ -230,9 +248,18 @@ connector for it.
 ## Tuning
 
 - **Cadence:** edit the cron in `.github/workflows/poll.yml`. GitHub
-  Actions doesn't guarantee on-time firing under load — if 10 minutes
-  isn't tight enough once this is live, move to Cloudflare Workers Cron
-  Triggers (free, more punctual) or a small VPS with real cron.
+  Actions' `schedule:` trigger is genuinely unreliable in practice, not
+  just "occasionally a few minutes late" — in testing, a `*/10 * * * *`
+  cron fired once in 3.5 hours. Tighter intervals seem to make it worse
+  (plausibly GitHub coalescing/dropping a firing if the prior one hasn't
+  finished), which is why Tier 1 runs every 30 min rather than 10. If
+  even that proves unreliable, the real fix is bypassing `schedule:`
+  entirely: have a free external cron service (e.g. cron-job.org) POST to
+  GitHub's `repository_dispatch` API on schedule instead — API-triggered
+  events don't get deprioritized the way `schedule:` evaluation does.
+  That needs a `repository_dispatch:` trigger added to each workflow and
+  a GitHub token (Actions-only permission, scoped to this repo) stored on
+  the external service — not currently set up.
 - **Filter too loose/tight:** edit `NEW_GRAD_RE`, `SWE_RE`, `EXCLUDE_RE` in
   `filters.py`. Run the scan-only check below to see what currently
   matches without touching `state/seen.json`:
