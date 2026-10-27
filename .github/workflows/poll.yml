@@ -1,33 +1,43 @@
-name: Poll job boards
+name: Poll new-grad repos
 
+# Triggered every 5 minutes by an external cron calling the
+# workflow_dispatch API (see README). GitHub's own schedule only actually
+# fires every few hours for this repo, so it's kept just as a fallback.
 on:
+  workflow_dispatch: {}
   schedule:
     - cron: "*/30 * * * *"
-  workflow_dispatch: {}
 
 permissions:
   contents: write
 
 concurrency:
-  group: poll-job-boards
+  group: poll-new-grad-repos
   cancel-in-progress: false
 
 jobs:
   poll:
     runs-on: ubuntu-latest
+    timeout-minutes: 3
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: pip
 
       - run: pip install -r requirements.txt
 
       - name: Run poller
+        id: poll
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 poller.py
 
+      # Commit even when the poller exits non-zero (a source down or a
+      # failed send) so the sources that did succeed keep their progress.
       - name: Commit updated state
-        run: python3 sync_state.py "Update seen postings [skip ci]" state/seen.json state/notified.json
+        if: always() && steps.poll.outcome != 'skipped'
+        run: python3 sync_state.py "Update seen postings [skip ci]" state/seen.json state/notified.json state/heads.json

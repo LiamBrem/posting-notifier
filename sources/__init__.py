@@ -1,6 +1,9 @@
-from . import simplify, speedyapply_backup
+from . import applyguy, simplify, speedyapply, vansh
 
-BACKUP_SOURCES = {
-    "simplify": simplify.fetch,
-    "speedyapply_new_grad": speedyapply_backup.fetch,
+# Each module has REPO, BRANCH, PATH and parse(text) -> rows.
+SOURCES = {
+    "simplify": simplify,
+    "speedyapply": speedyapply,
+    "vansh": vansh,
+    "applyguy": applyguy,
 }

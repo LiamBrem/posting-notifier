@@ -1,56 +1,53 @@
-"""Shared helpers for the GitHub-repo "backup" sources."""
+"""Shared parsing helpers for the GitHub-repo job lists."""
+import html as html_module
+import os
 import re
 from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode
 
-TRACKING_PARAMS = {"utm_source", "utm_medium", "utm_campaign", "ref"}
+import requests
+
+TIMEOUT = 20
+TRACKING_PARAMS = {"utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content", "ref", "source"}
+
+
+def latest_sha(repo: str, branch: str, etag: str | None = None) -> tuple[str | None, str | None]:
+    """Head commit of repo@branch as (sha, etag); sha is None when unchanged
+    since etag. A 304 doesn't count against GitHub's rate limit when the
+    request is authenticated, so with GITHUB_TOKEN set this is cheap to
+    call every minute (unauthenticated is limited to 60 calls/hour)."""
+    headers = {"Accept": "application/vnd.github.sha"}
+    if etag:
+        headers["If-None-Match"] = etag
+    if os.environ.get("GITHUB_TOKEN"):
+        headers["Authorization"] = f"Bearer {os.environ['GITHUB_TOKEN']}"
+    r = requests.get(f"https://api.github.com/repos/{repo}/commits/{branch}", headers=headers, timeout=TIMEOUT)
+    if r.status_code == 304:
+        return None, etag
+    r.raise_for_status()
+    return r.text.strip(), r.headers.get("ETag")
+
+
+def get_file(repo: str, ref: str, path: str) -> str:
+    # Pinning to a commit SHA sidesteps raw.githubusercontent.com's
+    # 5-minute cache of branch URLs.
+    r = requests.get(f"https://raw.githubusercontent.com/{repo}/{ref}/{path}", timeout=TIMEOUT)
+    r.raise_for_status()
+    return r.text
 
 
 def clean_url(url: str) -> str:
     """Strip tracking query params so the same job doesn't get a new URL
-    (and therefore a duplicate id) every time a source re-links it."""
+    (and therefore a new id) every time a source re-links it."""
     parsed = urlparse(url)
     q = [(k, v) for k, v in parse_qsl(parsed.query) if k not in TRACKING_PARAMS]
     return urlunparse(parsed._replace(query=urlencode(q)))
 
 
-# Matches the public job-posting URL formats these repos link to, in the
-# same 4 platforms Tier 1 polls directly. The captured id is the same id
-# Tier 1's connectors store in state/seen.json, which is what makes
-# cross-referencing against Tier-1 state possible.
-ATS_URL_PATTERNS = [
-    ("greenhouse", re.compile(r"(?:job-boards|boards)\.greenhouse\.io/([a-zA-Z0-9_-]+)/jobs/(\d+)")),
-    ("lever", re.compile(r"jobs\.lever\.co/([a-zA-Z0-9_-]+)/([0-9a-fA-F-]{36})")),
-    ("ashby", re.compile(r"jobs\.ashbyhq\.com/([a-zA-Z0-9_-]+)/([0-9a-fA-F-]{36})")),
-    ("smartrecruiters", re.compile(r"jobs\.smartrecruiters\.com/([a-zA-Z0-9_-]+)/(\d+)")),
-]
-
-
-GH_JID_RE = re.compile(r"[?&]gh_jid=(\d+)")
-
-
-def extract_ats_ref(url: str):
-    """Return (ats, job_id) if url matches a known ATS's public posting URL
-    format, else None. slug is intentionally not returned/matched here —
-    the (ats, job_id) pair alone is enough to check state/seen.json,
-    since Tier 1 stores ids per ats:slug key but ids are unique per ats."""
-    for ats, pattern in ATS_URL_PATTERNS:
-        m = pattern.search(url)
-        if m:
-            return ats, m.group(2)
-    # Companies on custom domains often embed a Greenhouse posting via a
-    # ?gh_jid=<id> query param on their own careers page (Stripe, Optiver,
-    # Roblox, Databricks, Samsara, ...) rather than linking straight to
-    # greenhouse.io — that id is still the same Greenhouse job id Tier 1's
-    # greenhouse connector stores, so it's just as good a cross-reference.
-    m = GH_JID_RE.search(url)
-    if m:
-        return "greenhouse", m.group(1)
-    return None
-
-
 def strip_tags(html_fragment: str) -> str:
-    import html as html_module
+    html_fragment = re.sub(r"</?br\s*/?>", "; ", html_fragment, flags=re.I)
     text = re.sub(r"<[^>]+>", "", html_fragment)
+    # markdown bold/links: **X**, [X](url)
+    text = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", text).replace("**", "")
     return html_module.unescape(text).strip()
 
 
@@ -59,18 +56,11 @@ def first_href(html_fragment: str) -> str:
     return m.group(1) if m else ""
 
 
-AGE_RE = re.compile(r"(\d+)\s*(d|mo|y)\b", re.I)
-_UNIT_DAYS = {"d": 1, "mo": 30, "y": 365}
+def pipe_cells(line: str) -> list[str]:
+    return [c.strip() for c in line.strip().strip("|").split("|")]
 
 
-def parse_age_days(text: str):
-    """Parses the repos' "Age" column ("0d", "12d", "1mo", ...) into a day
-    count. Returns None if it doesn't match a known format (fail-open —
-    callers should treat unknown age as recent, not stale)."""
-    if not text:
-        return None
-    m = AGE_RE.search(text.strip())
-    if not m:
-        return None
-    n, unit = int(m.group(1)), m.group(2).lower()
-    return n * _UNIT_DAYS[unit]
+def job(source: str, company: str, title: str, location: str, raw_url: str) -> dict:
+    url = clean_url(raw_url)
+    return {"id": url, "company": company, "title": title,
+            "location": location, "url": url, "source": source}
