@@ -28,6 +28,18 @@
       "https://jobs.lever.co/crosscountry-consulting/f294b6dd-b2dc-46c5-9139-9ba93163ba5c/apply"
     ]
   },
+  "databricks::data distributed engineer software systems": {
+    "company": "Databricks",
+    "notified_at": "2026-10-27T22:10:13.255968+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad 2027: Software Engineer, Distributed Data Systems",
+    "url": "https://go.vansh.nyc/WB?s=A",
+    "urls": [
+      "https://go.vansh.nyc/WB?s=A"
+    ]
+  },
   "idme::general program": {
     "company": "ID.me",
     "notified_at": "2026-10-27T17:15:13.485068+00:00",
@@ -112,6 +124,18 @@
     "url": "https://go.vansh.nyc/VA?s=A",
     "urls": [
       "https://go.vansh.nyc/VA?s=A"
+    ]
+  },
+  "servicenow::ai engineer ml software": {
+    "company": "ServiceNow",
+    "notified_at": "2026-10-27T22:10:13.255968+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad 2027: Software Engineer (AI/ML)",
+    "url": "https://go.vansh.nyc/WC?s=A",
+    "urls": [
+      "https://go.vansh.nyc/WC?s=A"
     ]
   }
 }
