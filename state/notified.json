@@ -23,6 +23,30 @@
       "https://amazon.jobs/en/jobs/10526808/software-dev-engineer-i-graviton-software-annapurna-labs"
     ]
   },
+  "apple::and design engineer physical place route soc": {
+    "company": "Apple",
+    "notified_at": "2026-10-27T22:40:15.170164+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "SoC Physical Design Engineer, Place and Route",
+    "url": "https://go.vansh.nyc/WL?s=A",
+    "urls": [
+      "https://go.vansh.nyc/WL?s=A"
+    ]
+  },
+  "att::ai analyst engineer native python software stack": {
+    "company": "AT&T",
+    "notified_at": "2026-10-27T22:40:15.170164+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "AI-Native Software Engineer Analyst - Full-Stack Python",
+    "url": "https://go.vansh.nyc/WI?s=A",
+    "urls": [
+      "https://go.vansh.nyc/WI?s=A"
+    ]
+  },
   "cisco::asic design engineer verification": {
     "company": "Cisco",
     "notified_at": "2026-10-27T19:15:22.883692+00:00",
@@ -62,6 +86,42 @@
     "url": "https://go.vansh.nyc/WB?s=A",
     "urls": [
       "https://go.vansh.nyc/WB?s=A"
+    ]
+  },
+  "emersonelectric::engineer software": {
+    "company": "Emerson Electric",
+    "notified_at": "2026-10-27T22:40:15.170164+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Software Engineer",
+    "url": "https://go.vansh.nyc/WK?s=A",
+    "urls": [
+      "https://go.vansh.nyc/WK?s=A"
+    ]
+  },
+  "gevernova::ai engineer": {
+    "company": "GE Vernova",
+    "notified_at": "2026-10-27T22:40:15.170164+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad: AI Engineer \ud83d\udec2",
+    "url": "https://go.vansh.nyc/WH?s=A",
+    "urls": [
+      "https://go.vansh.nyc/WH?s=A"
+    ]
+  },
+  "gevernova::data scientist": {
+    "company": "GE Vernova",
+    "notified_at": "2026-10-27T22:40:15.170164+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Data Scientist \ud83d\udec2",
+    "url": "https://go.vansh.nyc/WJ?s=A",
+    "urls": [
+      "https://go.vansh.nyc/WJ?s=A"
     ]
   },
   "idme::general program": {
