@@ -1,4 +1,28 @@
 {
+  "agiledefense::engineer software": {
+    "company": "Agile Defense",
+    "notified_at": "2026-10-27T22:35:10.442924+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer 1",
+    "url": "https://jobs.lever.co/agile-defense/0d603eca-2337-4122-8e53-07b22a4077f8/apply",
+    "urls": [
+      "https://jobs.lever.co/agile-defense/0d603eca-2337-4122-8e53-07b22a4077f8/apply"
+    ]
+  },
+  "amazon::annapurna developer engineer graviton labs software": {
+    "company": "\ud83d\udd25 Amazon",
+    "notified_at": "2026-10-27T22:35:10.442924+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Developer Engineer 1 - Graviton Software - Annapurna Labs",
+    "url": "https://amazon.jobs/en/jobs/10526808/software-dev-engineer-i-graviton-software-annapurna-labs",
+    "urls": [
+      "https://amazon.jobs/en/jobs/10526808/software-dev-engineer-i-graviton-software-annapurna-labs"
+    ]
+  },
   "cisco::asic design engineer verification": {
     "company": "Cisco",
     "notified_at": "2026-10-27T19:15:22.883692+00:00",
@@ -76,6 +100,18 @@
       "https://go.vansh.nyc/Wt?s=A"
     ]
   },
+  "meijer::ai engineer software": {
+    "company": "Meijer",
+    "notified_at": "2026-10-27T22:35:10.442924+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer 1, AI",
+    "url": "https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids-MI/Software-Engineer_R000692154",
+    "urls": [
+      "https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids-MI/Software-Engineer_R000692154"
+    ]
+  },
   "northropgrumman::associate engineer software": {
     "company": "Northrop Grumman",
     "notified_at": "2026-10-27T12:15:13.484866+00:00",
@@ -112,6 +148,30 @@
     "url": "https://go.vansh.nyc/Wq?s=A",
     "urls": [
       "https://go.vansh.nyc/Wq?s=A"
+    ]
+  },
+  "otterai::end engineer front software": {
+    "company": "Otter.ai",
+    "notified_at": "2026-10-27T22:35:10.442924+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer New Grad - Front-End",
+    "url": "https://otter.ai/careers?gh_jid=8016078003",
+    "urls": [
+      "https://otter.ai/careers?gh_jid=8016078003"
+    ]
+  },
+  "pacificnorthwestnationallaboratory::engineer software": {
+    "company": "Pacific Northwest National Laboratory",
+    "notified_at": "2026-10-27T22:35:10.442924+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer 1",
+    "url": "https://careers.pnnl.gov/jobs/12640?icims=1",
+    "urls": [
+      "https://careers.pnnl.gov/jobs/12640?icims=1"
     ]
   },
   "rtx::embedded engineer software": {
