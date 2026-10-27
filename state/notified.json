@@ -23,6 +23,18 @@
       "https://amazon.jobs/en/jobs/10526808/software-dev-engineer-i-graviton-software-annapurna-labs"
     ]
   },
+  "amentum::engineer junior software": {
+    "company": "Amentum",
+    "notified_at": "2026-10-27T23:05:10.430792+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Junior Software Engineer",
+    "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-CA-Vandenberg-AFB/Software-Engineer-Junior_R0173629",
+    "urls": [
+      "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-CA-Vandenberg-AFB/Software-Engineer-Junior_R0173629"
+    ]
+  },
   "apple::and design engineer physical place route soc": {
     "company": "Apple",
     "notified_at": "2026-10-27T22:40:15.170164+00:00",
@@ -80,12 +92,26 @@
     "company": "Databricks",
     "notified_at": "2026-10-27T22:10:13.255968+00:00",
     "sources": [
+      "SimplifyJobs/New-Grad-Positions",
       "vanshb03/New-Grad-2027"
     ],
     "title": "New Grad 2027: Software Engineer, Distributed Data Systems",
     "url": "https://go.vansh.nyc/WB?s=A",
     "urls": [
+      "https://boards.greenhouse.io/embed/job_app?token=6865704002",
       "https://go.vansh.nyc/WB?s=A"
+    ]
+  },
+  "databricks::engineer software": {
+    "company": "\ud83d\udd25 Databricks",
+    "notified_at": "2026-10-27T23:05:10.430792+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer New Grad",
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6865698002",
+    "urls": [
+      "https://boards.greenhouse.io/embed/job_app?token=6865698002"
     ]
   },
   "emersonelectric::engineer software": {
@@ -246,16 +272,54 @@
       "https://go.vansh.nyc/VA?s=A"
     ]
   },
+  "sambanova::compiler engineer": {
+    "company": "SambaNova Systems",
+    "notified_at": "2026-10-27T23:05:10.430792+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Compiler Engineer New Grad",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6224835004",
+    "urls": [
+      "https://sambanova.ai/sambanova-available-positions/?gh_jid=6224835004"
+    ]
+  },
+  "sambanova::engineer infrastructure ml": {
+    "company": "SambaNova Systems",
+    "notified_at": "2026-10-27T23:05:10.430792+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "ML Infrastructure Engineer New Grad",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004",
+    "urls": [
+      "https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004"
+    ]
+  },
   "servicenow::ai engineer ml software": {
     "company": "ServiceNow",
     "notified_at": "2026-10-27T22:10:13.255968+00:00",
     "sources": [
+      "SimplifyJobs/New-Grad-Positions",
       "vanshb03/New-Grad-2027"
     ],
     "title": "New Grad 2027: Software Engineer (AI/ML)",
     "url": "https://go.vansh.nyc/WC?s=A",
     "urls": [
-      "https://go.vansh.nyc/WC?s=A"
+      "https://go.vansh.nyc/WC?s=A",
+      "https://jobs.smartrecruiters.com/ServiceNow/744000157900224"
+    ]
+  },
+  "sierra::agent engineer software": {
+    "company": "Sierra",
+    "notified_at": "2026-10-27T23:05:10.430792+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer New Grad - Agent",
+    "url": "https://jobs.ashbyhq.com/sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db/application?embed=true",
+    "urls": [
+      "https://jobs.ashbyhq.com/sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db/application?embed=true"
     ]
   }
 }
