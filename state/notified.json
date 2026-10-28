@@ -133,6 +133,18 @@
       "https://go.vansh.nyc/WZ?s=A"
     ]
   },
+  "cisco::analyst data science": {
+    "company": "Cisco",
+    "notified_at": "2026-10-28T14:45:17.639975+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Data Science Analyst 1",
+    "url": "https://go.vansh.nyc/XA?s=A",
+    "urls": [
+      "https://go.vansh.nyc/XA?s=A"
+    ]
+  },
   "cisco::asic design engineer verification": {
     "company": "Cisco",
     "notified_at": "2026-10-27T19:15:22.883692+00:00",
