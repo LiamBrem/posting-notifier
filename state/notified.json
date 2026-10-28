@@ -150,6 +150,18 @@
       "https://go.vansh.nyc/WJ?s=A"
     ]
   },
+  "hyphenate::engineer software": {
+    "company": "Hyphenate",
+    "notified_at": "2026-10-28T01:35:13.129077+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer New Grad",
+    "url": "https://jobs.ashbyhq.com/hyphenate/67d0c7d0-fddb-4b8d-aed8-0647337a988e/application?embed=true",
+    "urls": [
+      "https://jobs.ashbyhq.com/hyphenate/67d0c7d0-fddb-4b8d-aed8-0647337a988e/application?embed=true"
+    ]
+  },
   "idme::general program": {
     "company": "ID.me",
     "notified_at": "2026-10-27T17:15:13.485068+00:00",
@@ -236,6 +248,18 @@
       "https://go.vansh.nyc/Wq?s=A"
     ]
   },
+  "oldmission::engineer software": {
+    "company": "Old Mission",
+    "notified_at": "2026-10-28T01:35:13.129077+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer New Grad",
+    "url": "https://jobs.ashbyhq.com/old-mission-capital/78e433a8-cd5f-404d-8f58-3fcb61e9837d/application?embed=true",
+    "urls": [
+      "https://jobs.ashbyhq.com/old-mission-capital/78e433a8-cd5f-404d-8f58-3fcb61e9837d/application?embed=true"
+    ]
+  },
   "otterai::end engineer front software": {
     "company": "Otter.ai",
     "notified_at": "2026-10-27T22:35:10.442924+00:00",
@@ -320,6 +344,18 @@
     "url": "https://jobs.ashbyhq.com/sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db/application?embed=true",
     "urls": [
       "https://jobs.ashbyhq.com/sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db/application?embed=true"
+    ]
+  },
+  "viggleai::3d ai creator engineer software stack tools": {
+    "company": "Viggle AI",
+    "notified_at": "2026-10-28T01:35:13.129077+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Full-Stack Software Engineer New Grad - AI & 3D Creator Tools",
+    "url": "https://jobs.ashbyhq.com/viggle/98352e43-0f84-4df8-9f17-88520fe8314a/application?embed=true",
+    "urls": [
+      "https://jobs.ashbyhq.com/viggle/98352e43-0f84-4df8-9f17-88520fe8314a/application?embed=true"
     ]
   }
 }
