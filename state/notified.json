@@ -258,6 +258,44 @@
       "https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids-MI/Software-Engineer_R000692154"
     ]
   },
+  "microsoft::ctj engineer poly software": {
+    "company": "Microsoft",
+    "notified_at": "2026-10-28T06:05:10.138324+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Software Engineer - CTJ - Poly",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557022487",
+    "urls": [
+      "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "https://apply.careers.microsoft.com/careers/job/1970393557022487"
+    ]
+  },
+  "microsoft::engineer software": {
+    "company": "Microsoft",
+    "notified_at": "2026-10-28T06:05:10.138324+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Software Engineer",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557039399",
+    "urls": [
+      "https://apply.careers.microsoft.com/careers/job/1970393557038974",
+      "https://apply.careers.microsoft.com/careers/job/1970393557039399"
+    ]
+  },
+  "microsoft::engineering ic2 software": {
+    "company": "Microsoft",
+    "notified_at": "2026-10-28T06:05:10.138324+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Software Engineering IC2",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557044842",
+    "urls": [
+      "https://apply.careers.microsoft.com/careers/job/1970393557044842"
+    ]
+  },
   "northropgrumman::associate engineer software": {
     "company": "Northrop Grumman",
     "notified_at": "2026-10-27T12:15:13.484866+00:00",
