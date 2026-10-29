@@ -322,6 +322,18 @@
       "https://boards.greenhouse.io/embed/job_app?token=6865698002"
     ]
   },
+  "draftkings::engineer software": {
+    "company": "DraftKings",
+    "notified_at": "2026-10-29T23:15:13.385097+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Software Engineer",
+    "url": "https://go.vansh.nyc/10e?s=A",
+    "urls": [
+      "https://go.vansh.nyc/10e?s=A"
+    ]
+  },
   "emersonelectric::engineer software": {
     "company": "Emerson Electric",
     "notified_at": "2026-10-27T22:40:15.170164+00:00",
@@ -674,6 +686,19 @@
       "https://apply.careers.microsoft.com/careers/job/1970393557044842"
     ]
   },
+  "morningstar::ai associate central engineer software tech": {
+    "company": "Morningstar",
+    "notified_at": "2026-10-29T23:15:13.385097+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Associate Software Engineer, Central Tech AI",
+    "url": "https://go.vansh.nyc/10c?s=A",
+    "urls": [
+      "https://go.vansh.nyc/10c?s=A",
+      "https://go.vansh.nyc/10f?s=A"
+    ]
+  },
   "neon::data distributed engineer software systems": {
     "company": "Neon",
     "notified_at": "2026-10-29T03:15:11.981535+00:00",
@@ -780,6 +805,18 @@
     "url": "https://go.vansh.nyc/Zv?s=A",
     "urls": [
       "https://go.vansh.nyc/Zv?s=A"
+    ]
+  },
+  "northropgrumman::associate data scientist": {
+    "company": "Northrop Grumman",
+    "notified_at": "2026-10-29T23:15:13.385097+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Associate Data Scientist \ud83c\uddfa\ud83c\uddf8",
+    "url": "https://go.vansh.nyc/10d?s=A",
+    "urls": [
+      "https://go.vansh.nyc/10d?s=A"
     ]
   },
   "northropgrumman::associate engineer pathways program software": {
@@ -1029,6 +1066,18 @@
       "https://apply.workable.com/raydar/j/F452EE23A1/apply"
     ]
   },
+  "raydar::engineer": {
+    "company": "Raydar",
+    "notified_at": "2026-10-29T23:15:13.385097+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad: Engineer",
+    "url": "https://go.vansh.nyc/10h?s=A",
+    "urls": [
+      "https://go.vansh.nyc/10h?s=A"
+    ]
+  },
   "raydar::engineer founding": {
     "company": "Raydar",
     "notified_at": "2026-10-29T23:05:11.390478+00:00",
@@ -1067,6 +1116,18 @@
       "https://apply.workable.com/raydar/j/61ED3CA042/apply",
       "https://apply.workable.com/raydar/j/85776B356C/apply",
       "https://apply.workable.com/raydar/j/C7935C65FF/apply"
+    ]
+  },
+  "raydar::engineer infrastructure learning machine": {
+    "company": "Raydar",
+    "notified_at": "2026-10-29T23:15:13.385097+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Machine Learning Infrastructure Engineer",
+    "url": "https://go.vansh.nyc/10g?s=A",
+    "urls": [
+      "https://go.vansh.nyc/10g?s=A"
     ]
   },
   "rtx::control engineer flight software": {
