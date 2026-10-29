@@ -357,6 +357,18 @@
       "https://job-boards.greenhouse.io/grvty/jobs/4470580009"
     ]
   },
+  "humaninterest::engineer software": {
+    "company": "Human Interest",
+    "notified_at": "2026-10-29T02:05:09.922768+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer 1",
+    "url": "https://job-boards.greenhouse.io/humaninterestswe1/jobs/8083833",
+    "urls": [
+      "https://job-boards.greenhouse.io/humaninterestswe1/jobs/8083833"
+    ]
+  },
   "hyphenate::engineer software": {
     "company": "Hyphenate",
     "notified_at": "2026-10-28T01:35:13.129077+00:00",
