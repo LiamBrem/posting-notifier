@@ -872,6 +872,18 @@
       "https://go.vansh.nyc/YG?s=A"
     ]
   },
+  "quantiq::developer software": {
+    "company": "Quantiq",
+    "notified_at": "2026-10-29T14:35:15.311928+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Developer New Grad",
+    "url": "https://job-boards.greenhouse.io/quantiq/jobs/4280650009",
+    "urls": [
+      "https://job-boards.greenhouse.io/quantiq/jobs/4280650009"
+    ]
+  },
   "quickenloans::engineer software": {
     "company": "Quickenloans",
     "notified_at": "2026-10-28T23:30:15.473449+00:00",
@@ -1065,6 +1077,18 @@
     "url": "https://job-boards.greenhouse.io/startree/jobs/6235909004",
     "urls": [
       "https://job-boards.greenhouse.io/startree/jobs/6235909004"
+    ]
+  },
+  "thoughtworks::developer software": {
+    "company": "Thoughtworks",
+    "notified_at": "2026-10-29T14:35:15.311928+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Developer New Grad",
+    "url": "https://www.thoughtworks.com/careers/jobs/8333235?gh_jid=8333235",
+    "urls": [
+      "https://www.thoughtworks.com/careers/jobs/8333235?gh_jid=8333235"
     ]
   },
   "tsc::engineer software": {
