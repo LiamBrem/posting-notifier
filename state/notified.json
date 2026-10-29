@@ -337,12 +337,14 @@
     "company": "Glean",
     "notified_at": "2026-10-28T18:13:23.233605+00:00",
     "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs",
       "vanshb03/New-Grad-2027"
     ],
     "title": "Software Engineer",
     "url": "https://go.vansh.nyc/XJ?s=A",
     "urls": [
-      "https://go.vansh.nyc/XJ?s=A"
+      "https://go.vansh.nyc/XJ?s=A",
+      "https://job-boards.greenhouse.io/gleanwork/jobs/4748567005"
     ]
   },
   "globalfoundries::ai device enabled modeling": {
