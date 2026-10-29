@@ -1083,11 +1083,13 @@
     "company": "Thoughtworks",
     "notified_at": "2026-10-29T14:35:15.311928+00:00",
     "sources": [
-      "SimplifyJobs/New-Grad-Positions"
+      "SimplifyJobs/New-Grad-Positions",
+      "vanshb03/New-Grad-2027"
     ],
     "title": "Software Developer New Grad",
     "url": "https://www.thoughtworks.com/careers/jobs/8333235?gh_jid=8333235",
     "urls": [
+      "https://go.vansh.nyc/Z2?s=A",
       "https://www.thoughtworks.com/careers/jobs/8333235?gh_jid=8333235"
     ]
   },
