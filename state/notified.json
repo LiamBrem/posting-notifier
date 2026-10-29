@@ -109,6 +109,18 @@
       "https://jobs.ashbyhq.com/bagsfm/012239d1-0c6c-4e87-9cfa-22d8ba4e5cb4/application?embed=true"
     ]
   },
+  "boeing::15 data engineer f flight test": {
+    "company": "Boeing",
+    "notified_at": "2026-10-29T01:00:21.267566+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Entry-Level F-15 Flight Test Data Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/external_recall/job/USA---Eglin-AFB-FL/Entry-Level-F-15-Flight-Test-Data-Engineer_JR2026506850-3",
+    "urls": [
+      "https://boeing.wd1.myworkdayjobs.com/external_recall/job/USA---Eglin-AFB-FL/Entry-Level-F-15-Flight-Test-Data-Engineer_JR2026506850-3"
+    ]
+  },
   "boeing::engineer software": {
     "company": "Boeing",
     "notified_at": "2026-10-28T05:15:15.281568+00:00",
