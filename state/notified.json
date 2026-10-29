@@ -145,6 +145,31 @@
       "https://go.vansh.nyc/X2?s=A"
     ]
   },
+  "boozallen::data scientist": {
+    "company": "Booz Allen",
+    "notified_at": "2026-10-29T22:45:12.764098+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad 2027: Data Scientist \ud83c\uddfa\ud83c\uddf8",
+    "url": "https://go.vansh.nyc/ZQ?s=A",
+    "urls": [
+      "https://go.vansh.nyc/ZQ?s=A",
+      "https://go.vansh.nyc/ZR?s=A"
+    ]
+  },
+  "boozallen::developer software": {
+    "company": "Booz Allen",
+    "notified_at": "2026-10-29T22:45:12.764098+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad 2027: Software Developer",
+    "url": "https://go.vansh.nyc/ZP?s=A",
+    "urls": [
+      "https://go.vansh.nyc/ZP?s=A"
+    ]
+  },
   "cadmus::developer jr stack": {
     "company": "The Cadmus Group",
     "notified_at": "2026-10-28T21:05:19.077641+00:00",
@@ -441,6 +466,18 @@
     "url": "https://job-boards.greenhouse.io/grvty/jobs/4470580009",
     "urls": [
       "https://job-boards.greenhouse.io/grvty/jobs/4470580009"
+    ]
+  },
+  "hitachi::analyst data": {
+    "company": "Hitachi",
+    "notified_at": "2026-10-29T22:45:12.764098+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Data Analyst",
+    "url": "https://go.vansh.nyc/ZN?s=A",
+    "urls": [
+      "https://go.vansh.nyc/ZN?s=A"
     ]
   },
   "humaninterest::engineer software": {
@@ -1213,6 +1250,18 @@
     "url": "https://jobs.ashbyhq.com/viggle/98352e43-0f84-4df8-9f17-88520fe8314a/application?embed=true",
     "urls": [
       "https://jobs.ashbyhq.com/viggle/98352e43-0f84-4df8-9f17-88520fe8314a/application?embed=true"
+    ]
+  },
+  "washu::analyst data diseases infectious statistical": {
+    "company": "Wash U",
+    "notified_at": "2026-10-29T22:45:12.764098+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Statistical Data Analyst, Infectious Diseases",
+    "url": "https://go.vansh.nyc/ZO?s=A",
+    "urls": [
+      "https://go.vansh.nyc/ZO?s=A"
     ]
   }
 }
