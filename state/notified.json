@@ -49,6 +49,18 @@
       "https://amazon.jobs/en/jobs/10526808/software-dev-engineer-i-graviton-software-annapurna-labs"
     ]
   },
+  "amazon::database development engineer software": {
+    "company": "Amazon",
+    "notified_at": "2026-10-30T23:10:16.796482+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad 2027: Software Development Engineer, Database",
+    "url": "https://go.vansh.nyc/11i?s=A",
+    "urls": [
+      "https://go.vansh.nyc/11i?s=A"
+    ]
+  },
   "amentum::engineer junior software": {
     "company": "Amentum",
     "notified_at": "2026-10-27T23:05:10.430792+00:00",
@@ -1042,6 +1054,30 @@
       "https://nucleargraduates.com/careers/?gh_jid=4967926101"
     ]
   },
+  "nvidia::ai applied design engineer for learning machine master s vlsi": {
+    "company": "NVIDIA",
+    "notified_at": "2026-10-30T23:10:16.796482+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Applied Machine Learning Engineer, AI for VLSI Design (Master's)",
+    "url": "https://go.vansh.nyc/11n?s=A",
+    "urls": [
+      "https://go.vansh.nyc/11n?s=A"
+    ]
+  },
+  "nvidia::applied engineer engineering rotation systems": {
+    "company": "NVIDIA",
+    "notified_at": "2026-10-30T23:10:16.796482+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Applied Systems Engineering Rotation Engineer",
+    "url": "https://go.vansh.nyc/11r?s=A",
+    "urls": [
+      "https://go.vansh.nyc/11r?s=A"
+    ]
+  },
   "nvidia::architect deep learning performance": {
     "company": "NVIDIA",
     "notified_at": "2026-10-27T20:10:13.610607+00:00",
@@ -1054,6 +1090,18 @@
       "https://go.vansh.nyc/Wk?s=A"
     ]
   },
+  "nvidia::architecture energy engineer master modeling s": {
+    "company": "NVIDIA",
+    "notified_at": "2026-10-30T23:10:16.796482+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Architecture Energy Modeling Engineer (Master's)",
+    "url": "https://go.vansh.nyc/11p?s=A",
+    "urls": [
+      "https://go.vansh.nyc/11p?s=A"
+    ]
+  },
   "nvidia::asic design engineer": {
     "company": "NVIDIA",
     "notified_at": "2026-10-28T18:50:11.684743+00:00",
@@ -1063,7 +1111,21 @@
     "title": "New Grad 2027: ASIC Design Engineer",
     "url": "https://go.vansh.nyc/XR?s=A",
     "urls": [
+      "https://go.vansh.nyc/11m?s=A",
+      "https://go.vansh.nyc/11o?s=A",
       "https://go.vansh.nyc/XR?s=A"
+    ]
+  },
+  "nvidia::asic design engineer floorplan master s": {
+    "company": "NVIDIA",
+    "notified_at": "2026-10-30T23:10:16.796482+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "ASIC Floorplan Design Engineer (Master's)",
+    "url": "https://go.vansh.nyc/11k?s=A",
+    "urls": [
+      "https://go.vansh.nyc/11k?s=A"
     ]
   },
   "nvidia::asic design engineer master netlisting physical s": {
@@ -1087,6 +1149,7 @@
     "title": "New Grad 2027: ASIC Verification Engineer, Memory Management",
     "url": "https://go.vansh.nyc/XS?s=A",
     "urls": [
+      "https://go.vansh.nyc/11l?s=A",
       "https://go.vansh.nyc/XS?s=A"
     ]
   },
@@ -1105,15 +1168,14 @@
   },
   "nvidia::engineer formal verification": {
     "company": "NVIDIA",
-    "notified_at": "2026-10-27T21:15:13.891556+00:00",
+    "notified_at": "2026-10-30T23:10:16.796482+00:00",
     "sources": [
       "vanshb03/New-Grad-2027"
     ],
-    "title": "New Grad 2027: Formal Verification Engineer",
-    "url": "https://go.vansh.nyc/Wq?s=A",
+    "title": "Formal Verification Engineer",
+    "url": "https://go.vansh.nyc/11j?s=A",
     "urls": [
-      "https://go.vansh.nyc/Wq?s=A",
-      "https://go.vansh.nyc/XQ?s=A"
+      "https://go.vansh.nyc/11j?s=A"
     ]
   },
   "nvidia::engineer gpu verification": {
@@ -1125,6 +1187,7 @@
     "title": "GPU Verification Engineer",
     "url": "https://go.vansh.nyc/YQ?s=A",
     "urls": [
+      "https://go.vansh.nyc/11q?s=A",
       "https://go.vansh.nyc/YQ?s=A"
     ]
   },
@@ -1669,7 +1732,8 @@
     "title": "New Grad 2027: Product Analyst",
     "url": "https://go.vansh.nyc/10u?s=A",
     "urls": [
-      "https://go.vansh.nyc/10u?s=A"
+      "https://go.vansh.nyc/10u?s=A",
+      "https://go.vansh.nyc/11h?s=A"
     ]
   }
 }
