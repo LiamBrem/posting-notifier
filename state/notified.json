@@ -254,6 +254,19 @@
       "https://go.vansh.nyc/WZ?s=A"
     ]
   },
+  "chicagotrading::associate quant trading": {
+    "company": "Chicago Trading Company",
+    "notified_at": "2026-10-30T22:45:13.912863+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad 2027: Quant Trading Associate",
+    "url": "https://go.vansh.nyc/11e?s=A",
+    "urls": [
+      "https://go.vansh.nyc/11e?s=A",
+      "https://go.vansh.nyc/11f?s=A"
+    ]
+  },
   "cisco::analyst data science": {
     "company": "Cisco",
     "notified_at": "2026-10-28T14:45:17.639975+00:00",
@@ -588,6 +601,18 @@
       "https://go.vansh.nyc/W3?s=A"
     ]
   },
+  "intel::application development engineer software": {
+    "company": "Intel",
+    "notified_at": "2026-10-30T22:45:13.912863+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad: Software Application Development Engineer",
+    "url": "https://go.vansh.nyc/11c?s=A",
+    "urls": [
+      "https://go.vansh.nyc/11c?s=A"
+    ]
+  },
   "intel::eda engineer software tools": {
     "company": "Intel",
     "notified_at": "2026-10-29T17:45:15.669121+00:00",
@@ -658,6 +683,18 @@
     "url": "https://careers.jhuapl.edu/jobs/59974?icims=1",
     "urls": [
       "https://careers.jhuapl.edu/jobs/59974?icims=1"
+    ]
+  },
+  "kairospower::development engineer firmware": {
+    "company": "Kairos Power",
+    "notified_at": "2026-10-30T22:45:13.912863+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Firmware Development Engineer",
+    "url": "https://go.vansh.nyc/11d?s=A",
+    "urls": [
+      "https://go.vansh.nyc/11d?s=A"
     ]
   },
   "kla::computing distributed engineer master s software system": {
