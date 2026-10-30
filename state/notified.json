@@ -1497,5 +1497,17 @@
     "urls": [
       "https://go.vansh.nyc/ZO?s=A"
     ]
+  },
+  "wise::analyst product": {
+    "company": "Wise",
+    "notified_at": "2026-10-30T14:40:12.559322+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad 2027: Product Analyst",
+    "url": "https://go.vansh.nyc/10u?s=A",
+    "urls": [
+      "https://go.vansh.nyc/10u?s=A"
+    ]
   }
 }
