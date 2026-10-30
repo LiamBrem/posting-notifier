@@ -61,6 +61,18 @@
       "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-CA-Vandenberg-AFB/Software-Engineer-Junior_R0173629"
     ]
   },
+  "amentum::engineer software": {
+    "company": "Amentum",
+    "notified_at": "2026-10-30T23:05:11.090430+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Entry Level Software Engineer",
+    "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer---SECRET_R0173771",
+    "urls": [
+      "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer---SECRET_R0173771"
+    ]
+  },
   "amplitude::engineer software": {
     "company": "Amplitude",
     "notified_at": "2026-10-28T02:05:13.381694+00:00",
@@ -186,7 +198,8 @@
     "company": "Built Technologies",
     "notified_at": "2026-10-30T20:15:26.882162+00:00",
     "sources": [
-      "ApplyGuy/2027-New-Grad-Jobs"
+      "ApplyGuy/2027-New-Grad-Jobs",
+      "SimplifyJobs/New-Grad-Positions"
     ],
     "title": "Innovation Software Engineer 1",
     "url": "https://job-boards.greenhouse.io/getbuilt/jobs/4749545005",
@@ -1544,6 +1557,18 @@
       "https://job-boards.greenhouse.io/startree/jobs/6235909004"
     ]
   },
+  "superapp::engineer software": {
+    "company": "SuperApp",
+    "notified_at": "2026-10-30T23:05:11.090430+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer - Early Careers",
+    "url": "https://job-boards.greenhouse.io/superapp/jobs/8813982002",
+    "urls": [
+      "https://job-boards.greenhouse.io/superapp/jobs/8813982002"
+    ]
+  },
   "thoughtworks::developer software": {
     "company": "Thoughtworks",
     "notified_at": "2026-10-29T14:35:15.311928+00:00",
@@ -1575,14 +1600,16 @@
     "company": "Tsc",
     "notified_at": "2026-10-29T14:05:23.503164+00:00",
     "sources": [
-      "ApplyGuy/2027-New-Grad-Jobs"
+      "ApplyGuy/2027-New-Grad-Jobs",
+      "SimplifyJobs/New-Grad-Positions"
     ],
     "title": "Software Engineer I",
     "url": "https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Plymouth-MA/Software-Engineer-I_JR2890",
     "urls": [
       "https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Huntsville-AL-Discovery/Software-Engineer-I_JR2897",
       "https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Plymouth-MA/Software-Engineer-I_JR2890",
-      "https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR2898"
+      "https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR2898",
+      "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR2898"
     ]
   },
   "urbanscience::associate engineer software": {
