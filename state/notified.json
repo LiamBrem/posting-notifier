@@ -1,4 +1,16 @@
 {
+  "accenturefederalservices::developer mobile tak": {
+    "company": "Accenture Federal Services",
+    "notified_at": "2026-10-31T17:10:11.243198+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Mobile/TAK Developer",
+    "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4725823006?gh_jid=4725823006",
+    "urls": [
+      "https://boards.greenhouse.io/accenturefederalservices/jobs/4725823006?gh_jid=4725823006"
+    ]
+  },
   "aerospace::engineer middleware software": {
     "company": "Aerospace",
     "notified_at": "2026-10-29T17:45:15.669121+00:00",
@@ -37,6 +49,18 @@
       "https://jobs.lever.co/agile-defense/0d603eca-2337-4122-8e53-07b22a4077f8/apply"
     ]
   },
+  "alliedworld::application associate awai developer it platform": {
+    "company": "Allied World",
+    "notified_at": "2026-10-31T17:10:11.243198+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Associate - Application Developer - IT Platform - AWai",
+    "url": "https://awac.wd108.myworkdayjobs.com/en-US/alliedworld_careers/job/New-Jersey/Associate--Application-Developer--IT-Platform--AWai_R-158",
+    "urls": [
+      "https://awac.wd108.myworkdayjobs.com/en-US/alliedworld_careers/job/New-Jersey/Associate--Application-Developer--IT-Platform--AWai_R-158"
+    ]
+  },
   "alticeusa::development engineer software": {
     "company": "Altice USA",
     "notified_at": "2026-10-31T01:35:10.118215+00:00",
@@ -73,6 +97,18 @@
       "https://go.vansh.nyc/11i?s=A"
     ]
   },
+  "amazon::database development engineer software us": {
+    "company": "Amazon",
+    "notified_at": "2026-10-31T17:10:11.243198+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Development Engineer - Database Early Career- 2027 - US",
+    "url": "https://www.amazon.jobs/jobs/10593902/apply",
+    "urls": [
+      "https://www.amazon.jobs/jobs/10593902/apply"
+    ]
+  },
   "amazoncomservices::database development engineer software": {
     "company": "Amazon.com Services LLC",
     "notified_at": "2026-10-31T00:15:12.395882+00:00",
@@ -83,6 +119,18 @@
     "url": "https://go.vansh.nyc/11D?s=A",
     "urls": [
       "https://go.vansh.nyc/11D?s=A"
+    ]
+  },
+  "amentum::and developer exchange infrastructure risk support": {
+    "company": "Amentum",
+    "notified_at": "2026-10-31T17:10:11.243198+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Risk Exchange and Infrastructure Support Developer",
+    "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Risk-Exchange-and-Infrastructure-Support-Developer_R0168166-1",
+    "urls": [
+      "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Risk-Exchange-and-Infrastructure-Support-Developer_R0168166-1"
     ]
   },
   "amentum::engineer junior software": {
@@ -101,7 +149,8 @@
     "company": "Amentum",
     "notified_at": "2026-10-30T23:05:11.090430+00:00",
     "sources": [
-      "SimplifyJobs/New-Grad-Positions"
+      "SimplifyJobs/New-Grad-Positions",
+      "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Entry Level Software Engineer",
     "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer---SECRET_R0173771",
@@ -131,6 +180,30 @@
     "url": "https://go.vansh.nyc/WL?s=A",
     "urls": [
       "https://go.vansh.nyc/WL?s=A"
+    ]
+  },
+  "appliedmaterials::engineer global software support": {
+    "company": "Applied Materials",
+    "notified_at": "2026-10-31T17:10:11.243198+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Global Software Support Engineer I",
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/AustinTX/Global-Software-Support-Engineer-I_R2630045-1",
+    "urls": [
+      "https://amat.wd1.myworkdayjobs.com/en-US/external/job/AustinTX/Global-Software-Support-Engineer-I_R2630045-1"
+    ]
+  },
+  "astspacemobile::associate electrical engineer software test": {
+    "company": "AST SpaceMobile",
+    "notified_at": "2026-10-31T17:10:11.243198+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Associate Electrical Software Test Engineer",
+    "url": "https://ast-science.com/company/careers/?gh_jid=4746197005",
+    "urls": [
+      "https://ast-science.com/company/careers/?gh_jid=4746197005"
     ]
   },
   "atlassian::engineer security": {
@@ -169,11 +242,24 @@
       "https://jobs.ashbyhq.com/bagsfm/012239d1-0c6c-4e87-9cfa-22d8ba4e5cb4/application?embed=true"
     ]
   },
+  "blueriver::cameras ci embedded engineer software": {
+    "company": "Blue River Technology",
+    "notified_at": "2026-10-31T17:10:11.243198+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Embedded Software Engineer - Cameras & CI",
+    "url": "https://www.bluerivertechnology.com/job/?gh_jid=8337794",
+    "urls": [
+      "https://www.bluerivertechnology.com/job/?gh_jid=8337794"
+    ]
+  },
   "bodyspec::engineer junior software": {
     "company": "BodySpec",
     "notified_at": "2026-10-30T15:05:12.439679+00:00",
     "sources": [
-      "SimplifyJobs/New-Grad-Positions"
+      "SimplifyJobs/New-Grad-Positions",
+      "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Junior Software Engineer",
     "url": "https://bodyspec.applytojob.com/apply/YsrsS9yEg7/Junior-Developer",
@@ -191,6 +277,32 @@
     "url": "https://boeing.wd1.myworkdayjobs.com/external_recall/job/USA---Eglin-AFB-FL/Entry-Level-F-15-Flight-Test-Data-Engineer_JR2026506850-3",
     "urls": [
       "https://boeing.wd1.myworkdayjobs.com/external_recall/job/USA---Eglin-AFB-FL/Entry-Level-F-15-Flight-Test-Data-Engineer_JR2026506850-3"
+    ]
+  },
+  "boeing::associate engineer experienced or software systems": {
+    "company": "Boeing",
+    "notified_at": "2026-10-31T17:10:11.243198+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Systems Engineer - Associate or Experienced",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Seal-Beach-CA/Software-Systems-Engineer--Associate-or-Experienced-_JR2026523046-1",
+    "urls": [
+      "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Seal-Beach-CA/Software-Systems-Engineer--Associate-or-Experienced-_JR2026523046-1",
+      "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Seal-Beach-CA/Software-Systems-Engineer--Associate-or-Experienced-_JR2026523046"
+    ]
+  },
+  "boeing::associate engineer software": {
+    "company": "Boeing",
+    "notified_at": "2026-10-31T17:10:11.243198+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Associate Software Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Albuquerque-NM/Associate-Software-Engineer_JR2026528420",
+    "urls": [
+      "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Albuquerque-NM/Associate-Software-Engineer_JR2026528420-1",
+      "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Albuquerque-NM/Associate-Software-Engineer_JR2026528420"
     ]
   },
   "boeing::engineer software": {
@@ -259,7 +371,8 @@
     "notified_at": "2026-10-30T20:15:26.882162+00:00",
     "sources": [
       "ApplyGuy/2027-New-Grad-Jobs",
-      "SimplifyJobs/New-Grad-Positions"
+      "SimplifyJobs/New-Grad-Positions",
+      "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Innovation Software Engineer 1",
     "url": "https://job-boards.greenhouse.io/getbuilt/jobs/4749545005",
@@ -411,6 +524,18 @@
     "url": "https://costar.wd1.myworkdayjobs.com/costarcareers/job/US-VA-Arlington/Software-Engineer-I--C--NET-_R40234",
     "urls": [
       "https://costar.wd1.myworkdayjobs.com/costarcareers/job/US-VA-Arlington/Software-Engineer-I--C--NET-_R40234"
+    ]
+  },
+  "cotiviti::analyst associate backend quality": {
+    "company": "Cotiviti",
+    "notified_at": "2026-10-31T17:10:11.243198+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Associate Quality Analyst - Backend",
+    "url": "https://careers-cotiviti.icims.com/jobs/20510/associate-quality-analyst---backend/job",
+    "urls": [
+      "https://careers-cotiviti.icims.com/jobs/20510/associate-quality-analyst---backend/job"
     ]
   },
   "crosscountryconsulting::deployed engineer forward software": {
@@ -654,7 +779,8 @@
     "company": "Handshake",
     "notified_at": "2026-10-31T12:20:10.916621+00:00",
     "sources": [
-      "ApplyGuy/2027-New-Grad-Jobs"
+      "ApplyGuy/2027-New-Grad-Jobs",
+      "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Software Engineer I, Promotions",
     "url": "https://jobs.ashbyhq.com/handshake/c2cea12b-4dba-4782-ac2d-279c6865a4b7",
@@ -672,6 +798,18 @@
     "url": "https://go.vansh.nyc/ZN?s=A",
     "urls": [
       "https://go.vansh.nyc/ZN?s=A"
+    ]
+  },
+  "hp::ai engineer hp iq software": {
+    "company": "HP",
+    "notified_at": "2026-10-31T17:10:11.243198+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "AI Software Engineer - HP IQ",
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-2",
+    "urls": [
+      "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-2"
     ]
   },
   "humaninterest::engineer software": {
@@ -710,6 +848,18 @@
       "https://go.vansh.nyc/W3?s=A"
     ]
   },
+  "inductiveautomation::engineer software solutions": {
+    "company": "Inductive Automation",
+    "notified_at": "2026-10-31T17:10:11.243198+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Solutions Engineer I",
+    "url": "https://jobs.ashbyhq.com/inductive-automation-llc/30720689-1747-4983-a482-7e19a5d4d151",
+    "urls": [
+      "https://jobs.ashbyhq.com/inductive-automation-llc/30720689-1747-4983-a482-7e19a5d4d151"
+    ]
+  },
   "integrationinnovationi3::engineer software": {
     "company": "Integration Innovation (i3)",
     "notified_at": "2026-10-31T06:35:10.613904+00:00",
@@ -726,12 +876,14 @@
     "company": "Intel",
     "notified_at": "2026-10-30T22:45:13.912863+00:00",
     "sources": [
+      "speedyapply/2027-SWE-College-Jobs",
       "vanshb03/New-Grad-2027"
     ],
     "title": "New Grad: Software Application Development Engineer",
     "url": "https://go.vansh.nyc/11c?s=A",
     "urls": [
-      "https://go.vansh.nyc/11c?s=A"
+      "https://go.vansh.nyc/11c?s=A",
+      "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0288523"
     ]
   },
   "intel::eda engineer software tools": {
@@ -810,12 +962,14 @@
     "company": "Kairos Power",
     "notified_at": "2026-10-30T22:45:13.912863+00:00",
     "sources": [
+      "speedyapply/2027-SWE-College-Jobs",
       "vanshb03/New-Grad-2027"
     ],
     "title": "Firmware Development Engineer",
     "url": "https://go.vansh.nyc/11d?s=A",
     "urls": [
-      "https://go.vansh.nyc/11d?s=A"
+      "https://go.vansh.nyc/11d?s=A",
+      "https://job-boards.greenhouse.io/kairospower/jobs/6193295004"
     ]
   },
   "kla::computing distributed engineer master s software system": {
@@ -876,6 +1030,30 @@
     "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Las-Vegas-NV/Associate-Software-Engineer_R322981",
     "urls": [
       "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Las-Vegas-NV/Associate-Software-Engineer_R322981"
+    ]
+  },
+  "lutron::application cincinnati engineer oh project software": {
+    "company": "Lutron",
+    "notified_at": "2026-10-31T17:10:11.243198+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Project Application Software Engineer 2027 - Cincinnati - OH",
+    "url": "https://studentopportunities-lutron.icims.com/jobs/5472/project-application-software-engineer-2027---cincinnati%2c-oh/job",
+    "urls": [
+      "https://studentopportunities-lutron.icims.com/jobs/5472/project-application-software-engineer-2027---cincinnati%2c-oh/job"
+    ]
+  },
+  "lutron::application engineer lehigh pa project software valley": {
+    "company": "Lutron",
+    "notified_at": "2026-10-31T17:10:11.243198+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Project Application Software Engineer 2027 - Lehigh Valley - PA",
+    "url": "https://studentopportunities-lutron.icims.com/jobs/5453/project-application-software-engineer-2027---lehigh-valley%2c-pa/job",
+    "urls": [
+      "https://studentopportunities-lutron.icims.com/jobs/5453/project-application-software-engineer-2027---lehigh-valley%2c-pa/job"
     ]
   },
   "meijer::ai engineer software": {
@@ -999,6 +1177,18 @@
     "urls": [
       "https://go.vansh.nyc/10c?s=A",
       "https://go.vansh.nyc/10f?s=A"
+    ]
+  },
+  "motorolasolutions::embedded engineer software": {
+    "company": "Motorola Solutions",
+    "notified_at": "2026-10-31T17:10:11.243198+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Embedded Software Engineer",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Allen-TX-TX139/Embedded-Software-Engineer_R68965-1",
+    "urls": [
+      "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Allen-TX-TX139/Embedded-Software-Engineer_R68965-1"
     ]
   },
   "n1::engineer software stack": {
@@ -1137,11 +1327,13 @@
     "company": "Northrop Grumman",
     "notified_at": "2026-10-31T04:35:11.871762+00:00",
     "sources": [
-      "ApplyGuy/2027-New-Grad-Jobs"
+      "ApplyGuy/2027-New-Grad-Jobs",
+      "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Associate Software Engineer - Hollywood (MD)",
     "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018",
     "urls": [
+      "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018",
       "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018"
     ]
   },
@@ -1244,6 +1436,18 @@
     "url": "https://go.vansh.nyc/11G?s=A",
     "urls": [
       "https://go.vansh.nyc/11G?s=A"
+    ]
+  },
+  "nvidia::and engineer hardware methodology software tools": {
+    "company": "NVIDIA",
+    "notified_at": "2026-10-31T17:10:11.243198+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer - Hardware Tools and Methodology - New College Grad 2026",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659",
+    "urls": [
+      "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659"
     ]
   },
   "nvidia::and engineer master methodology modeling power s": {
@@ -1468,6 +1672,18 @@
       "https://careers.pnnl.gov/jobs/12640?icims=1"
     ]
   },
+  "pathrobotics::c engineer software": {
+    "company": "Path Robotics",
+    "notified_at": "2026-10-31T17:10:11.243198+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer - C++",
+    "url": "https://boards.greenhouse.io/pathrobotics/jobs/8926017002?gh_jid=8926017002",
+    "urls": [
+      "https://boards.greenhouse.io/pathrobotics/jobs/8926017002?gh_jid=8926017002"
+    ]
+  },
   "perpay::analyst junior strategic": {
     "company": "Perpay",
     "notified_at": "2026-10-28T02:15:11.823827+00:00",
@@ -1628,6 +1844,30 @@
       "https://go.vansh.nyc/10g?s=A"
     ]
   },
+  "raytheon::advanced engineer ii software system tools": {
+    "company": "Raytheon",
+    "notified_at": "2026-10-31T17:10:11.243198+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer II - Advanced System Tools",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Software-Engineer-II---Advanced-System-Tools_01886082",
+    "urls": [
+      "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Software-Engineer-II---Advanced-System-Tools_01886082"
+    ]
+  },
+  "raytheon::embedded engineer s3e security software": {
+    "company": "Raytheon",
+    "notified_at": "2026-10-31T17:10:11.243198+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Embedded Software Security Engineer I - S3E",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Embedded-Software-Security-Engineer-I---S3E_01878692",
+    "urls": [
+      "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Embedded-Software-Security-Engineer-I---S3E_01878692"
+    ]
+  },
   "roblox::acquisition data engineer phd senior software": {
     "company": "\ud83d\udd25 Roblox",
     "notified_at": "2026-10-30T22:35:17.777377+00:00",
@@ -1638,6 +1878,30 @@
     "url": "https://careers.roblox.com/jobs/8315883?gh_jid=8315883",
     "urls": [
       "https://careers.roblox.com/jobs/8315883?gh_jid=8315883"
+    ]
+  },
+  "roblox::discovery engineer software ux": {
+    "company": "Roblox",
+    "notified_at": "2026-10-31T17:10:11.243198+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer - Discovery UX",
+    "url": "https://careers.roblox.com/jobs/8304210?gh_jid=8304210",
+    "urls": [
+      "https://careers.roblox.com/jobs/8304210?gh_jid=8304210"
+    ]
+  },
+  "rocketlab::engineer flight software": {
+    "company": "Rocket Lab",
+    "notified_at": "2026-10-31T17:10:11.243198+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Flight Software Engineer I",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8038139003",
+    "urls": [
+      "https://job-boards.greenhouse.io/rocketlab/jobs/8038139003"
     ]
   },
   "rtx::application developer software support sustainment": {
@@ -1762,6 +2026,18 @@
       "https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345"
     ]
   },
+  "service::engineer software": {
+    "company": "Technology Service Corporation",
+    "notified_at": "2026-10-31T17:10:11.243198+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer I",
+    "url": "https://tsc.wd12.myworkdayjobs.com/en-US/tsc-careers/job/Silver-Spring-MD/Software-Engineer-I_JR2898",
+    "urls": [
+      "https://tsc.wd12.myworkdayjobs.com/en-US/tsc-careers/job/Silver-Spring-MD/Software-Engineer-I_JR2898"
+    ]
+  },
   "servicenow::ai engineer ml software": {
     "company": "ServiceNow",
     "notified_at": "2026-10-27T22:10:13.255968+00:00",
@@ -1848,6 +2124,30 @@
       "https://go.vansh.nyc/10N?s=A"
     ]
   },
+  "soprasteriai2s::cml cms d developer m sap w": {
+    "company": "Sopra Steria I2S",
+    "notified_at": "2026-10-31T17:10:11.243198+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Developer SAP CML / CMS - m/w/d",
+    "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158752331-developer-sap-cml-cms-m-w-d-?oga=true",
+    "urls": [
+      "https://jobs.smartrecruiters.com/SopraSteria1/744000158752331-developer-sap-cml-cms-m-w-d-?oga=true"
+    ]
+  },
+  "soprasteriai2s::d developer integration m sap w": {
+    "company": "Sopra Steria I2S",
+    "notified_at": "2026-10-31T17:10:11.243198+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Developer SAP Integration - m/w/d",
+    "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158756490-developer-sap-integration-m-w-d-?oga=true",
+    "urls": [
+      "https://jobs.smartrecruiters.com/SopraSteria1/744000158756490-developer-sap-integration-m-w-d-?oga=true"
+    ]
+  },
   "sosi::developer peoplesoft software": {
     "company": "SOSi",
     "notified_at": "2026-10-29T18:15:11.730000+00:00",
@@ -1932,7 +2232,8 @@
     "company": "Urban Science",
     "notified_at": "2026-10-30T15:50:11.937420+00:00",
     "sources": [
-      "ApplyGuy/2027-New-Grad-Jobs"
+      "ApplyGuy/2027-New-Grad-Jobs",
+      "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Associate Software Engineer",
     "url": "https://careers-urbanscience.icims.com/jobs/5234/associate-software-engineer/job",
@@ -1987,6 +2288,30 @@
     "urls": [
       "https://go.vansh.nyc/10u?s=A",
       "https://go.vansh.nyc/11h?s=A"
+    ]
+  },
+  "zebra::engineer professional software": {
+    "company": "Zebra Technologies",
+    "notified_at": "2026-10-31T17:10:11.243198+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer - Professional I",
+    "url": "https://zebra.wd501.myworkdayjobs.com/en-US/zebra_careers/job/Holtsville-New-York/Software-Engineer--Professional-I_JR103835",
+    "urls": [
+      "https://zebra.wd501.myworkdayjobs.com/en-US/zebra_careers/job/Holtsville-New-York/Software-Engineer--Professional-I_JR103835"
+    ]
+  },
+  "zefr::engineer software": {
+    "company": "Zefr",
+    "notified_at": "2026-10-31T17:10:11.243198+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer",
+    "url": "https://jobs.ashbyhq.com/zefr/d3353c85-2e31-4855-84cc-f18749edc640",
+    "urls": [
+      "https://jobs.ashbyhq.com/zefr/d3353c85-2e31-4855-84cc-f18749edc640"
     ]
   }
 }
