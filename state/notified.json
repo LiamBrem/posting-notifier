@@ -456,6 +456,18 @@
       "https://boards.greenhouse.io/embed/job_app?token=6865698002"
     ]
   },
+  "deliveroo::engineer software": {
+    "company": "Deliveroo",
+    "notified_at": "2026-10-31T07:05:10.463301+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer New Grad",
+    "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8202627",
+    "urls": [
+      "https://job-boards.greenhouse.io/deliveroo/jobs/8202627"
+    ]
+  },
   "draftkings::engineer software": {
     "company": "DraftKings",
     "notified_at": "2026-10-29T23:15:13.385097+00:00",
