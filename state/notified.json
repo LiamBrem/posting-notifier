@@ -629,6 +629,18 @@
       "https://go.vansh.nyc/WK?s=A"
     ]
   },
+  "endeavoraicom::deployed engineer forward": {
+    "company": "endeavorai.com",
+    "notified_at": "2026-11-01T00:20:11.470787+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Forward Deployed Engineer",
+    "url": "https://go.vansh.nyc/13O?s=A",
+    "urls": [
+      "https://go.vansh.nyc/13O?s=A"
+    ]
+  },
   "exl::developer junior": {
     "company": "EXL",
     "notified_at": "2026-10-28T23:15:12.052193+00:00",
@@ -751,6 +763,18 @@
       "https://go.vansh.nyc/YF?s=A"
     ]
   },
+  "goaly::ai applied engineer": {
+    "company": "Goaly",
+    "notified_at": "2026-11-01T00:20:11.470787+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Applied AI Engineer",
+    "url": "https://go.vansh.nyc/13P?s=A",
+    "urls": [
+      "https://go.vansh.nyc/13P?s=A"
+    ]
+  },
   "graphcore::ai compute engineer libraries performance software": {
     "company": "Graphcore",
     "notified_at": "2026-10-29T01:35:12.726539+00:00",
@@ -826,14 +850,14 @@
   },
   "hyphenate::engineer software": {
     "company": "Hyphenate",
-    "notified_at": "2026-10-28T01:35:13.129077+00:00",
+    "notified_at": "2026-11-01T00:20:11.470787+00:00",
     "sources": [
-      "SimplifyJobs/New-Grad-Positions"
+      "vanshb03/New-Grad-2027"
     ],
-    "title": "Software Engineer New Grad",
-    "url": "https://jobs.ashbyhq.com/hyphenate/67d0c7d0-fddb-4b8d-aed8-0647337a988e/application?embed=true",
+    "title": "New Grad: Software Engineer",
+    "url": "https://go.vansh.nyc/13Q?s=A",
     "urls": [
-      "https://jobs.ashbyhq.com/hyphenate/67d0c7d0-fddb-4b8d-aed8-0647337a988e/application?embed=true"
+      "https://go.vansh.nyc/13Q?s=A"
     ]
   },
   "idme::general program": {
@@ -1018,6 +1042,18 @@
     "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Jr-Software-Engineer_R-00195656",
     "urls": [
       "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Jr-Software-Engineer_R-00195656"
+    ]
+  },
+  "liveflow::agents ai engineer": {
+    "company": "LiveFlow",
+    "notified_at": "2026-11-01T00:20:11.470787+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Graduate Engineer - AI Agents",
+    "url": "https://go.vansh.nyc/13R?s=A",
+    "urls": [
+      "https://go.vansh.nyc/13R?s=A"
     ]
   },
   "lnw::associate engineer software": {
@@ -1868,6 +1904,18 @@
       "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Embedded-Software-Security-Engineer-I---S3E_01878692"
     ]
   },
+  "relling::engineer robotics software": {
+    "company": "Relling",
+    "notified_at": "2026-11-01T00:20:11.470787+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad: Robotics Software Engineer",
+    "url": "https://go.vansh.nyc/13S?s=A",
+    "urls": [
+      "https://go.vansh.nyc/13S?s=A"
+    ]
+  },
   "roblox::acquisition data engineer phd senior software": {
     "company": "\ud83d\udd25 Roblox",
     "notified_at": "2026-10-30T22:35:17.777377+00:00",
@@ -2177,11 +2225,13 @@
     "company": "SuperApp",
     "notified_at": "2026-10-30T23:05:11.090430+00:00",
     "sources": [
-      "SimplifyJobs/New-Grad-Positions"
+      "SimplifyJobs/New-Grad-Positions",
+      "vanshb03/New-Grad-2027"
     ],
     "title": "Software Engineer - Early Careers",
     "url": "https://job-boards.greenhouse.io/superapp/jobs/8813982002",
     "urls": [
+      "https://go.vansh.nyc/13T?s=A",
       "https://job-boards.greenhouse.io/superapp/jobs/8813982002"
     ]
   },
@@ -2289,6 +2339,18 @@
     "url": "https://go.vansh.nyc/ZO?s=A",
     "urls": [
       "https://go.vansh.nyc/ZO?s=A"
+    ]
+  },
+  "wiltshirefarmfoods::developer in software test": {
+    "company": "Wiltshire Farm Foods",
+    "notified_at": "2026-11-01T00:20:11.470787+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Software Developer in Test",
+    "url": "https://go.vansh.nyc/13U?s=A",
+    "urls": [
+      "https://go.vansh.nyc/13U?s=A"
     ]
   },
   "wise::analyst product": {
