@@ -872,6 +872,18 @@
       "https://job-boards.greenhouse.io/humaninterestswe1/jobs/8083833"
     ]
   },
+  "huntingtoningalls::engineer software": {
+    "company": "Huntington Ingalls Industries",
+    "notified_at": "2026-11-01T07:05:13.554596+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer 1",
+    "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1446380900/?ats=successfactors",
+    "urls": [
+      "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1446380900/?ats=successfactors"
+    ]
+  },
   "hyphenate::engineer software": {
     "company": "Hyphenate",
     "notified_at": "2026-11-01T00:20:11.470787+00:00",
