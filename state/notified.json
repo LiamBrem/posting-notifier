@@ -217,6 +217,18 @@
       "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/RTOS---VXWorks-developer_R0168163-1"
     ]
   },
+  "amentum::developer simulink software": {
+    "company": "Amentum",
+    "notified_at": "2026-11-02T21:40:23.393577+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Simulink Software Developer",
+    "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Simulink-Software-Developer_R0168128-1",
+    "urls": [
+      "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Simulink-Software-Developer_R0168128-1"
+    ]
+  },
   "amentum::engineer junior software": {
     "company": "Amentum",
     "notified_at": "2026-10-27T23:05:10.430792+00:00",
@@ -388,6 +400,18 @@
       "https://go.vansh.nyc/19S?s=A"
     ]
   },
+  "boeing::associate engineer experienced or software": {
+    "company": "Boeing",
+    "notified_at": "2026-11-02T21:40:23.393577+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer - Associate or Experienced",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Seal-Beach-CA/Software-Engineer--Associate-or-Experienced-_JR2026520956-1",
+    "urls": [
+      "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Seal-Beach-CA/Software-Engineer--Associate-or-Experienced-_JR2026520956-1"
+    ]
+  },
   "boeing::associate engineer experienced or software systems": {
     "company": "Boeing",
     "notified_at": "2026-10-31T17:10:11.243198+00:00",
@@ -474,6 +498,18 @@
     "url": "https://go.vansh.nyc/124?s=A",
     "urls": [
       "https://go.vansh.nyc/124?s=A"
+    ]
+  },
+  "brownbrown::developer hubspot junior": {
+    "company": "Brown & Brown",
+    "notified_at": "2026-11-02T21:40:23.393577+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Junior HubSpot Developer",
+    "url": "https://bbinsurance.wd1.myworkdayjobs.com/en-US/careers/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694",
+    "urls": [
+      "https://bbinsurance.wd1.myworkdayjobs.com/en-US/careers/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694"
     ]
   },
   "built::engineer innovation software": {
@@ -635,6 +671,18 @@
     "url": "https://go.vansh.nyc/YH?s=A",
     "urls": [
       "https://go.vansh.nyc/YH?s=A"
+    ]
+  },
+  "cooperuniversityhealthcare::analytics and developer reporting": {
+    "company": "Cooper University Health Care",
+    "notified_at": "2026-11-02T21:40:23.393577+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Reporting and Analytics Developer",
+    "url": "https://careers-cooperhealth.icims.com/jobs/86865/reporting-and-analytics-developer/job",
+    "urls": [
+      "https://careers-cooperhealth.icims.com/jobs/86865/reporting-and-analytics-developer/job"
     ]
   },
   "corgi::engineer line product stack": {
@@ -1350,6 +1398,30 @@
       "https://studentopportunities-lutron.icims.com/jobs/5479/project-embedded-software-engineer-2027---austin%2c-tx/job"
     ]
   },
+  "lutron::beach boynton embedded engineer firmware fl project": {
+    "company": "Lutron",
+    "notified_at": "2026-11-02T21:40:23.393577+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Project Embedded Firmware Engineer 2027 - Boynton Beach - FL",
+    "url": "https://studentopportunities-lutron.icims.com/jobs/5477/project-embedded-firmware-engineer-2027---boynton-beach%2c-fl/job",
+    "urls": [
+      "https://studentopportunities-lutron.icims.com/jobs/5477/project-embedded-firmware-engineer-2027---boynton-beach%2c-fl/job"
+    ]
+  },
+  "lutron::boston embedded engineer ma project software": {
+    "company": "Lutron",
+    "notified_at": "2026-11-02T21:40:23.393577+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Project Embedded Software Engineer 2027 - Boston - MA",
+    "url": "https://studentopportunities-lutron.icims.com/jobs/5478/project-embedded-software-engineer-2027---boston%2c-ma/job",
+    "urls": [
+      "https://studentopportunities-lutron.icims.com/jobs/5478/project-embedded-software-engineer-2027---boston%2c-ma/job"
+    ]
+  },
   "meijer::ai engineer software": {
     "company": "Meijer",
     "notified_at": "2026-10-27T22:35:10.442924+00:00",
@@ -1573,11 +1645,13 @@
     "company": "Northrop Grumman",
     "notified_at": "2026-11-01T09:05:09.478015+00:00",
     "sources": [
-      "ApplyGuy/2027-New-Grad-Jobs"
+      "ApplyGuy/2027-New-Grad-Jobs",
+      "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "2027 Associate Software Engineer - Bellevue (NE)",
     "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Bellevue--NE-_R10258366",
     "urls": [
+      "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Bellevue--NE-_R10258366",
       "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Bellevue--NE-_R10258366"
     ]
   },
@@ -2246,6 +2320,18 @@
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Embedded-Software-Security-Engineer-I---S3E_01878692",
     "urls": [
       "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Embedded-Software-Security-Engineer-I---S3E_01878692"
+    ]
+  },
+  "raytheon::engineer software": {
+    "company": "Raytheon",
+    "notified_at": "2026-11-02T21:40:23.393577+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer I - Onsite",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I----Onsite-_01884645",
+    "urls": [
+      "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I----Onsite-_01884645"
     ]
   },
   "relling::engineer robotics software": {
