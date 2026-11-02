@@ -2088,6 +2088,30 @@
       "https://go.vansh.nyc/YG?s=A"
     ]
   },
+  "qualtrics::data development engineer platform software": {
+    "company": "Qualtrics",
+    "notified_at": "2026-11-02T21:35:12.954181+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Software Development Engineer I - Data Platform",
+    "url": "https://www.qualtrics.com/careers/us/en/job/8334245?gh_jid=8334245",
+    "urls": [
+      "https://www.qualtrics.com/careers/us/en/job/8334245?gh_jid=8334245"
+    ]
+  },
+  "qualtrics::engineer software xmd": {
+    "company": "Qualtrics",
+    "notified_at": "2026-11-02T21:35:12.954181+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Software Engineer I - XMD",
+    "url": "https://www.qualtrics.com/careers/us/en/job/8325652?gh_jid=8325652",
+    "urls": [
+      "https://www.qualtrics.com/careers/us/en/job/8325652?gh_jid=8325652"
+    ]
+  },
   "quantiq::developer software": {
     "company": "Quantiq",
     "notified_at": "2026-10-29T14:35:15.311928+00:00",
@@ -2500,6 +2524,18 @@
     "url": "https://jobs.ashbyhq.com/sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db/application?embed=true",
     "urls": [
       "https://jobs.ashbyhq.com/sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db/application?embed=true"
+    ]
+  },
+  "smartsheet::eligible engineer software": {
+    "company": "Smartsheet",
+    "notified_at": "2026-11-02T21:35:12.954181+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Software Engineer I (Remote Eligible)",
+    "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8347710",
+    "urls": [
+      "https://job-boards.greenhouse.io/smartsheet/jobs/8347710"
     ]
   },
   "soprasteriai2s::cloud computing": {
