@@ -121,6 +121,18 @@
       "https://amazon.jobs/en/jobs/10526808/software-dev-engineer-i-graviton-software-annapurna-labs"
     ]
   },
+  "amazon::aws data development engineer services software": {
+    "company": "Amazon",
+    "notified_at": "2026-11-02T19:15:12.435790+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Software Development Engineer, AWS Data Services",
+    "url": "https://go.vansh.nyc/19E?s=A",
+    "urls": [
+      "https://go.vansh.nyc/19E?s=A"
+    ]
+  },
   "amazon::database development engineer software": {
     "company": "Amazon",
     "notified_at": "2026-10-30T23:10:16.796482+00:00",
@@ -143,6 +155,18 @@
     "url": "https://www.amazon.jobs/jobs/10593902/apply",
     "urls": [
       "https://www.amazon.jobs/jobs/10593902/apply"
+    ]
+  },
+  "amazon::development engineer robotics software": {
+    "company": "Amazon",
+    "notified_at": "2026-11-02T19:15:12.435790+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Software Development Engineer, Robotics",
+    "url": "https://go.vansh.nyc/19D?s=A",
+    "urls": [
+      "https://go.vansh.nyc/19D?s=A"
     ]
   },
   "amazoncomservices::database development engineer software": {
@@ -738,6 +762,18 @@
     "url": "https://go.vansh.nyc/13O?s=A",
     "urls": [
       "https://go.vansh.nyc/13O?s=A"
+    ]
+  },
+  "equifax::analytics associate data development rotational": {
+    "company": "Equifax",
+    "notified_at": "2026-11-02T19:15:12.435790+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad 2027: Data Analytics Rotational Development Associate",
+    "url": "https://go.vansh.nyc/19F?s=A",
+    "urls": [
+      "https://go.vansh.nyc/19F?s=A"
     ]
   },
   "exl::developer junior": {
