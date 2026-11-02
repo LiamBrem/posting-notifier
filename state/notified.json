@@ -291,6 +291,18 @@
       "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Dallas-RichardsonTX/Global-Software-Support-Engineer-I_R2630046"
     ]
   },
+  "aprio::ai associate automation": {
+    "company": "Aprio",
+    "notified_at": "2026-11-02T23:50:13.399874+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "AI & Automation Associate",
+    "url": "https://go.vansh.nyc/1bp?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1bp?s=A"
+    ]
+  },
   "astspacemobile::associate electrical engineer software test": {
     "company": "AST SpaceMobile",
     "notified_at": "2026-10-31T17:10:11.243198+00:00",
@@ -980,6 +992,18 @@
     "url": "https://go.vansh.nyc/YF?s=A",
     "urls": [
       "https://go.vansh.nyc/YF?s=A"
+    ]
+  },
+  "globalfoundries::design engineer verification": {
+    "company": "GlobalFoundries",
+    "notified_at": "2026-11-02T23:50:13.399874+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad 2027: Design Verification Engineer",
+    "url": "https://go.vansh.nyc/1bo?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1bo?s=A"
     ]
   },
   "goaly::ai applied engineer": {
@@ -2416,6 +2440,18 @@
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01870923",
     "urls": [
       "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01870923"
+    ]
+  },
+  "rtx::electrical engineer": {
+    "company": "RTX",
+    "notified_at": "2026-11-02T23:50:13.399874+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad: Electrical Engineer 1",
+    "url": "https://go.vansh.nyc/1bq?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1bq?s=A"
     ]
   },
   "rtx::embedded engineer security software": {
