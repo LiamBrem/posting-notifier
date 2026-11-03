@@ -1326,6 +1326,18 @@
       "https://go.vansh.nyc/YT?s=A"
     ]
   },
+  "kla::engineer master s software": {
+    "company": "KLA",
+    "notified_at": "2026-11-03T18:50:22.893487+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Software Engineer (Master's)",
+    "url": "https://go.vansh.nyc/1dU?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1dU?s=A"
+    ]
+  },
   "leidos::developer jr software": {
     "company": "Leidos",
     "notified_at": "2026-10-30T06:05:22.236445+00:00",
@@ -2821,6 +2833,18 @@
     "url": "https://go.vansh.nyc/Zn?s=A",
     "urls": [
       "https://go.vansh.nyc/Zn?s=A"
+    ]
+  },
+  "spacex::engineer enterprise software starlink": {
+    "company": "SpaceX",
+    "notified_at": "2026-11-03T18:50:22.893487+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Software Engineer, Starlink Enterprise",
+    "url": "https://go.vansh.nyc/1dT?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1dT?s=A"
     ]
   },
   "startree::engineer software": {
