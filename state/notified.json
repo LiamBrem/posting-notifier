@@ -1811,6 +1811,18 @@
       "https://go.vansh.nyc/19Q?s=A"
     ]
   },
+  "microsoft::engineering software": {
+    "company": "Microsoft",
+    "notified_at": "2026-11-03T19:50:21.250571+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Software Engineering",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557023035",
+    "urls": [
+      "https://apply.careers.microsoft.com/careers/job/1970393557023035"
+    ]
+  },
   "mitelnetworks::developer junior stack web": {
     "company": "Mitel Networks",
     "notified_at": "2026-10-30T22:35:17.777377+00:00",
@@ -2657,12 +2669,14 @@
     "company": "Raytheon",
     "notified_at": "2026-11-03T19:25:20.816623+00:00",
     "sources": [
-      "speedyapply/2027-SWE-College-Jobs"
+      "speedyapply/2027-SWE-College-Jobs",
+      "vanshb03/New-Grad-2027"
     ],
     "title": "Embedded Security Software Engineer I - Onsite",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Embedded-Security-Software-Engineer-I--Onsite-_01881440",
     "urls": [
-      "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Embedded-Security-Software-Engineer-I--Onsite-_01881440"
+      "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Embedded-Security-Software-Engineer-I--Onsite-_01881440",
+      "https://go.vansh.nyc/1e1?s=A"
     ]
   },
   "raytheon::engineer software": {
