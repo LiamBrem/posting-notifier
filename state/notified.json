@@ -879,6 +879,18 @@
       "https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed/application?embed=true"
     ]
   },
+  "cylake::engineer software": {
+    "company": "Cylake",
+    "notified_at": "2026-11-03T23:20:11.701692+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad 2027: Software Engineer \ud83d\udec2",
+    "url": "https://go.vansh.nyc/1fu?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1fu?s=A"
+    ]
+  },
   "databricks::data distributed engineer software systems": {
     "company": "Databricks",
     "notified_at": "2026-10-27T22:10:13.255968+00:00",
@@ -3351,6 +3363,18 @@
     "url": "https://jobs.ashbyhq.com/triumph-arcade/2d8c5061-2419-4755-80d8-c808eef4a82b",
     "urls": [
       "https://jobs.ashbyhq.com/triumph-arcade/2d8c5061-2419-4755-80d8-c808eef4a82b"
+    ]
+  },
+  "trmlabs::engineer product": {
+    "company": "TRM Labs",
+    "notified_at": "2026-11-03T23:20:11.701692+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad 2027: Product Engineer",
+    "url": "https://go.vansh.nyc/1fv?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1fv?s=A"
     ]
   },
   "tsc::engineer junior software uas": {
