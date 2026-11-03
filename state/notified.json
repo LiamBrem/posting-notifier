@@ -545,6 +545,18 @@
       "https://go.vansh.nyc/ZP?s=A"
     ]
   },
+  "bostonscientific::engineer engineering software": {
+    "company": "Boston Scientific",
+    "notified_at": "2026-11-03T23:35:10.594205+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer 1 - Engineering",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813660387",
+    "urls": [
+      "https://bostonscientific.eightfold.ai/careers/job/563602813660387"
+    ]
+  },
   "broadcom::apd asic design division engineer master physical products s": {
     "company": "Broadcom",
     "notified_at": "2026-10-31T02:15:13.758365+00:00",
@@ -1613,6 +1625,18 @@
       "https://go.vansh.nyc/1eb?s=A"
     ]
   },
+  "lexisnexisrisksolutions::engineer software": {
+    "company": "LexisNexis Risk Solutions",
+    "notified_at": "2026-11-03T23:35:10.594205+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer 1 New Grad - Software Engineer I",
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836",
+    "urls": [
+      "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836"
+    ]
+  },
   "lineagelogistics::associate developer report": {
     "company": "Lineage Logistics",
     "notified_at": "2026-11-03T19:25:20.816623+00:00",
@@ -1772,7 +1796,7 @@
   },
   "meijer::ai engineer software": {
     "company": "Meijer",
-    "notified_at": "2026-10-27T22:35:10.442924+00:00",
+    "notified_at": "2026-11-03T23:35:10.594205+00:00",
     "sources": [
       "SimplifyJobs/New-Grad-Positions"
     ],
@@ -1966,6 +1990,18 @@
     "url": "https://go.vansh.nyc/OV?s=A",
     "urls": [
       "https://go.vansh.nyc/OV?s=A"
+    ]
+  },
+  "ncrvoyix::engineer software": {
+    "company": "NCR Voyix",
+    "notified_at": "2026-11-03T23:35:10.594205+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer 1",
+    "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/Software-Engineer---NCR-Voyix-for-Department-and-Specialty-Retail_R0159033",
+    "urls": [
+      "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/Software-Engineer---NCR-Voyix-for-Department-and-Specialty-Retail_R0159033"
     ]
   },
   "neon::data distributed engineer software systems": {
@@ -2501,6 +2537,18 @@
       "https://careers.pnnl.gov/jobs/12640?icims=1"
     ]
   },
+  "pae::developer software tools": {
+    "company": "Pae",
+    "notified_at": "2026-11-03T23:35:10.594205+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Software Tools Developer, Entry Level",
+    "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AL-Huntsville/Software-Tools-Developer--Entry-Level_R0174727",
+    "urls": [
+      "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AL-Huntsville/Software-Tools-Developer--Entry-Level_R0174727"
+    ]
+  },
   "pathrobotics::c engineer software": {
     "company": "Path Robotics",
     "notified_at": "2026-10-31T17:10:11.243198+00:00",
@@ -2799,6 +2847,18 @@
       "https://go.vansh.nyc/13S?s=A"
     ]
   },
+  "relx::engineer software": {
+    "company": "RELX",
+    "notified_at": "2026-11-03T23:35:10.594205+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer 1 New Grad - Software Engineer I",
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836-1",
+    "urls": [
+      "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836-1"
+    ]
+  },
   "roblox::acquisition data engineer phd senior software": {
     "company": "\ud83d\udd25 Roblox",
     "notified_at": "2026-10-30T22:35:17.777377+00:00",
@@ -2821,6 +2881,18 @@
     "url": "https://careers.roblox.com/jobs/8304210?gh_jid=8304210",
     "urls": [
       "https://careers.roblox.com/jobs/8304210?gh_jid=8304210"
+    ]
+  },
+  "rocketlab::ai engineer software": {
+    "company": "Rocket Lab Corporation",
+    "notified_at": "2026-11-03T23:35:10.594205+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "AI Software Engineer 1",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8182050003",
+    "urls": [
+      "https://job-boards.greenhouse.io/rocketlab/jobs/8182050003"
     ]
   },
   "rocketlab::engineer flight software": {
@@ -3136,6 +3208,18 @@
     "url": "https://jobs.ashbyhq.com/sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db/application?embed=true",
     "urls": [
       "https://jobs.ashbyhq.com/sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db/application?embed=true"
+    ]
+  },
+  "skyward::engineer software": {
+    "company": "Skyward",
+    "notified_at": "2026-11-03T23:35:10.594205+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer \u2013 Entry Level",
+    "url": "https://jobs.smartrecruiters.com/Skyward1/744000159491899",
+    "urls": [
+      "https://jobs.smartrecruiters.com/Skyward1/744000159491899"
     ]
   },
   "skyward::quality software specialist": {
