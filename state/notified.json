@@ -2190,7 +2190,8 @@
     "company": "Qualtrics",
     "notified_at": "2026-11-02T21:35:12.954181+00:00",
     "sources": [
-      "ApplyGuy/2027-New-Grad-Jobs"
+      "ApplyGuy/2027-New-Grad-Jobs",
+      "SimplifyJobs/New-Grad-Positions"
     ],
     "title": "Software Development Engineer I - Data Platform",
     "url": "https://www.qualtrics.com/careers/us/en/job/8334245?gh_jid=8334245",
@@ -2202,7 +2203,8 @@
     "company": "Qualtrics",
     "notified_at": "2026-11-02T21:35:12.954181+00:00",
     "sources": [
-      "ApplyGuy/2027-New-Grad-Jobs"
+      "ApplyGuy/2027-New-Grad-Jobs",
+      "SimplifyJobs/New-Grad-Positions"
     ],
     "title": "Software Engineer I - XMD",
     "url": "https://www.qualtrics.com/careers/us/en/job/8325652?gh_jid=8325652",
@@ -2814,6 +2816,18 @@
       "https://go.vansh.nyc/12x?s=A"
     ]
   },
+  "unity::accelerate developer software u": {
+    "company": "Unity",
+    "notified_at": "2026-11-03T00:05:10.508792+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Developer New Grad - U-Accelerate: Software Developer",
+    "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Montreal-Canada/U-Accelerate---Dveloppeur-euse--de-logiciels--nouveau-elle--diplm-e-----U-Accelerate--Software-Developer--New-Grad_JOBREQ-2616768",
+    "urls": [
+      "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Montreal-Canada/U-Accelerate---Dveloppeur-euse--de-logiciels--nouveau-elle--diplm-e-----U-Accelerate--Software-Developer--New-Grad_JOBREQ-2616768"
+    ]
+  },
   "urbanscience::associate engineer software": {
     "company": "Urban Science",
     "notified_at": "2026-10-30T15:50:11.937420+00:00",
@@ -2877,6 +2891,18 @@
     "url": "https://go.vansh.nyc/ZO?s=A",
     "urls": [
       "https://go.vansh.nyc/ZO?s=A"
+    ]
+  },
+  "wexinc::development engineer software": {
+    "company": "Wexinc",
+    "notified_at": "2026-11-03T00:05:10.508792+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Software Development Engineer 1",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/Portland-ME/Software-Development-Engineer-1_R23233",
+    "urls": [
+      "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/Portland-ME/Software-Development-Engineer-1_R23233"
     ]
   },
   "wiltshirefarmfoods::developer in software test": {
