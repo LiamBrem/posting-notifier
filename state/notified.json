@@ -109,6 +109,18 @@
       "https://www.optimumcareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1420351500/?ats=successfactors"
     ]
   },
+  "amax::engineer junior system": {
+    "company": "AMAX",
+    "notified_at": "2026-11-03T03:15:11.741507+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Junior System Engineer",
+    "url": "https://go.vansh.nyc/1bO?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1bO?s=A"
+    ]
+  },
   "amazon::annapurna developer engineer graviton labs software": {
     "company": "\ud83d\udd25 Amazon",
     "notified_at": "2026-10-27T22:35:10.442924+00:00",
@@ -2600,6 +2612,30 @@
     "urls": [
       "https://go.vansh.nyc/WC?s=A",
       "https://jobs.smartrecruiters.com/ServiceNow/744000157900224"
+    ]
+  },
+  "shield::development engineer software": {
+    "company": "Shield",
+    "notified_at": "2026-11-03T03:15:11.741507+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad 2027: Software Development Engineer",
+    "url": "https://go.vansh.nyc/1bQ?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1bQ?s=A"
+    ]
+  },
+  "shield::engineer software": {
+    "company": "Shield",
+    "notified_at": "2026-11-03T03:15:11.741507+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad: Software Engineer I",
+    "url": "https://go.vansh.nyc/1bP?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1bP?s=A"
     ]
   },
   "shieldai::2 engineer software": {
