@@ -1418,6 +1418,18 @@
       "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0288523"
     ]
   },
+  "intel::clocking design engineer physical": {
+    "company": "Intel",
+    "notified_at": "2026-11-04T08:20:13.906152+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Physical Design Clocking Engineer",
+    "url": "https://go.vansh.nyc/1gb?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1gb?s=A"
+    ]
+  },
   "intel::eda engineer software tools": {
     "company": "Intel",
     "notified_at": "2026-10-29T17:45:15.669121+00:00",
@@ -2061,7 +2073,8 @@
     "title": "New Grad: Software Engineer",
     "url": "https://go.vansh.nyc/1fJ?s=A",
     "urls": [
-      "https://go.vansh.nyc/1fJ?s=A"
+      "https://go.vansh.nyc/1fJ?s=A",
+      "https://go.vansh.nyc/1g9?s=A"
     ]
   },
   "northropgrumman::26 464 associate bm engineer software srm": {
@@ -2196,6 +2209,18 @@
     "url": "https://go.vansh.nyc/10d?s=A",
     "urls": [
       "https://go.vansh.nyc/10d?s=A"
+    ]
+  },
+  "northropgrumman::associate embedded engineer software": {
+    "company": "Northrop Grumman",
+    "notified_at": "2026-11-04T08:20:13.906152+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Associate Software Embedded Engineer \ud83c\uddfa\ud83c\uddf8",
+    "url": "https://go.vansh.nyc/1ga?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1ga?s=A"
     ]
   },
   "northropgrumman::associate engineer flight software": {
@@ -3233,6 +3258,42 @@
     "url": "https://go.vansh.nyc/1bQ?s=A",
     "urls": [
       "https://go.vansh.nyc/1bQ?s=A"
+    ]
+  },
+  "shield::engineer factory software team": {
+    "company": "Shield",
+    "notified_at": "2026-11-04T08:20:13.906152+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad: Engineer I, Software, Factory Team \ud83c\uddfa\ud83c\uddf8",
+    "url": "https://go.vansh.nyc/1ge?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1ge?s=A"
+    ]
+  },
+  "shield::engineer framework ii master s simulation": {
+    "company": "Shield",
+    "notified_at": "2026-11-04T08:20:13.906152+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad: Engineer II, Simulation Framework (Master's) \ud83c\uddfa\ud83c\uddf8",
+    "url": "https://go.vansh.nyc/1gc?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1gc?s=A"
+    ]
+  },
+  "shield::engineer framework simulation": {
+    "company": "Shield",
+    "notified_at": "2026-11-04T08:20:13.906152+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad: Engineer I, Simulation Framework \ud83c\uddfa\ud83c\uddf8",
+    "url": "https://go.vansh.nyc/1gd?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1gd?s=A"
     ]
   },
   "shield::engineer software": {
