@@ -692,6 +692,30 @@
       "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320"
     ]
   },
+  "captivationsoftware::aws confluence engineer java jira mapreduce maven software": {
+    "company": "Captivation Software",
+    "notified_at": "2026-11-04T19:00:19.320073+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Software Engineer 1 - Java/Confluence/Jira/AWS/Maven/MapReduce",
+    "url": "https://job-boards.greenhouse.io/captivation/jobs/5473266008",
+    "urls": [
+      "https://job-boards.greenhouse.io/captivation/jobs/5473266008"
+    ]
+  },
+  "captivationsoftware::aws elasticsearch engineer java kotlin opensearch python software terraform": {
+    "company": "Captivation Software",
+    "notified_at": "2026-11-04T19:00:19.320073+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Software Engineer 1 - Python/Kotlin/Java/Terraform/Elasticsearch/Opensearch/AWS",
+    "url": "https://job-boards.greenhouse.io/captivation/jobs/5473267008",
+    "urls": [
+      "https://job-boards.greenhouse.io/captivation/jobs/5473267008"
+    ]
+  },
   "captivationsoftware::aws engineer java mongodb scala software": {
     "company": "Captivation Software",
     "notified_at": "2026-11-03T22:05:12.721324+00:00",
@@ -702,6 +726,18 @@
     "url": "https://job-boards.greenhouse.io/captivation/jobs/5471546008",
     "urls": [
       "https://job-boards.greenhouse.io/captivation/jobs/5471546008"
+    ]
+  },
+  "captivationsoftware::aws engineer pyspark python software": {
+    "company": "Captivation Software",
+    "notified_at": "2026-11-04T19:00:19.320073+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Software Engineer 1 - Python/PySpark/AWS",
+    "url": "https://job-boards.greenhouse.io/captivation/jobs/5473268008",
+    "urls": [
+      "https://job-boards.greenhouse.io/captivation/jobs/5473268008"
     ]
   },
   "captivationsoftware::c dsp engineer frequency linux python radio software": {
