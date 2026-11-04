@@ -704,6 +704,18 @@
       "https://job-boards.greenhouse.io/captivation/jobs/5467652008"
     ]
   },
+  "cct::consultant technical": {
+    "company": "CCT",
+    "notified_at": "2026-11-04T00:20:13.479671+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Technical Consultant \ud83d\udec2",
+    "url": "https://go.vansh.nyc/1fP?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1fP?s=A"
+    ]
+  },
   "centene::cloud engineer platform": {
     "company": "Centene Corporation",
     "notified_at": "2026-11-03T19:25:20.816623+00:00",
@@ -951,6 +963,18 @@
     "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8202627",
     "urls": [
       "https://job-boards.greenhouse.io/deliveroo/jobs/8202627"
+    ]
+  },
+  "deloitte::consultant services tax technology": {
+    "company": "Deloitte",
+    "notified_at": "2026-11-04T00:20:13.479671+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad 2027: Tax Technology Services Consultant",
+    "url": "https://go.vansh.nyc/1fO?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1fO?s=A"
     ]
   },
   "draftkings::engineer software": {
