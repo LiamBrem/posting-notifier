@@ -2292,6 +2292,18 @@
       "https://go.vansh.nyc/DE?s=A"
     ]
   },
+  "microsoft::ai ceai commercial engineering software": {
+    "company": "Microsoft",
+    "notified_at": "2026-11-05T19:35:11.003456+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+    "urls": [
+      "https://apply.careers.microsoft.com/careers/job/1970393556914839"
+    ]
+  },
   "microsoft::coreai engineer software": {
     "company": "Microsoft",
     "notified_at": "2026-11-05T18:50:12.506790+00:00",
@@ -4103,12 +4115,14 @@
     "company": "StubHub",
     "notified_at": "2026-11-05T18:15:14.386026+00:00",
     "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs",
       "vanshb03/New-Grad-2027"
     ],
     "title": "New Grad: Software Engineer I, Consumer Experience",
     "url": "https://go.vansh.nyc/1iQ?s=A",
     "urls": [
-      "https://go.vansh.nyc/1iQ?s=A"
+      "https://go.vansh.nyc/1iQ?s=A",
+      "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5027626101"
     ]
   },
   "superapp::engineer software": {
