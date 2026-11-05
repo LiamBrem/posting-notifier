@@ -1586,6 +1586,18 @@
       "https://jobs.ashbyhq.com/handshake/c2cea12b-4dba-4782-ac2d-279c6865a4b7"
     ]
   },
+  "hartford::all associate catalyst engineer locations program software tech": {
+    "company": "The Hartford",
+    "notified_at": "2026-11-05T18:50:12.506790+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Associate Software Engineer - Tech Catalyst Program (All Locations)",
+    "url": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Hartford-CT/Associate-Software-Engineer---Tech-Catalyst-Program--All-Locations-_R2627074",
+    "urls": [
+      "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Hartford-CT/Associate-Software-Engineer---Tech-Catalyst-Program--All-Locations-_R2627074"
+    ]
+  },
   "hitachi::analyst data": {
     "company": "Hitachi",
     "notified_at": "2026-10-29T22:45:12.764098+00:00",
@@ -2234,7 +2246,7 @@
   },
   "microsoft::coreai engineer software": {
     "company": "Microsoft",
-    "notified_at": "2026-11-02T18:20:12.047009+00:00",
+    "notified_at": "2026-11-05T18:50:12.506790+00:00",
     "sources": [
       "ApplyGuy/2027-New-Grad-Jobs"
     ],
