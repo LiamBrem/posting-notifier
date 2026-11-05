@@ -1157,6 +1157,18 @@
       "https://go.vansh.nyc/19F?s=A"
     ]
   },
+  "everwatch::engineer junior software": {
+    "company": "Everwatch",
+    "notified_at": "2026-11-05T07:35:12.282316+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Junior Software Engineer",
+    "url": "https://everwatch-everwatchsolutions.icims.com/jobs/3573/job?mobile=true&needsRedirect=false",
+    "urls": [
+      "https://everwatch-everwatchsolutions.icims.com/jobs/3573/job?mobile=true&needsRedirect=false"
+    ]
+  },
   "exl::developer junior": {
     "company": "EXL",
     "notified_at": "2026-10-28T23:15:12.052193+00:00",
@@ -2920,6 +2932,31 @@
     "url": "https://careers-peraton.icims.com/jobs/173024/junior-software-engineer-%28aws-cloud-services%29/job",
     "urls": [
       "https://careers-peraton.icims.com/jobs/173024/junior-software-engineer-%28aws-cloud-services%29/job"
+    ]
+  },
+  "peraton::cloud engineer software": {
+    "company": "Peraton",
+    "notified_at": "2026-11-05T07:35:12.282316+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Cloud Software Engineer 1",
+    "url": "https://careers-peraton.icims.com/jobs/164003/job?mobile=true&needsRedirect=false",
+    "urls": [
+      "https://careers-peraton.icims.com/jobs/164003/job?mobile=true&needsRedirect=false"
+    ]
+  },
+  "peraton::engineer junior software": {
+    "company": "Peraton",
+    "notified_at": "2026-11-05T07:35:12.282316+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Junior Software Engineer",
+    "url": "https://careers-peraton.icims.com/jobs/168379/job?mobile=true&needsRedirect=false",
+    "urls": [
+      "https://careers-peraton.icims.com/jobs/147065/job?mobile=true&needsRedirect=false",
+      "https://careers-peraton.icims.com/jobs/168379/job?mobile=true&needsRedirect=false"
     ]
   },
   "perpay::analyst junior strategic": {
