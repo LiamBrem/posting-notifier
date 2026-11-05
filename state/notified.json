@@ -169,6 +169,18 @@
       "https://www.amazon.jobs/jobs/10593902/apply"
     ]
   },
+  "amazon::developer engineer platform security software": {
+    "company": "\ud83d\udd25 Amazon",
+    "notified_at": "2026-11-05T02:35:11.897461+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Developer Engineer 1 - Security Platform",
+    "url": "https://amazon.jobs/en/jobs/10597112/software-dev-engineer-i-security-platform",
+    "urls": [
+      "https://amazon.jobs/en/jobs/10597112/software-dev-engineer-i-security-platform"
+    ]
+  },
   "amazon::development embedded engineer software systems": {
     "company": "Amazon",
     "notified_at": "2026-11-03T20:20:23.364722+00:00",
@@ -2780,14 +2792,14 @@
   },
   "pacificnorthwestnationallaboratory::engineer software": {
     "company": "Pacific Northwest National Laboratory",
-    "notified_at": "2026-10-27T22:35:10.442924+00:00",
+    "notified_at": "2026-11-05T02:35:11.897461+00:00",
     "sources": [
       "SimplifyJobs/New-Grad-Positions"
     ],
-    "title": "Software Engineer 1",
-    "url": "https://careers.pnnl.gov/jobs/12640?icims=1",
+    "title": "Early Career Software Engineer",
+    "url": "https://careers.pnnl.gov/jobs/12900?icims=1",
     "urls": [
-      "https://careers.pnnl.gov/jobs/12640?icims=1"
+      "https://careers.pnnl.gov/jobs/12900?icims=1"
     ]
   },
   "pae::developer software tools": {
@@ -3909,6 +3921,20 @@
       "https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Plymouth-MA/Software-Engineer-I_JR2890",
       "https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR2898",
       "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR2898"
+    ]
+  },
+  "twitch::development engineer platform security software": {
+    "company": "Twitch",
+    "notified_at": "2026-11-05T02:35:11.897461+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Development Engineer 1 - Security Platform",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8931345002",
+    "urls": [
+      "https://job-boards.greenhouse.io/twitch/jobs/8929545002",
+      "https://job-boards.greenhouse.io/twitch/jobs/8931343002",
+      "https://job-boards.greenhouse.io/twitch/jobs/8931345002"
     ]
   },
   "unitedmethodistcommunities::ai applied beam developer": {
