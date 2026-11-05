@@ -695,11 +695,13 @@
     "company": "CACI",
     "notified_at": "2026-11-05T15:50:13.856768+00:00",
     "sources": [
+      "SimplifyJobs/New-Grad-Positions",
       "vanshb03/New-Grad-2027"
     ],
     "title": "Junior Software Developer",
     "url": "https://go.vansh.nyc/1iG?s=A",
     "urls": [
+      "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Junior-Software-Developer_334685",
       "https://go.vansh.nyc/1iG?s=A"
     ]
   },
@@ -3589,11 +3591,13 @@
     "company": "RTX",
     "notified_at": "2026-11-02T19:35:11.559135+00:00",
     "sources": [
-      "ApplyGuy/2027-New-Grad-Jobs"
+      "ApplyGuy/2027-New-Grad-Jobs",
+      "SimplifyJobs/New-Grad-Positions"
     ],
     "title": "Software Engineer I (Hybrid)",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Hybrid-_01877905",
     "urls": [
+      "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I_01885871-1",
       "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Hybrid-_01877905"
     ]
   },
