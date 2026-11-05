@@ -1313,6 +1313,18 @@
       "https://go.vansh.nyc/1f9?s=A"
     ]
   },
+  "garmin::c engineer maptech mec software": {
+    "company": "Garmin",
+    "notified_at": "2026-11-05T09:05:11.074600+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer 1 - C++ MEC Maptech",
+    "url": "https://careers.garmin.com/jobs/20439?icims=1",
+    "urls": [
+      "https://careers.garmin.com/jobs/20439?icims=1"
+    ]
+  },
   "gdit::analyst center operations security soc tier": {
     "company": "GDIT",
     "notified_at": "2026-10-29T14:15:15.142866+00:00",
@@ -1346,7 +1358,9 @@
     "title": "Software Engineer - Entry Level",
     "url": "https://careers-gdms.icims.com/jobs/74471/job?mobile=true&needsRedirect=false",
     "urls": [
-      "https://careers-gdms.icims.com/jobs/74471/job?mobile=true&needsRedirect=false"
+      "https://careers-gdms.icims.com/jobs/74471/job?mobile=true&needsRedirect=false",
+      "https://careers-gdms.icims.com/jobs/75608/job?mobile=true&needsRedirect=false",
+      "https://careers-gdms.icims.com/jobs/75792/job?mobile=true&needsRedirect=false"
     ]
   },
   "generalmotors::and av engineer hil platform services software": {
@@ -2946,6 +2960,18 @@
       "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AL-Huntsville/Software-Tools-Developer--Entry-Level_R0174727"
     ]
   },
+  "panasonic::engineer software": {
+    "company": "Panasonic Holdings",
+    "notified_at": "2026-11-05T09:05:11.074600+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer 1",
+    "url": "https://careers.na.panasonic.com/jobs/51755?icims=1&lang=en-us",
+    "urls": [
+      "https://careers.na.panasonic.com/jobs/51755?icims=1&lang=en-us"
+    ]
+  },
   "paperlessparts::engineer platform": {
     "company": "Paperless Parts",
     "notified_at": "2026-11-04T18:48:51.537725+00:00",
@@ -4267,6 +4293,18 @@
     "urls": [
       "https://go.vansh.nyc/10u?s=A",
       "https://go.vansh.nyc/11h?s=A"
+    ]
+  },
+  "wonderbrands::developer fullstack software": {
+    "company": "Wonderbrands",
+    "notified_at": "2026-11-05T09:05:11.074600+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Fullstack Software Developer New Grad",
+    "url": "https://careersen-wonderbrands.icims.com/jobs/27702/job?mobile=true&needsRedirect=false",
+    "urls": [
+      "https://careersen-wonderbrands.icims.com/jobs/27702/job?mobile=true&needsRedirect=false"
     ]
   },
   "zebra::engineer professional software": {
