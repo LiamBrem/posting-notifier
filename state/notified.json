@@ -1634,15 +1634,13 @@
   },
   "google::engineer ii software": {
     "company": "Google",
-    "notified_at": "2026-11-02T11:15:20.253352+00:00",
+    "notified_at": "2026-11-06T10:35:10.274361+00:00",
     "sources": [
-      "ApplyGuy/2027-New-Grad-Jobs",
-      "speedyapply/2027-SWE-College-Jobs"
+      "ApplyGuy/2027-New-Grad-Jobs"
     ],
     "title": "Software Engineer II, Early Career",
     "url": "https://www.google.com/about/careers/applications/jobs/results/109116638069957318-software-engineer-ii-early-career",
     "urls": [
-      "https://www.google.com/about/careers/applications/jobs/results/109116638069957318",
       "https://www.google.com/about/careers/applications/jobs/results/109116638069957318-software-engineer-ii-early-career"
     ]
   },
@@ -4492,6 +4490,18 @@
       "https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Plymouth-MA/Software-Engineer-I_JR2915"
     ]
   },
+  "twitch::community engineer growth software": {
+    "company": "Twitch",
+    "notified_at": "2026-11-06T10:35:10.274361+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Software Engineer I - Community Growth",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8879673002",
+    "urls": [
+      "https://job-boards.greenhouse.io/twitch/jobs/8879673002"
+    ]
+  },
   "twitch::development engineer platform security software": {
     "company": "Twitch",
     "notified_at": "2026-11-05T02:35:11.897461+00:00",
@@ -4504,6 +4514,18 @@
       "https://job-boards.greenhouse.io/twitch/jobs/8929545002",
       "https://job-boards.greenhouse.io/twitch/jobs/8931343002",
       "https://job-boards.greenhouse.io/twitch/jobs/8931345002"
+    ]
+  },
+  "twitch::engineer software": {
+    "company": "Twitch",
+    "notified_at": "2026-11-06T10:35:10.274361+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Software Engineer I",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8887222002",
+    "urls": [
+      "https://job-boards.greenhouse.io/twitch/jobs/8887222002"
     ]
   },
   "unitedmethodistcommunities::ai applied beam developer": {
