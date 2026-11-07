@@ -435,6 +435,18 @@
       "https://jobs.ashbyhq.com/applied/48bab48f-c708-40b6-ac2c-36bb704287b3"
     ]
   },
+  "appliedmaterials::bachelors clara degree engineer santa software": {
+    "company": "Applied Materials",
+    "notified_at": "2026-11-07T17:40:12.556755+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer - Bachelors Degree - New College Grad - Santa Clara",
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Software-Engineer--Bachelors-Degree--New-College-Grad--Santa-Clara-_R2630683",
+    "urls": [
+      "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Software-Engineer--Bachelors-Degree--New-College-Grad--Santa-Clara-_R2630683"
+    ]
+  },
   "appliedmaterials::engineer global software support": {
     "company": "Applied Materials",
     "notified_at": "2026-11-03T19:25:20.816623+00:00",
@@ -654,14 +666,14 @@
   },
   "boeing::associate engineer experienced or software systems": {
     "company": "Boeing",
-    "notified_at": "2026-11-03T19:25:20.816623+00:00",
+    "notified_at": "2026-11-07T17:40:12.556755+00:00",
     "sources": [
       "speedyapply/2027-SWE-College-Jobs"
     ],
-    "title": "Systems Software Engineer - Associate or Experienced",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Chantilly-VA/Systems-Software-Engineer--Associate-or-Experienced-_JR2026525892-1",
+    "title": "Software Systems Engineer - Associate or Experienced",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Seal-Beach-CA/Software-Systems-Engineer--Associate-or-Experienced-_JR2026523046",
     "urls": [
-      "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Chantilly-VA/Systems-Software-Engineer--Associate-or-Experienced-_JR2026525892-1"
+      "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Seal-Beach-CA/Software-Systems-Engineer--Associate-or-Experienced-_JR2026523046"
     ]
   },
   "boeing::associate engineer software": {
@@ -1200,6 +1212,18 @@
     "url": "https://go.vansh.nyc/Zp?s=A",
     "urls": [
       "https://go.vansh.nyc/Zp?s=A"
+    ]
+  },
+  "cisco::engineer qa software states united": {
+    "company": "Cisco",
+    "notified_at": "2026-11-07T17:40:12.556755+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software QA Engineer I - Full Time - United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Richardson-Texas-US/Software-QA-Engineer-I--Full-Time----United-States_2030253",
+    "urls": [
+      "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Richardson-Texas-US/Software-QA-Engineer-I--Full-Time----United-States_2030253"
     ]
   },
   "cisco::engineer software": {
@@ -1910,6 +1934,20 @@
       "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Hartford-CT/Associate-Software-Engineer---Tech-Catalyst-Program--All-Locations-_R2627074"
     ]
   },
+  "hewlettpackardenterprise::2 access development engineer point software wireless": {
+    "company": "Hewlett Packard Enterprise",
+    "notified_at": "2026-11-07T17:40:12.556755+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer 2 - Wireless Access Point Development",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Cupertino-California-United-States-of-America/Software-Engineer-2---Wireless-Access-Point-Development_1217741",
+    "urls": [
+      "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Cupertino-California-United-States-of-America/Software-Engineer-2---Wireless-Access-Point-Development_1217741",
+      "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Cupertino-California-United-States-of-America/Software-Engineer-2---Wireless-Access-Point-Development_1217743-2",
+      "https://hpe.wd5.myworkdayjobs.com/en-US/wfmathpe/job/Cupertino-California-United-States-of-America/Software-Engineer-2---Wireless-Access-Point-Development_1217741-1"
+    ]
+  },
   "hitachi::analyst data": {
     "company": "Hitachi",
     "notified_at": "2026-10-29T22:45:12.764098+00:00",
@@ -2290,6 +2328,18 @@
       "https://go.vansh.nyc/YT?s=A"
     ]
   },
+  "kla::development embedded engineer firmware image processing software": {
+    "company": "KLA",
+    "notified_at": "2026-11-07T17:40:12.556755+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer - Embedded Software/Firmware Development - Embedded Image Processing",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Ann-Arbor-MI/Software-Engineer---Embedded-Software-Firmware-Development---Embedded-Image-Processing--_2636711-1",
+    "urls": [
+      "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Ann-Arbor-MI/Software-Engineer---Embedded-Software-Firmware-Development---Embedded-Image-Processing--_2636711-1"
+    ]
+  },
   "kla::engineer master s software": {
     "company": "KLA",
     "notified_at": "2026-11-03T18:50:22.893487+00:00",
@@ -2487,7 +2537,7 @@
   },
   "lutron::application cincinnati engineer oh project software": {
     "company": "Lutron",
-    "notified_at": "2026-11-03T19:25:20.816623+00:00",
+    "notified_at": "2026-11-07T17:40:12.556755+00:00",
     "sources": [
       "speedyapply/2027-SWE-College-Jobs"
     ],
@@ -2499,7 +2549,7 @@
   },
   "lutron::application engineer lehigh pa project software valley": {
     "company": "Lutron",
-    "notified_at": "2026-10-31T17:10:11.243198+00:00",
+    "notified_at": "2026-11-07T17:40:12.556755+00:00",
     "sources": [
       "speedyapply/2027-SWE-College-Jobs"
     ],
@@ -2547,7 +2597,7 @@
   },
   "lutron::beach boynton embedded engineer firmware fl project": {
     "company": "Lutron",
-    "notified_at": "2026-11-02T21:40:23.393577+00:00",
+    "notified_at": "2026-11-07T17:40:12.556755+00:00",
     "sources": [
       "speedyapply/2027-SWE-College-Jobs"
     ],
