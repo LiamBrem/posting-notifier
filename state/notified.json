@@ -522,11 +522,13 @@
     "notified_at": "2026-11-06T19:35:11.266622+00:00",
     "sources": [
       "ApplyGuy/2027-New-Grad-Jobs",
-      "speedyapply/2027-SWE-College-Jobs"
+      "speedyapply/2027-SWE-College-Jobs",
+      "vanshb03/New-Grad-2027"
     ],
     "title": "Software Engineer - Early Career",
     "url": "https://www.asm.com/open-vacancies/?gh_jid=5019821101",
     "urls": [
+      "https://go.vansh.nyc/1na?s=A",
       "https://www.asm.com/open-vacancies/?gh_jid=5019821101"
     ]
   },
@@ -1156,12 +1158,14 @@
     "company": "Charles Schwab",
     "notified_at": "2026-11-08T17:50:13.370207+00:00",
     "sources": [
-      "speedyapply/2027-SWE-College-Jobs"
+      "speedyapply/2027-SWE-College-Jobs",
+      "vanshb03/New-Grad-2027"
     ],
     "title": "Jr. Software Developer",
     "url": "https://career-schwab.icims.com/jobs/129410/jr.-software-developer/job",
     "urls": [
-      "https://career-schwab.icims.com/jobs/129410/jr.-software-developer/job"
+      "https://career-schwab.icims.com/jobs/129410/jr.-software-developer/job",
+      "https://go.vansh.nyc/1nb?s=A"
     ]
   },
   "charlesschwab::developer junior software": {
@@ -2590,11 +2594,13 @@
     "company": "Lawrence Livermore National Laboratory",
     "notified_at": "2026-11-08T17:50:13.370207+00:00",
     "sources": [
-      "speedyapply/2027-SWE-College-Jobs"
+      "speedyapply/2027-SWE-College-Jobs",
+      "vanshb03/New-Grad-2027"
     ],
     "title": "Embedded Systems Engineer - Super Intelligence Integration",
     "url": "https://jobs.smartrecruiters.com/LLNL/3743990016713546-embedded-systems-engineer-super-intelligence-integration?oga=true",
     "urls": [
+      "https://go.vansh.nyc/1n9?s=A",
       "https://jobs.smartrecruiters.com/LLNL/3743990016713546-embedded-systems-engineer-super-intelligence-integration?oga=true"
     ]
   },
