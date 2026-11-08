@@ -1363,6 +1363,30 @@
       "https://go.vansh.nyc/1fu?s=A"
     ]
   },
+  "d3::backend engineer": {
+    "company": "D3",
+    "notified_at": "2026-11-08T13:20:11.243518+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad: Backend Engineer",
+    "url": "https://go.vansh.nyc/1mR?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1mR?s=A"
+    ]
+  },
+  "d3::engineer frontend": {
+    "company": "D3",
+    "notified_at": "2026-11-08T13:20:11.243518+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad: Frontend Engineer",
+    "url": "https://go.vansh.nyc/1mS?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1mS?s=A"
+    ]
+  },
   "databricks::data distributed engineer software systems": {
     "company": "Databricks",
     "notified_at": "2026-10-27T22:10:13.255968+00:00",
