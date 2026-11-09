@@ -3068,6 +3068,18 @@
       "https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids-MI/Software-Engineer_R000692154"
     ]
   },
+  "mercuryinsurance::engineer software": {
+    "company": "Mercury Insurance",
+    "notified_at": "2026-11-09T23:35:11.192453+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer 1",
+    "url": "https://careers-mercuryinsurance.icims.com/jobs/6943/job?mobile=true&needsRedirect=false",
+    "urls": [
+      "https://careers-mercuryinsurance.icims.com/jobs/6943/job?mobile=true&needsRedirect=false"
+    ]
+  },
   "microchip::design engineer": {
     "company": "Microchip Technology",
     "notified_at": "2026-11-05T03:15:13.830357+00:00",
@@ -5335,6 +5347,18 @@
       "https://job-boards.greenhouse.io/superapp/jobs/8813982002"
     ]
   },
+  "surlatable::engineer junior software": {
+    "company": "Sur La Table",
+    "notified_at": "2026-11-09T23:35:11.192453+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Junior Software Engineer",
+    "url": "https://jobs.lever.co/cscgeneration-2/61ba3ce6-b92b-45b4-932d-0c66e5e19185/apply",
+    "urls": [
+      "https://jobs.lever.co/cscgeneration-2/61ba3ce6-b92b-45b4-932d-0c66e5e19185/apply"
+    ]
+  },
   "susquehannainternational::master quantitative researcher s sports": {
     "company": "Susquehanna International Group",
     "notified_at": "2026-11-05T08:10:14.569054+00:00",
@@ -5763,12 +5787,14 @@
     "company": "WHOOP",
     "notified_at": "2026-11-09T21:20:13.273881+00:00",
     "sources": [
+      "SimplifyJobs/New-Grad-Positions",
       "vanshb03/New-Grad-2027"
     ],
     "title": "Software Engineer I (Backend, Growth)",
     "url": "https://go.vansh.nyc/1pe?s=A",
     "urls": [
-      "https://go.vansh.nyc/1pe?s=A"
+      "https://go.vansh.nyc/1pe?s=A",
+      "https://jobs.ashbyhq.com/whoop/d31312c2-236a-45f1-8da7-61a7ca8d1622/application?embed=true"
     ]
   },
   "wiltshirefarmfoods::developer in software test": {
@@ -5812,12 +5838,14 @@
     "company": "Wolverine Trading",
     "notified_at": "2026-11-09T18:50:15.511060+00:00",
     "sources": [
+      "SimplifyJobs/New-Grad-Positions",
       "vanshb03/New-Grad-2027"
     ],
     "title": "New Grad: C++ Software Engineer",
     "url": "https://go.vansh.nyc/1oT?s=A",
     "urls": [
-      "https://go.vansh.nyc/1oT?s=A"
+      "https://go.vansh.nyc/1oT?s=A",
+      "https://wolve.pinpointhq.com/en/postings/33228344-bcc7-4bcd-b3cb-22b60aaee82c?ats=pinpointhq"
     ]
   },
   "wonderbrands::developer fullstack software": {
