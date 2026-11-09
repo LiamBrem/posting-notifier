@@ -934,6 +934,30 @@
       "https://job-boards.greenhouse.io/getbuilt/jobs/4749545005"
     ]
   },
+  "caci::arcgis developer": {
+    "company": "CACI",
+    "notified_at": "2026-11-09T22:10:14.575953+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "ArcGis Developer",
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Remote-Any-State/ArcGis-Developer_334610",
+    "urls": [
+      "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Remote-Any-State/ArcGis-Developer_334610"
+    ]
+  },
+  "caci::c engineer junior software": {
+    "company": "CACI",
+    "notified_at": "2026-11-09T22:10:14.575953+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Junior C# Software Engineer",
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Virginia-Beach-VA-US/Junior-C--Software-Engineer_334764",
+    "urls": [
+      "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Virginia-Beach-VA-US/Junior-C--Software-Engineer_334764"
+    ]
+  },
   "caci::developer junior software": {
     "company": "CACI",
     "notified_at": "2026-11-05T15:50:13.856768+00:00",
@@ -1196,12 +1220,26 @@
     "company": "Chewy",
     "notified_at": "2026-11-07T00:05:10.591995+00:00",
     "sources": [
-      "SimplifyJobs/New-Grad-Positions"
+      "SimplifyJobs/New-Grad-Positions",
+      "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Software Engineer 1 - Full Stack - Promotions",
     "url": "https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Boston-MA/Software-Engineer-I--Full-Stack--Promotions_R31442",
     "urls": [
+      "https://chewy.wd5.myworkdayjobs.com/en-US/external/job/Boston-MA/Software-Engineer-I--Full-Stack--Promotions_R31442",
       "https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Boston-MA/Software-Engineer-I--Full-Stack--Promotions_R31442"
+    ]
+  },
+  "chewy::engineer software": {
+    "company": "Chewy",
+    "notified_at": "2026-11-09T22:10:14.575953+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer I",
+    "url": "https://chewy.wd5.myworkdayjobs.com/en-US/external/job/Boston-MA/Software-Engineer-I_R31431",
+    "urls": [
+      "https://chewy.wd5.myworkdayjobs.com/en-US/external/job/Boston-MA/Software-Engineer-I_R31431"
     ]
   },
   "chicagotrading::associate quant trading": {
@@ -1239,6 +1277,18 @@
     "url": "https://go.vansh.nyc/Nk?s=A",
     "urls": [
       "https://go.vansh.nyc/Nk?s=A"
+    ]
+  },
+  "cisco::ai data engineer ii software states united": {
+    "company": "Cisco",
+    "notified_at": "2026-11-09T22:10:14.575953+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer Data & AI II - Full Time - United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-II--Full-Time----United-States_2030929",
+    "urls": [
+      "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-II--Full-Time----United-States_2030929"
     ]
   },
   "cisco::analyst data science": {
@@ -1288,6 +1338,18 @@
     "url": "https://go.vansh.nyc/1hr?s=A",
     "urls": [
       "https://go.vansh.nyc/1hr?s=A"
+    ]
+  },
+  "cisco::embedded engineer software states systems united": {
+    "company": "Cisco",
+    "notified_at": "2026-11-09T22:10:14.575953+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer Embedded Systems I - Full Time - United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Full-Time----United-States_2024231-1",
+    "urls": [
+      "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Full-Time----United-States_2024231-1"
     ]
   },
   "cisco::embedded engineer software systems": {
@@ -1619,6 +1681,18 @@
     "url": "https://go.vansh.nyc/1kT?s=A",
     "urls": [
       "https://go.vansh.nyc/1kT?s=A"
+    ]
+  },
+  "eastersealssoutherncalifornia::days developer disability employment f job m meaningful services specialist vocational": {
+    "company": "Easterseals Southern California",
+    "notified_at": "2026-11-09T22:10:14.575953+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Vocational Specialist - M-F Days - Job Developer - Meaningful Employment - Disability Services",
+    "url": "https://essc.wd501.myworkdayjobs.com/en-US/essc_careers/job/US-CA-Culver-City/Vocational-Specialist---M-F-Days---Job-Developer----Meaningful-Employment----Disability-Services_R-1000002832-1",
+    "urls": [
+      "https://essc.wd501.myworkdayjobs.com/en-US/essc_careers/job/US-CA-Culver-City/Vocational-Specialist---M-F-Days---Job-Developer----Meaningful-Employment----Disability-Services_R-1000002832-1"
     ]
   },
   "ebsco::developer engineer software": {
@@ -2176,10 +2250,25 @@
     "url": "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Cupertino-California-United-States-of-America/Software-Engineer-2---Wireless-Access-Point-Development_1217741",
     "urls": [
       "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Cupertino-California-United-States-of-America/Software-Engineer-2---Wireless-Access-Point-Development_1217741",
+      "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Cupertino-California-United-States-of-America/Software-Engineer-2---Wireless-Access-Point-Development_1217743",
       "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Cupertino-California-United-States-of-America/Software-Engineer-2---Wireless-Access-Point-Development_1217742-1",
       "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Cupertino-California-United-States-of-America/Software-Engineer-2---Wireless-Access-Point-Development_1217743-2",
       "https://hpe.wd5.myworkdayjobs.com/en-US/wfmathpe/job/Cupertino-California-United-States-of-America/Software-Engineer-2---Wireless-Access-Point-Development_1217741-1",
+      "https://hpe.wd5.myworkdayjobs.com/en-US/wfmathpe/job/Cupertino-California-United-States-of-America/Software-Engineer-2---Wireless-Access-Point-Development_1217742",
       "https://hpe.wd5.myworkdayjobs.com/en-US/wfmathpe/job/Cupertino-California-United-States-of-America/Software-Engineer-2---Wireless-Access-Point-Development_1217743-1"
+    ]
+  },
+  "hewlettpackardenterprise::engineer software storage systems": {
+    "company": "Hewlett Packard Enterprise",
+    "notified_at": "2026-11-09T22:10:14.575953+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Storage Systems/Software Engineer",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Andover-Massachusetts-United-States-of-America/Storage-Systems-Software-Engineer_1215626",
+    "urls": [
+      "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Andover-Massachusetts-United-States-of-America/Storage-Systems-Software-Engineer_1215626",
+      "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Andover-Massachusetts-United-States-of-America/Storage-Systems-Software-Engineer_1215626-2"
     ]
   },
   "hitachi::analyst data": {
@@ -2216,6 +2305,18 @@
     "url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-1",
     "urls": [
       "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-1"
+    ]
+  },
+  "hp::engineer product security software": {
+    "company": "HP",
+    "notified_at": "2026-11-09T22:10:14.575953+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Product Security Engineer",
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer_UNI4745",
+    "urls": [
+      "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer_UNI4745"
     ]
   },
   "humaninterest::engineer software": {
@@ -3113,14 +3214,14 @@
   },
   "moog::associate engineer software": {
     "company": "Moog",
-    "notified_at": "2026-11-06T22:05:12.288721+00:00",
+    "notified_at": "2026-11-09T22:10:14.575953+00:00",
     "sources": [
-      "ApplyGuy/2027-New-Grad-Jobs"
+      "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Associate Software Engineer",
-    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Software-Engineer_R-26-21135",
+    "url": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Buffalo-NY/Associate-Software-Engineer_R-26-21135",
     "urls": [
-      "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Software-Engineer_R-26-21135"
+      "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Buffalo-NY/Associate-Software-Engineer_R-26-21135"
     ]
   },
   "morningstar::ai associate central engineer software tech": {
@@ -3869,6 +3970,18 @@
       "https://jobs.ashbyhq.com/old-mission-capital/78e433a8-cd5f-404d-8f58-3fcb61e9837d/application?embed=true"
     ]
   },
+  "oldrepublictitle::application insurance software support title": {
+    "company": "Old Republic Title",
+    "notified_at": "2026-11-09T22:10:14.575953+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Title Insurance Software Application Support",
+    "url": "https://oldrepublic.wd1.myworkdayjobs.com/en-US/oldrepublictitle/job/CA-Roseville-524-Gibson-Dr/Title-Insurance-Software-Application-Support_R-4406",
+    "urls": [
+      "https://oldrepublic.wd1.myworkdayjobs.com/en-US/oldrepublictitle/job/CA-Roseville-524-Gibson-Dr/Title-Insurance-Software-Application-Support_R-4406"
+    ]
+  },
   "otterai::end engineer front software": {
     "company": "Otter.ai",
     "notified_at": "2026-10-27T22:35:10.442924+00:00",
@@ -3879,6 +3992,18 @@
     "url": "https://otter.ai/careers?gh_jid=8016078003",
     "urls": [
       "https://otter.ai/careers?gh_jid=8016078003"
+    ]
+  },
+  "ovative::analyst data engineer software": {
+    "company": "Ovative Group",
+    "notified_at": "2026-11-09T22:10:14.575953+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Analyst - Data & Software Engineer",
+    "url": "https://ovative.wd12.myworkdayjobs.com/en-US/ovative/job/Minneapolis/Analyst--Data---Software-Engineer_JR100342",
+    "urls": [
+      "https://ovative.wd12.myworkdayjobs.com/en-US/ovative/job/Minneapolis/Analyst--Data---Software-Engineer_JR100342"
     ]
   },
   "pacificnorthwestnationallaboratory::engineer software": {
@@ -4120,6 +4245,18 @@
     "url": "https://go.vansh.nyc/YG?s=A",
     "urls": [
       "https://go.vansh.nyc/YG?s=A"
+    ]
+  },
+  "pwc::associate deployed engineer experienced forward foundry palantir software": {
+    "company": "PwC",
+    "notified_at": "2026-11-09T22:10:14.575953+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Forward Deployed Software Engineer-Palantir Foundry-Experienced Associate",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/us_experienced_careers/job/IL-Chicago/Forward-Deployed-Software-Engineer-Palantir-Foundry-Experienced-Associate_763755WD",
+    "urls": [
+      "https://pwc.wd3.myworkdayjobs.com/en-US/us_experienced_careers/job/IL-Chicago/Forward-Deployed-Software-Engineer-Palantir-Foundry-Experienced-Associate_763755WD"
     ]
   },
   "qualtrics::data development engineer platform software": {
@@ -4738,6 +4875,18 @@
       "https://ats.rippling.com/shadowdragon/jobs/69df1efd-5f05-4a79-9432-30925eb6db3c"
     ]
   },
+  "shi::billing cloud operations specialist": {
+    "company": "SHI",
+    "notified_at": "2026-11-09T22:10:14.575953+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Cloud Billing & Operations Specialist",
+    "url": "https://shi.wd12.myworkdayjobs.com/en-US/shicareers/job/Somerset-NJ-USA/Cloud-Billing---Operations-Specialist_JR3989-1",
+    "urls": [
+      "https://shi.wd12.myworkdayjobs.com/en-US/shicareers/job/Somerset-NJ-USA/Cloud-Billing---Operations-Specialist_JR3989-1"
+    ]
+  },
   "shield::development engineer software": {
     "company": "Shield",
     "notified_at": "2026-11-03T03:15:11.741507+00:00",
@@ -4814,7 +4963,8 @@
     "company": "Shield AI",
     "notified_at": "2026-11-08T18:05:12.415778+00:00",
     "sources": [
-      "ApplyGuy/2027-New-Grad-Jobs"
+      "ApplyGuy/2027-New-Grad-Jobs",
+      "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125",
     "url": "https://jobs.lever.co/shieldai/af183d8c-51d0-40df-9c04-fbddae0d83aa",
@@ -4826,7 +4976,8 @@
     "company": "Shield AI",
     "notified_at": "2026-11-08T18:05:12.415778+00:00",
     "sources": [
-      "ApplyGuy/2027-New-Grad-Jobs"
+      "ApplyGuy/2027-New-Grad-Jobs",
+      "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Engineer I, Software - Autonomy Capabilities - New Grad - 6129",
     "url": "https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896",
@@ -4838,7 +4989,8 @@
     "company": "Shield AI",
     "notified_at": "2026-11-08T18:05:12.415778+00:00",
     "sources": [
-      "ApplyGuy/2027-New-Grad-Jobs"
+      "ApplyGuy/2027-New-Grad-Jobs",
+      "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Engineer I, Software - Perception - New Grad - 6135",
     "url": "https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319",
@@ -5113,6 +5265,18 @@
     "urls": [
       "https://boards.greenhouse.io/spacex/jobs/8927257002?gh_jid=8927257002",
       "https://go.vansh.nyc/1dT?s=A"
+    ]
+  },
+  "spacex::engineer internal platforms software stack": {
+    "company": "SpaceX",
+    "notified_at": "2026-11-09T22:10:14.575953+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Full Stack Software Engineer - Internal Platforms",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8934563002?gh_jid=8934563002",
+    "urls": [
+      "https://boards.greenhouse.io/spacex/jobs/8934563002?gh_jid=8934563002"
     ]
   },
   "startree::engineer software": {
