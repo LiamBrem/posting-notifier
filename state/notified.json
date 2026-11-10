@@ -4989,40 +4989,88 @@
       "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Software-Engineering-MTS_JR363598"
     ]
   },
-  "sambanova::compiler engineer": {
-    "company": "SambaNova Systems",
-    "notified_at": "2026-10-27T23:05:10.430792+00:00",
+  "sambanova::cloud engineer platform": {
+    "company": "SambaNova",
+    "notified_at": "2026-11-10T11:20:12.094134+00:00",
     "sources": [
-      "SimplifyJobs/New-Grad-Positions"
+      "vanshb03/New-Grad-2027"
     ],
-    "title": "Compiler Engineer New Grad",
-    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6224835004",
+    "title": "New Grad: Cloud Platform Engineer",
+    "url": "https://go.vansh.nyc/1qj?s=A",
     "urls": [
-      "https://sambanova.ai/sambanova-available-positions/?gh_jid=6224835004"
+      "https://go.vansh.nyc/1qj?s=A"
+    ]
+  },
+  "sambanova::compiler engineer": {
+    "company": "SambaNova",
+    "notified_at": "2026-11-10T11:20:12.094134+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad: Compiler Engineer",
+    "url": "https://go.vansh.nyc/1qk?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1qk?s=A"
+    ]
+  },
+  "sambanova::design engineer physical": {
+    "company": "SambaNova",
+    "notified_at": "2026-11-10T11:20:12.094134+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad: Physical Design Engineer",
+    "url": "https://go.vansh.nyc/1qo?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1qo?s=A"
+    ]
+  },
+  "sambanova::design engineer verification": {
+    "company": "SambaNova",
+    "notified_at": "2026-11-10T11:20:12.094134+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad: Design Verification Engineer",
+    "url": "https://go.vansh.nyc/1ql?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1ql?s=A"
     ]
   },
   "sambanova::engineer infrastructure ml": {
-    "company": "SambaNova Systems",
-    "notified_at": "2026-10-27T23:05:10.430792+00:00",
+    "company": "SambaNova",
+    "notified_at": "2026-11-10T11:20:12.094134+00:00",
     "sources": [
-      "SimplifyJobs/New-Grad-Positions"
+      "vanshb03/New-Grad-2027"
     ],
-    "title": "ML Infrastructure Engineer New Grad",
-    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004",
+    "title": "New Grad: ML Infrastructure Engineer",
+    "url": "https://go.vansh.nyc/1qn?s=A",
     "urls": [
-      "https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004"
+      "https://go.vansh.nyc/1qn?s=A"
     ]
   },
   "sambanova::engineer learning machine": {
-    "company": "SambaNova Systems",
-    "notified_at": "2026-11-03T20:50:18.637739+00:00",
+    "company": "SambaNova",
+    "notified_at": "2026-11-10T11:20:12.094134+00:00",
     "sources": [
-      "ApplyGuy/2027-New-Grad-Jobs"
+      "vanshb03/New-Grad-2027"
     ],
-    "title": "Machine Learning Engineer - New Grad",
-    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004",
+    "title": "New Grad: Machine Learning Engineer",
+    "url": "https://go.vansh.nyc/1qm?s=A",
     "urls": [
-      "https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004"
+      "https://go.vansh.nyc/1qm?s=A"
+    ]
+  },
+  "sambanova::engineer runtime": {
+    "company": "SambaNova",
+    "notified_at": "2026-11-10T11:20:12.094134+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad: Runtime Engineer",
+    "url": "https://go.vansh.nyc/1qp?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1qp?s=A"
     ]
   },
   "samsara::engineer software": {
