@@ -666,6 +666,18 @@
       "https://jobs.ashbyhq.com/bagsfm/012239d1-0c6c-4e87-9cfa-22d8ba4e5cb4/application?embed=true"
     ]
   },
+  "bakertilly::associate data engineer": {
+    "company": "Bakertilly",
+    "notified_at": "2026-11-10T18:30:19.516008+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Associate Data Engineer",
+    "url": "https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/Madison-WI/Associate-Data-Engineer_JR108679",
+    "urls": [
+      "https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/Madison-WI/Associate-Data-Engineer_JR108679"
+    ]
+  },
   "bankofmontreal::developer software": {
     "company": "Bank of Montreal",
     "notified_at": "2026-11-10T00:05:12.710169+00:00",
@@ -3362,7 +3374,7 @@
   },
   "microsoft::engineer software": {
     "company": "Microsoft",
-    "notified_at": "2026-11-07T18:20:11.688232+00:00",
+    "notified_at": "2026-11-10T18:30:19.516008+00:00",
     "sources": [
       "ApplyGuy/2027-New-Grad-Jobs"
     ],
