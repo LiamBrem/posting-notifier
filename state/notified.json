@@ -642,6 +642,18 @@
       "https://jobs.ashbyhq.com/bagsfm/012239d1-0c6c-4e87-9cfa-22d8ba4e5cb4/application?embed=true"
     ]
   },
+  "bankofmontreal::developer software": {
+    "company": "Bank of Montreal",
+    "notified_at": "2026-11-10T00:05:12.710169+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Developer New Grad",
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer_R260028581",
+    "urls": [
+      "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer_R260028581"
+    ]
+  },
   "bcore::developer junior software": {
     "company": "Bcore",
     "notified_at": "2026-11-05T08:35:12.393879+00:00",
@@ -1567,11 +1579,13 @@
     "company": "CSI",
     "notified_at": "2026-11-09T17:20:14.589228+00:00",
     "sources": [
+      "SimplifyJobs/New-Grad-Positions",
       "vanshb03/New-Grad-2027"
     ],
     "title": "Software Engineer I, C#/.NET \ud83d\udec2",
     "url": "https://go.vansh.nyc/1oL?s=A",
     "urls": [
+      "https://csiweb.wd1.myworkdayjobs.com/CSI_Careers/job/Paducah-KY-Corporate/Software-Engineer-I---C--NET---Hybrid---Paducah--KY_R-100739",
       "https://go.vansh.nyc/1oL?s=A"
     ]
   },
@@ -2252,6 +2266,19 @@
     "url": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Hartford-CT/Associate-Software-Engineer---Tech-Catalyst-Program--All-Locations-_R2627074",
     "urls": [
       "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Hartford-CT/Associate-Software-Engineer---Tech-Catalyst-Program--All-Locations-_R2627074"
+    ]
+  },
+  "harvey::engineer software": {
+    "company": "Harvey",
+    "notified_at": "2026-11-10T00:05:12.710169+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer New Grad",
+    "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application?embed=true",
+    "urls": [
+      "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application?embed=true",
+      "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application?embed=true"
     ]
   },
   "hewlettpackardenterprise::2 access development engineer point software wireless": {
@@ -4213,6 +4240,18 @@
       "https://go.vansh.nyc/Z9?s=A"
     ]
   },
+  "planview::engineer software": {
+    "company": "Planview",
+    "notified_at": "2026-11-10T00:05:12.710169+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer 1",
+    "url": "https://careers.planview.com/jobs/5149?icims=1&lang=en-us",
+    "urls": [
+      "https://careers.planview.com/jobs/5149?icims=1&lang=en-us"
+    ]
+  },
   "preciselyusjobs::ai associate engineer python software": {
     "company": "Precisely US Jobs",
     "notified_at": "2026-11-04T01:20:12.112737+00:00",
@@ -4757,14 +4796,14 @@
   },
   "rtx::engineer software": {
     "company": "RTX",
-    "notified_at": "2026-11-06T23:35:12.530967+00:00",
+    "notified_at": "2026-11-10T00:05:12.710169+00:00",
     "sources": [
       "SimplifyJobs/New-Grad-Positions"
     ],
     "title": "Software Engineer 1",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I_01885871-1",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01884131",
     "urls": [
-      "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I_01885871-1"
+      "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01884131"
     ]
   },
   "saabusa::associate engineer software": {
@@ -4861,6 +4900,18 @@
     "url": "https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345",
     "urls": [
       "https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345"
+    ]
+  },
+  "scelectric::engineer software": {
+    "company": "S&C Electric Company",
+    "notified_at": "2026-11-10T00:05:12.710169+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer 1",
+    "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107444",
+    "urls": [
+      "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107444"
     ]
   },
   "seatgeek::engineer software": {
