@@ -483,6 +483,18 @@
       "https://jobs.ashbyhq.com/Anori/5a86f1e2-2e30-49d7-853f-5083e8b558de"
     ]
   },
+  "anysphere::engineer software": {
+    "company": "Anysphere",
+    "notified_at": "2026-11-10T11:05:12.309108+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer New Grad",
+    "url": "https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6/application?embed=true",
+    "urls": [
+      "https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6/application?embed=true"
+    ]
+  },
   "apple::ai and applied design developer operations research": {
     "company": "Apple",
     "notified_at": "2026-11-07T17:20:11.135152+00:00",
