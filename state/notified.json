@@ -1601,6 +1601,18 @@
       "https://go.vansh.nyc/1pF?s=A"
     ]
   },
+  "cursor::engineer software": {
+    "company": "Cursor",
+    "notified_at": "2026-11-10T08:15:15.339135+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad 2027: Software Engineer",
+    "url": "https://go.vansh.nyc/1qa?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1qa?s=A"
+    ]
+  },
   "cylake::engineer software": {
     "company": "Cylake",
     "notified_at": "2026-11-03T23:20:11.701692+00:00",
@@ -2532,6 +2544,30 @@
     "url": "https://go.vansh.nyc/1gb?s=A",
     "urls": [
       "https://go.vansh.nyc/1gb?s=A"
+    ]
+  },
+  "intel::design engineer logic soc": {
+    "company": "Intel",
+    "notified_at": "2026-11-10T08:15:15.339135+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "SoC Logic Design Engineer",
+    "url": "https://go.vansh.nyc/1q9?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1q9?s=A"
+    ]
+  },
+  "intel::design engineer soc verification": {
+    "company": "Intel",
+    "notified_at": "2026-11-10T08:15:15.339135+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "SoC Design Verification Engineer",
+    "url": "https://go.vansh.nyc/1q8?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1q8?s=A"
     ]
   },
   "intel::eda engineer software tools": {
