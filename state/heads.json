@@ -1,18 +1,18 @@
 {
   "applyguy": {
-    "etag": "\"abe312ab160d6886a710749d49bf532d72e6077d\"",
-    "sha": "abe312ab160d6886a710749d49bf532d72e6077d"
+    "etag": "\"3e6cb52d122e65d49c9979477be1fba9efe1ab08\"",
+    "sha": "3e6cb52d122e65d49c9979477be1fba9efe1ab08"
   },
   "simplify": {
-    "etag": "\"1fd707936a422d4428f3c5ad001136633ac95dc7\"",
-    "sha": "1fd707936a422d4428f3c5ad001136633ac95dc7"
+    "etag": "\"9e69835689c8c045ce7ea35ae5adc0b12b40f478\"",
+    "sha": "9e69835689c8c045ce7ea35ae5adc0b12b40f478"
   },
   "speedyapply": {
     "etag": "\"893bfde4bc509730fcc378614635ca768445c316\"",
     "sha": "893bfde4bc509730fcc378614635ca768445c316"
   },
   "vansh": {
-    "etag": "\"b9082ea48a67102f2b9f8a7e54024e9e25b567ca\"",
-    "sha": "b9082ea48a67102f2b9f8a7e54024e9e25b567ca"
+    "etag": "\"8feb794c8387165b51eb133cf8ebcc631b39dc42\"",
+    "sha": "8feb794c8387165b51eb133cf8ebcc631b39dc42"
   }
 }
