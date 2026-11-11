@@ -938,12 +938,14 @@
     "company": "Bask Health",
     "notified_at": "2026-11-11T23:35:10.846435+00:00",
     "sources": [
-      "SimplifyJobs/New-Grad-Positions"
+      "SimplifyJobs/New-Grad-Positions",
+      "vanshb03/New-Grad-2027"
     ],
     "title": "Backend Engineer New Grad",
     "url": "https://apply.workable.com/bask-health-1/j/472CF47F60/apply",
     "urls": [
-      "https://apply.workable.com/bask-health-1/j/472CF47F60/apply"
+      "https://apply.workable.com/bask-health-1/j/472CF47F60/apply",
+      "https://go.vansh.nyc/1vF?s=A"
     ]
   },
   "baskhealth::builder product": {
@@ -988,12 +990,14 @@
     "company": "Bask Health",
     "notified_at": "2026-11-11T23:35:10.846435+00:00",
     "sources": [
-      "SimplifyJobs/New-Grad-Positions"
+      "SimplifyJobs/New-Grad-Positions",
+      "vanshb03/New-Grad-2027"
     ],
     "title": "Product Engineer New Grad",
     "url": "https://apply.workable.com/bask-health-1/j/E7E44CA0FC/apply",
     "urls": [
-      "https://apply.workable.com/bask-health-1/j/E7E44CA0FC/apply"
+      "https://apply.workable.com/bask-health-1/j/E7E44CA0FC/apply",
+      "https://go.vansh.nyc/1vG?s=A"
     ]
   },
   "bcore::developer junior software": {
@@ -1519,6 +1523,18 @@
     "url": "https://go.vansh.nyc/1fP?s=A",
     "urls": [
       "https://go.vansh.nyc/1fP?s=A"
+    ]
+  },
+  "cdk::associate engineer software": {
+    "company": "Cdk",
+    "notified_at": "2026-11-11T23:50:14.796861+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Associate Software Engineer",
+    "url": "https://cdk.wd1.myworkdayjobs.com/cdk/job/Austin-TX-USA/Associate-Software-Engineer_JR9345-1",
+    "urls": [
+      "https://cdk.wd1.myworkdayjobs.com/cdk/job/Austin-TX-USA/Associate-Software-Engineer_JR9345-1"
     ]
   },
   "celonis::associate deployment engineer": {
@@ -4825,6 +4841,18 @@
       "https://go.vansh.nyc/1u9?s=A"
     ]
   },
+  "pacificnorthwestnationallaboratory::associate bachelor post product research stack": {
+    "company": "Pacific Northwest National Laboratory",
+    "notified_at": "2026-11-11T23:50:14.796861+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Post-Bachelor Research Associate, Full Stack Product",
+    "url": "https://go.vansh.nyc/1vH?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1vH?s=A"
+    ]
+  },
   "pacificnorthwestnationallaboratory::engineer software": {
     "company": "Pacific Northwest National Laboratory",
     "notified_at": "2026-11-05T02:35:11.897461+00:00",
@@ -5668,6 +5696,18 @@
     "url": "https://go.vansh.nyc/1uj?s=A",
     "urls": [
       "https://go.vansh.nyc/1uj?s=A"
+    ]
+  },
+  "rubrik::engineer platform software virtual": {
+    "company": "Rubrik",
+    "notified_at": "2026-11-11T23:50:14.796861+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Software Engineer - Virtual Platform",
+    "url": "https://go.vansh.nyc/1vE?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1vE?s=A"
     ]
   },
   "saabusa::associate engineer software": {
@@ -6608,6 +6648,18 @@
     "urls": [
       "https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Plymouth-MA/Software-Engineer-I_JR2890",
       "https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Plymouth-MA/Software-Engineer-I_JR2915"
+    ]
+  },
+  "twitch::commerce engineer software": {
+    "company": "Twitch",
+    "notified_at": "2026-11-11T23:50:14.796861+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Software Engineer I, Commerce",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8934067002",
+    "urls": [
+      "https://job-boards.greenhouse.io/twitch/jobs/8934067002"
     ]
   },
   "twitch::community engineer growth software": {
