@@ -303,6 +303,18 @@
       "https://go.vansh.nyc/19E?s=A"
     ]
   },
+  "amazon::commerce engineer software": {
+    "company": "Amazon",
+    "notified_at": "2026-11-11T02:35:11.638523+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Software Engineer I, Commerce",
+    "url": "https://www.amazon.jobs/en/jobs/10599912/software-engineer-i-commerce",
+    "urls": [
+      "https://www.amazon.jobs/en/jobs/10599912/software-engineer-i-commerce"
+    ]
+  },
   "amazon::database development engineer software": {
     "company": "Amazon",
     "notified_at": "2026-10-30T23:10:16.796482+00:00",
@@ -798,6 +810,18 @@
     "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer_R260028581",
     "urls": [
       "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer_R260028581"
+    ]
+  },
+  "baskhealth::builder product": {
+    "company": "Bask Health",
+    "notified_at": "2026-11-11T02:35:11.638523+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Product Builder, Early Career",
+    "url": "https://apply.workable.com/bask-health-1/j/854A2D27D1/apply",
+    "urls": [
+      "https://apply.workable.com/bask-health-1/j/854A2D27D1/apply"
     ]
   },
   "bcore::developer junior software": {
@@ -5598,7 +5622,8 @@
     "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true",
     "urls": [
       "https://go.vansh.nyc/1nj?s=A",
-      "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true"
+      "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true",
+      "https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true"
     ]
   },
   "shieldai::control engineer ground ii software stack station": {
@@ -5615,14 +5640,14 @@
   },
   "shieldai::engineer factory software team": {
     "company": "Shield AI",
-    "notified_at": "2026-11-04T09:35:12.245134+00:00",
+    "notified_at": "2026-11-11T02:35:11.638523+00:00",
     "sources": [
       "SimplifyJobs/New-Grad-Positions"
     ],
     "title": "Software Engineer 1 New Grad - Software - Factory Team",
-    "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/6b5da15b-b34e-4771-bc6c-a05892ae87e9/application?embed=true",
+    "url": "https://jobs.ashbyhq.com/shield/6b5da15b-b34e-4771-bc6c-a05892ae87e9/application?embed=true",
     "urls": [
-      "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/6b5da15b-b34e-4771-bc6c-a05892ae87e9/application?embed=true"
+      "https://jobs.ashbyhq.com/shield/6b5da15b-b34e-4771-bc6c-a05892ae87e9/application?embed=true"
     ]
   },
   "shieldai::engineer framework ii master s simulation": {
@@ -5635,6 +5660,18 @@
     "url": "https://go.vansh.nyc/1g6?s=A",
     "urls": [
       "https://go.vansh.nyc/1g6?s=A"
+    ]
+  },
+  "shieldai::engineer internal software tools": {
+    "company": "Shield AI",
+    "notified_at": "2026-11-11T02:35:11.638523+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer 1 New Grad - Internal Tools",
+    "url": "https://jobs.ashbyhq.com/shield/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true",
+    "urls": [
+      "https://jobs.ashbyhq.com/shield/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true"
     ]
   },
   "shieldai::engineer perception software": {
