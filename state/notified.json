@@ -4669,6 +4669,30 @@
       "https://careers.pnnl.gov/jobs/12900?icims=1"
     ]
   },
+  "pae::data engineer jr": {
+    "company": "Pae",
+    "notified_at": "2026-11-11T06:20:13.019707+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Jr. Data Engineer",
+    "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Springfield/Jr-Data-Engineer_R0175096",
+    "urls": [
+      "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Springfield/Jr-Data-Engineer_R0175096"
+    ]
+  },
+  "pae::developer junior software": {
+    "company": "Pae",
+    "notified_at": "2026-11-11T06:20:13.019707+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Junior Software Developer",
+    "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Developer_R0175040",
+    "urls": [
+      "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Developer_R0175040"
+    ]
+  },
   "pae::developer software tools": {
     "company": "Pae",
     "notified_at": "2026-11-03T23:35:10.594205+00:00",
