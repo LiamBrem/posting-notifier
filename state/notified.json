@@ -5514,6 +5514,7 @@
     "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01884131",
     "urls": [
       "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01884131",
+      "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01885824",
       "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01884131",
       "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite_01878662",
       "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01888514",
@@ -5573,12 +5574,14 @@
     "company": "Salesforce",
     "notified_at": "2026-11-11T06:00:17.034052+00:00",
     "sources": [
+      "SimplifyJobs/New-Grad-Positions",
       "vanshb03/New-Grad-2027"
     ],
     "title": "Software Engineering AMTS - College Grad",
     "url": "https://go.vansh.nyc/1uh?s=A",
     "urls": [
-      "https://go.vansh.nyc/1uh?s=A"
+      "https://go.vansh.nyc/1uh?s=A",
+      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1"
     ]
   },
   "salesforce::associate engineering systems": {
@@ -5595,14 +5598,14 @@
   },
   "salesforce::engineer software": {
     "company": "\ud83d\udd25 Salesforce",
-    "notified_at": "2026-10-29T13:35:12.804760+00:00",
+    "notified_at": "2026-11-11T15:35:12.191067+00:00",
     "sources": [
       "SimplifyJobs/New-Grad-Positions"
     ],
     "title": "Software Engineer New Grad",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Software-Engineering-MTS_JR363598",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047",
     "urls": [
-      "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Software-Engineering-MTS_JR363598"
+      "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047"
     ]
   },
   "sambanova::cloud engineer platform": {
