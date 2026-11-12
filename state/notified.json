@@ -2180,6 +2180,18 @@
       "https://go.vansh.nyc/1fO?s=A"
     ]
   },
+  "dillards::cobol developer": {
+    "company": "Dillards",
+    "notified_at": "2026-11-12T16:20:14.983194+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "COBOL Developer",
+    "url": "https://go.vansh.nyc/1wB?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1wB?s=A"
+    ]
+  },
   "domino::engineer software": {
     "company": "Domino",
     "notified_at": "2026-11-10T07:15:15.108560+00:00",
@@ -3392,12 +3404,14 @@
     "company": "Johns Hopkins Applied Physics Laboratory",
     "notified_at": "2026-11-12T16:05:11.428890+00:00",
     "sources": [
-      "SimplifyJobs/New-Grad-Positions"
+      "SimplifyJobs/New-Grad-Positions",
+      "vanshb03/New-Grad-2027"
     ],
     "title": "Mission Modeling, Simulation & Software Engineer New Grad",
     "url": "https://careers.jhuapl.edu/jobs/60029?icims=1&lang=en-us",
     "urls": [
-      "https://careers.jhuapl.edu/jobs/60029?icims=1&lang=en-us"
+      "https://careers.jhuapl.edu/jobs/60029?icims=1&lang=en-us",
+      "https://go.vansh.nyc/1wC?s=A"
     ]
   },
   "juliusai::engineer product software": {
