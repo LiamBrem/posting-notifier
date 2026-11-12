@@ -974,6 +974,18 @@
       "https://apply.workable.com/bask-health-1/j/7B69E15EFA/apply"
     ]
   },
+  "baskhealth::engineer frontend": {
+    "company": "Bask Health",
+    "notified_at": "2026-11-12T07:35:11.333050+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Frontend Engineer New Grad",
+    "url": "https://apply.workable.com/bask-health-1/j/95FB1074E4/apply",
+    "urls": [
+      "https://apply.workable.com/bask-health-1/j/95FB1074E4/apply"
+    ]
+  },
   "baskhealth::engineer junior stack": {
     "company": "Bask Health",
     "notified_at": "2026-11-11T23:35:10.846435+00:00",
@@ -4043,7 +4055,8 @@
     "title": "Associate Data Scientist \ud83c\uddfa\ud83c\uddf8",
     "url": "https://go.vansh.nyc/1w6?s=A",
     "urls": [
-      "https://go.vansh.nyc/1w6?s=A"
+      "https://go.vansh.nyc/1w6?s=A",
+      "https://go.vansh.nyc/1w7?s=A"
     ]
   },
   "mitre::associate engineer software": {
