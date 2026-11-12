@@ -3242,6 +3242,30 @@
       "https://jabil.wd5.myworkdayjobs.com/en-US/jabil_careers/job/Austin-TX/Software-Test-Development-Engineer_J2469613"
     ]
   },
+  "jamf::associate engineer software": {
+    "company": "Jamf",
+    "notified_at": "2026-11-12T03:50:11.866445+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Associate Software Engineer",
+    "url": "https://www.jamf.com/about/careers/jobs/?gh_jid=6253670004&gh_jid=6253670004",
+    "urls": [
+      "https://www.jamf.com/about/careers/jobs/?gh_jid=6253670004&gh_jid=6253670004"
+    ]
+  },
+  "jamf::associate engineer software stack": {
+    "company": "Jamf",
+    "notified_at": "2026-11-12T03:50:11.866445+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Associate Software Engineer (Full Stack)",
+    "url": "https://www.jamf.com/about/careers/jobs/?gh_jid=6254227004&gh_jid=6254227004",
+    "urls": [
+      "https://www.jamf.com/about/careers/jobs/?gh_jid=6254227004&gh_jid=6254227004"
+    ]
+  },
   "jnd::2 2608 software tester": {
     "company": "JND",
     "notified_at": "2026-10-27T21:40:15.078789+00:00",
