@@ -2360,6 +2360,18 @@
       "https://job-boards.greenhouse.io/engine/jobs/8046374003"
     ]
   },
+  "enovationcontrols::engineer software": {
+    "company": "Enovation Controls",
+    "notified_at": "2026-11-12T19:15:20.189852+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Software Engineer",
+    "url": "https://go.vansh.nyc/1wT?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1wT?s=A"
+    ]
+  },
   "equifax::analytics associate data development rotational": {
     "company": "Equifax",
     "notified_at": "2026-11-02T19:15:12.435790+00:00",
@@ -3491,14 +3503,14 @@
   },
   "keysight::engineer semiconductor software technology": {
     "company": "Keysight Technologies",
-    "notified_at": "2026-11-05T18:55:14.665823+00:00",
+    "notified_at": "2026-11-12T19:15:20.189852+00:00",
     "sources": [
       "vanshb03/New-Grad-2027"
     ],
     "title": "New Grad 2027: Software Engineer, Semiconductor Technology \ud83c\uddfa\ud83c\uddf8",
-    "url": "https://go.vansh.nyc/1iY?s=A",
+    "url": "https://go.vansh.nyc/1wU?s=A",
     "urls": [
-      "https://go.vansh.nyc/1iY?s=A"
+      "https://go.vansh.nyc/1wU?s=A"
     ]
   },
   "kla::analyst business intelligence master s": {
@@ -3600,6 +3612,18 @@
       "https://go.vansh.nyc/1u5?s=A"
     ]
   },
+  "lanterisspace::engineer simulation software": {
+    "company": "Lanteris Space",
+    "notified_at": "2026-11-12T19:15:20.189852+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Simulation Software Engineer \ud83c\uddfa\ud83c\uddf8",
+    "url": "https://go.vansh.nyc/1wV?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1wV?s=A"
+    ]
+  },
   "lawrencelivermorenationallaboratory::embedded engineer integration intelligence super systems": {
     "company": "Lawrence Livermore National Laboratory",
     "notified_at": "2026-11-08T17:50:13.370207+00:00",
@@ -3612,6 +3636,18 @@
     "urls": [
       "https://go.vansh.nyc/1n9?s=A",
       "https://jobs.smartrecruiters.com/LLNL/3743990016713546-embedded-systems-engineer-super-intelligence-integration?oga=true"
+    ]
+  },
+  "leidos::and engineer network systems": {
+    "company": "Leidos",
+    "notified_at": "2026-11-12T19:15:20.189852+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Network and Systems Engineer",
+    "url": "https://go.vansh.nyc/1wS?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1wS?s=A"
     ]
   },
   "leidos::content developer multimedia website": {
@@ -6628,6 +6664,18 @@
       "https://go.vansh.nyc/Zn?s=A"
     ]
   },
+  "spacex::aerospace engineer software starfall": {
+    "company": "SpaceX",
+    "notified_at": "2026-11-12T19:15:20.189852+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad 2027: Engineer, Aerospace Software (Starfall)",
+    "url": "https://go.vansh.nyc/1wR?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1wR?s=A"
+    ]
+  },
   "spacex::engineer engineering falcon propulsion software": {
     "company": "SpaceX",
     "notified_at": "2026-11-04T18:48:51.537725+00:00",
@@ -6664,6 +6712,19 @@
     "url": "https://boards.greenhouse.io/spacex/jobs/8934563002?gh_jid=8934563002",
     "urls": [
       "https://boards.greenhouse.io/spacex/jobs/8934563002?gh_jid=8934563002"
+    ]
+  },
+  "spacex::engineer software starship": {
+    "company": "SpaceX",
+    "notified_at": "2026-11-12T19:15:20.189852+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Software Engineer, Starship",
+    "url": "https://go.vansh.nyc/1wP?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1wP?s=A",
+      "https://go.vansh.nyc/1wQ?s=A"
     ]
   },
   "springventure::devops engineer": {
