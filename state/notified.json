@@ -922,6 +922,18 @@
       "https://go.vansh.nyc/1vk?s=A"
     ]
   },
+  "bask::engineer frontend": {
+    "company": "Bask",
+    "notified_at": "2026-11-12T08:20:17.049598+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad: Frontend Engineer",
+    "url": "https://go.vansh.nyc/1wf?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1wf?s=A"
+    ]
+  },
   "bask::engineer product": {
     "company": "Bask",
     "notified_at": "2026-11-11T21:45:16.841244+00:00",
@@ -962,6 +974,18 @@
       "https://go.vansh.nyc/1sQ?s=A"
     ]
   },
+  "baskhealth::design engineer junior": {
+    "company": "Bask Health",
+    "notified_at": "2026-11-12T08:20:17.049598+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Junior Design Engineer",
+    "url": "https://go.vansh.nyc/1we?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1we?s=A"
+    ]
+  },
   "baskhealth::engineer experiences interactive junior product": {
     "company": "Bask Health",
     "notified_at": "2026-11-11T23:35:10.846435+00:00",
@@ -978,12 +1002,14 @@
     "company": "Bask Health",
     "notified_at": "2026-11-12T07:35:11.333050+00:00",
     "sources": [
-      "SimplifyJobs/New-Grad-Positions"
+      "SimplifyJobs/New-Grad-Positions",
+      "vanshb03/New-Grad-2027"
     ],
     "title": "Frontend Engineer New Grad",
     "url": "https://apply.workable.com/bask-health-1/j/95FB1074E4/apply",
     "urls": [
-      "https://apply.workable.com/bask-health-1/j/95FB1074E4/apply"
+      "https://apply.workable.com/bask-health-1/j/95FB1074E4/apply",
+      "https://go.vansh.nyc/1wd?s=A"
     ]
   },
   "baskhealth::engineer junior stack": {
