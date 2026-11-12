@@ -511,6 +511,18 @@
       "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer---SECRET_R0173771"
     ]
   },
+  "americanexpress::engineer enterprise services software technology": {
+    "company": "American Express",
+    "notified_at": "2026-11-12T23:35:14.659966+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer 1 - Enterprise Technology Services",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012796",
+    "urls": [
+      "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012796"
+    ]
+  },
   "americanoncologynetwork::developer junior web": {
     "company": "American Oncology Network",
     "notified_at": "2026-11-08T17:50:13.370207+00:00",
@@ -2967,6 +2979,18 @@
     "urls": [
       "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Andover-Massachusetts-United-States-of-America/Storage-Systems-Software-Engineer_1215626",
       "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Andover-Massachusetts-United-States-of-America/Storage-Systems-Software-Engineer_1215626-2"
+    ]
+  },
+  "hewlettpackardenterprise::engineer software systems": {
+    "company": "Hewlett Packard Enterprise",
+    "notified_at": "2026-11-12T23:35:14.659966+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Systems/Software Engineer 1",
+    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821-2",
+    "urls": [
+      "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821-2"
     ]
   },
   "hitachi::analyst data": {
@@ -5863,6 +5887,18 @@
     "url": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Embedded-Software-Engineer-I--Hybrid---Aguadilla--PR-_01887705",
     "urls": [
       "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Embedded-Software-Engineer-I--Hybrid---Aguadilla--PR-_01887705"
+    ]
+  },
+  "rtx::air engineer software solutions traffic": {
+    "company": "RTX",
+    "notified_at": "2026-11-12T23:35:14.659966+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer 1 - Air Traffic Solutions",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I---Air-Traffic-Solutions--Onsite-_01864077",
+    "urls": [
+      "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I---Air-Traffic-Solutions--Onsite-_01864077"
     ]
   },
   "rtx::application developer software support sustainment": {
