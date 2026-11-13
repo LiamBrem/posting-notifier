@@ -1985,7 +1985,8 @@
     "company": "CMTelematics",
     "notified_at": "2026-11-13T18:30:18.357078+00:00",
     "sources": [
-      "ApplyGuy/2027-New-Grad-Jobs"
+      "ApplyGuy/2027-New-Grad-Jobs",
+      "SimplifyJobs/New-Grad-Positions"
     ],
     "title": "Software Engineer I, Cloud",
     "url": "https://job-boards.greenhouse.io/cmt/jobs/8385978",
@@ -3192,6 +3193,18 @@
     "urls": [
       "https://careers.huntingtoningalls.com/job/Newport-News-IT-SOFTWARE-ENGINEER-1-ROBOTIC-PROCESS-AUTOMATION-(RPA)-Virg/1445226800/?ats=successfactors",
       "https://go.vansh.nyc/19a?s=A"
+    ]
+  },
+  "huntingtoningalls::development engineer software": {
+    "company": "Huntington Ingalls Industries",
+    "notified_at": "2026-11-13T23:35:11.684053+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Development Engineer 1",
+    "url": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-DEVELOPMENT-ENGINEER-1-Virg/1450616800/?ats=successfactors",
+    "urls": [
+      "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-DEVELOPMENT-ENGINEER-1-Virg/1450616800/?ats=successfactors"
     ]
   },
   "huntingtoningalls::engineer software": {
@@ -6860,7 +6873,8 @@
     "title": "Software Engineer 1",
     "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I--For-2026-Interns-Only-_R0031346",
     "urls": [
-      "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I--For-2026-Interns-Only-_R0031346"
+      "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I--For-2026-Interns-Only-_R0031346",
+      "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031292"
     ]
   },
   "sierraspace::devops devsecops engineer software": {
