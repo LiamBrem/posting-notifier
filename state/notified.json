@@ -159,6 +159,19 @@
       "https://go.vansh.nyc/Za?s=A"
     ]
   },
+  "affirm::backend continuous delivery engineer software": {
+    "company": "Affirm",
+    "notified_at": "2026-11-13T00:05:10.579304+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer 1 - Backend - Continuous Delivery",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8181185003",
+    "urls": [
+      "https://job-boards.greenhouse.io/affirm/jobs/8181183003",
+      "https://job-boards.greenhouse.io/affirm/jobs/8181185003"
+    ]
+  },
   "agave::engineer software stack": {
     "company": "Agave",
     "notified_at": "2026-11-08T17:50:13.370207+00:00",
@@ -1231,6 +1244,18 @@
     "url": "https://go.vansh.nyc/X2?s=A",
     "urls": [
       "https://go.vansh.nyc/X2?s=A"
+    ]
+  },
+  "boozallen::c engineer junior software": {
+    "company": "Booz Allen",
+    "notified_at": "2026-11-13T00:05:10.579304+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Junior C++ Software Engineer",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/C---Software-Engineer--Junior_R0253425",
+    "urls": [
+      "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/C---Software-Engineer--Junior_R0253425"
     ]
   },
   "boozallen::data scientist": {
@@ -2685,6 +2710,18 @@
       "https://careers-gdms.icims.com/jobs/76784/entry-level-engineer---%28systems%2c-software%2c-electrical%2c-mechanical%2c-manufacturing%2c-other%29/job"
     ]
   },
+  "generaldynamicsmission::engineer platform services software": {
+    "company": "General Dynamics Mission Systems",
+    "notified_at": "2026-11-13T00:05:10.579304+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Platform Services Software Engineer Entry Level",
+    "url": "https://careers-gdms.icims.com/jobs/80580/job?mobile=true&needsRedirect=false",
+    "urls": [
+      "https://careers-gdms.icims.com/jobs/80580/job?mobile=true&needsRedirect=false"
+    ]
+  },
   "generaldynamicsmission::engineer software": {
     "company": "General Dynamics Mission Systems",
     "notified_at": "2026-11-05T08:35:12.393879+00:00",
@@ -3002,6 +3039,7 @@
     "title": "Systems/Software Engineer 1",
     "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821-2",
     "urls": [
+      "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821",
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821-2"
     ]
   },
@@ -3063,7 +3101,8 @@
     "title": "Systems/Software Engineer I",
     "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821",
     "urls": [
-      "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821"
+      "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821",
+      "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821-2"
     ]
   },
   "humaninterest::engineer software": {
@@ -4144,12 +4183,14 @@
     "company": "Micron Technology",
     "notified_at": "2026-11-12T20:00:21.426839+00:00",
     "sources": [
+      "SimplifyJobs/New-Grad-Positions",
       "vanshb03/New-Grad-2027"
     ],
     "title": "Software Engineer",
     "url": "https://go.vansh.nyc/1xw?s=A",
     "urls": [
-      "https://go.vansh.nyc/1xw?s=A"
+      "https://go.vansh.nyc/1xw?s=A",
+      "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692"
     ]
   },
   "microsoft::ai ceai commercial engineering software": {
@@ -6686,11 +6727,13 @@
     "company": "Sierraspace",
     "notified_at": "2026-11-12T19:20:16.824591+00:00",
     "sources": [
-      "ApplyGuy/2027-New-Grad-Jobs"
+      "ApplyGuy/2027-New-Grad-Jobs",
+      "SimplifyJobs/New-Grad-Positions"
     ],
     "title": "Software Engineer I - DevOps / DevSecOps",
     "url": "https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/Louisville-CO/REQ-SWAP-Software-Engineer-I---DevOps---DevSecOps_R26535",
     "urls": [
+      "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Louisville-CO/REQ-SWAP-Software-Engineer-I---DevOps---DevSecOps_R26535",
       "https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/Louisville-CO/REQ-SWAP-Software-Engineer-I---DevOps---DevSecOps_R26535"
     ]
   },
