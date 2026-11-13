@@ -3199,12 +3199,14 @@
     "company": "Huntington Ingalls Industries",
     "notified_at": "2026-11-13T23:35:11.684053+00:00",
     "sources": [
-      "SimplifyJobs/New-Grad-Positions"
+      "SimplifyJobs/New-Grad-Positions",
+      "vanshb03/New-Grad-2027"
     ],
     "title": "Software Development Engineer 1",
     "url": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-DEVELOPMENT-ENGINEER-1-Virg/1450616800/?ats=successfactors",
     "urls": [
-      "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-DEVELOPMENT-ENGINEER-1-Virg/1450616800/?ats=successfactors"
+      "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-DEVELOPMENT-ENGINEER-1-Virg/1450616800/?ats=successfactors",
+      "https://go.vansh.nyc/1zm?s=A"
     ]
   },
   "huntingtoningalls::engineer software": {
