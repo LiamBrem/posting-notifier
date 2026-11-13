@@ -6492,14 +6492,14 @@
   },
   "shield::engineer software": {
     "company": "Shield",
-    "notified_at": "2026-11-03T03:15:11.741507+00:00",
+    "notified_at": "2026-11-13T09:15:13.288609+00:00",
     "sources": [
       "vanshb03/New-Grad-2027"
     ],
-    "title": "New Grad: Software Engineer I",
-    "url": "https://go.vansh.nyc/1bP?s=A",
+    "title": "New Grad 2027: Engineer I, Software",
+    "url": "https://go.vansh.nyc/1yA?s=A",
     "urls": [
-      "https://go.vansh.nyc/1bP?s=A"
+      "https://go.vansh.nyc/1yA?s=A"
     ]
   },
   "shieldai::2 engineer software": {
@@ -6740,11 +6740,13 @@
     "company": "Shield AI",
     "notified_at": "2026-11-13T08:05:11.624771+00:00",
     "sources": [
-      "SimplifyJobs/New-Grad-Positions"
+      "SimplifyJobs/New-Grad-Positions",
+      "vanshb03/New-Grad-2027"
     ],
     "title": "Software Engineer 1 New Grad",
     "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true",
     "urls": [
+      "https://go.vansh.nyc/1yz?s=A",
       "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true"
     ]
   },
