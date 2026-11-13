@@ -1250,12 +1250,14 @@
     "company": "Booz Allen",
     "notified_at": "2026-11-13T00:05:10.579304+00:00",
     "sources": [
-      "SimplifyJobs/New-Grad-Positions"
+      "SimplifyJobs/New-Grad-Positions",
+      "vanshb03/New-Grad-2027"
     ],
     "title": "Junior C++ Software Engineer",
     "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/C---Software-Engineer--Junior_R0253425",
     "urls": [
-      "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/C---Software-Engineer--Junior_R0253425"
+      "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/C---Software-Engineer--Junior_R0253425",
+      "https://go.vansh.nyc/1yd?s=A"
     ]
   },
   "boozallen::data scientist": {
@@ -3667,6 +3669,18 @@
     "urls": [
       "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Engineer_2642339-1",
       "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Software-Engineer_2642339"
+    ]
+  },
+  "l3harris::application associate development": {
+    "company": "L3Harris Technologies",
+    "notified_at": "2026-11-13T00:15:25.461547+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Associate, Application Development",
+    "url": "https://go.vansh.nyc/1yb?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1yb?s=A"
     ]
   },
   "l3harris::associate engineer software": {
