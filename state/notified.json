@@ -73,6 +73,45 @@
       "https://abnormal.ai/careers/jobs/8196352003?gh_jid=8196352003"
     ]
   },
+  "accenture::engineer software": {
+    "company": "Accenture",
+    "notified_at": "2026-11-14T08:05:10.249101+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer New Grad",
+    "url": "https://accenture.pinpointhq.com/en/postings/106b5cb5-20ea-4d22-8f92-c29c599f0dc6?ats=pinpointhq",
+    "urls": [
+      "https://accenture.pinpointhq.com/en/postings/106b5cb5-20ea-4d22-8f92-c29c599f0dc6?ats=pinpointhq"
+    ]
+  },
+  "accenture::engineering programme software": {
+    "company": "Accenture",
+    "notified_at": "2026-11-14T08:05:10.249101+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineering New Grad - Graduate Programme",
+    "url": "https://accenture.pinpointhq.com/en/postings/4c48dfbf-568a-42a6-b8b0-00283eceb049?ats=pinpointhq",
+    "urls": [
+      "https://accenture.pinpointhq.com/en/postings/4c48dfbf-568a-42a6-b8b0-00283eceb049?ats=pinpointhq"
+    ]
+  },
+  "accenture::engineering software": {
+    "company": "Accenture",
+    "notified_at": "2026-11-14T08:05:10.249101+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineering New Grad",
+    "url": "https://accenture.pinpointhq.com/en/postings/fff24465-85e4-4642-a888-8df902586f39?ats=pinpointhq",
+    "urls": [
+      "https://accenture.pinpointhq.com/en/postings/78aa2ac9-c644-40be-87d3-f2c3a9e06e64?ats=pinpointhq",
+      "https://accenture.pinpointhq.com/en/postings/ace42afc-8144-49f7-84df-c9dbb66e352f?ats=pinpointhq",
+      "https://accenture.pinpointhq.com/en/postings/c2cbc079-dce6-4033-88a2-79b1246cdf21?ats=pinpointhq",
+      "https://accenture.pinpointhq.com/en/postings/fff24465-85e4-4642-a888-8df902586f39?ats=pinpointhq"
+    ]
+  },
   "accenturefederalservices::developer mobile tak": {
     "company": "Accenture Federal Services",
     "notified_at": "2026-10-31T17:10:11.243198+00:00",
@@ -1552,6 +1591,18 @@
     "url": "https://go.vansh.nyc/1lT?s=A",
     "urls": [
       "https://go.vansh.nyc/1lT?s=A"
+    ]
+  },
+  "capgemini::engineer software": {
+    "company": "Capgemini",
+    "notified_at": "2026-11-14T08:05:10.249101+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer New Grad",
+    "url": "https://careers.capgemini.com/job/Telford-Graduate-Software-Engineering-Programme-2027-1/1443172033/?ats=successfactors",
+    "urls": [
+      "https://careers.capgemini.com/job/Telford-Graduate-Software-Engineering-Programme-2027-1/1443172033/?ats=successfactors"
     ]
   },
   "capitalderecherchetower::c developer software": {
