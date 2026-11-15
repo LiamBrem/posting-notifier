@@ -3739,11 +3739,13 @@
     "company": "Johnson Controls",
     "notified_at": "2026-11-14T23:35:11.015117+00:00",
     "sources": [
-      "SimplifyJobs/New-Grad-Positions"
+      "SimplifyJobs/New-Grad-Positions",
+      "vanshb03/New-Grad-2027"
     ],
     "title": "Nextgen Software Engineer New Grad",
     "url": "https://jci.wd5.myworkdayjobs.com/JCI_Confidential/job/Glendale-Wisconsin-United-States-of-America/NextGen-Software-Engineer_WD30279373-2",
     "urls": [
+      "https://go.vansh.nyc/1zN?s=A",
       "https://jci.wd5.myworkdayjobs.com/JCI_Confidential/job/Glendale-Wisconsin-United-States-of-America/NextGen-Software-Engineer_WD30279373-2"
     ]
   },
@@ -5372,6 +5374,18 @@
     "urls": [
       "https://go.vansh.nyc/XP?s=A",
       "https://go.vansh.nyc/XT?s=A"
+    ]
+  },
+  "nvidia::communications deep engineer framework learning": {
+    "company": "NVIDIA",
+    "notified_at": "2026-11-15T01:20:11.233472+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Deep Learning Framework Communications Engineer",
+    "url": "https://go.vansh.nyc/1zO?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1zO?s=A"
     ]
   },
   "nvidia::engineer formal verification": {
