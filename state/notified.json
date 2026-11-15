@@ -769,7 +769,7 @@
   },
   "appliedmaterials::engineer global software support": {
     "company": "Applied Materials",
-    "notified_at": "2026-11-08T17:50:13.370207+00:00",
+    "notified_at": "2026-11-15T18:45:14.950159+00:00",
     "sources": [
       "speedyapply/2027-SWE-College-Jobs"
     ],
@@ -1008,6 +1008,18 @@
     "url": "https://go.vansh.nyc/1vk?s=A",
     "urls": [
       "https://go.vansh.nyc/1vk?s=A"
+    ]
+  },
+  "bask::backend engineer junior platform": {
+    "company": "Bask",
+    "notified_at": "2026-11-15T18:45:14.950159+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Junior Backend Engineer - Platform",
+    "url": "https://apply.workable.com/bask-health-1/j/1A2C5E6D86/",
+    "urls": [
+      "https://apply.workable.com/bask-health-1/j/1A2C5E6D86/"
     ]
   },
   "bask::engineer frontend": {
@@ -1249,14 +1261,13 @@
   },
   "boeing::associate engineer experienced or software systems": {
     "company": "Boeing",
-    "notified_at": "2026-11-07T17:40:12.556755+00:00",
+    "notified_at": "2026-11-15T18:45:14.950159+00:00",
     "sources": [
       "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Software Systems Engineer - Associate or Experienced",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Seal-Beach-CA/Software-Systems-Engineer--Associate-or-Experienced-_JR2026523046",
     "urls": [
-      "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Seal-Beach-CA/Software-Systems-Engineer--Associate-or-Experienced-_JR2026523046-1",
       "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Seal-Beach-CA/Software-Systems-Engineer--Associate-or-Experienced-_JR2026523046"
     ]
   },
@@ -4191,7 +4202,7 @@
   },
   "lutron::application cincinnati engineer oh project software": {
     "company": "Lutron",
-    "notified_at": "2026-11-07T17:40:12.556755+00:00",
+    "notified_at": "2026-11-15T18:45:14.950159+00:00",
     "sources": [
       "speedyapply/2027-SWE-College-Jobs"
     ],
@@ -4215,7 +4226,7 @@
   },
   "lutron::application engineer pa philadelphia project software": {
     "company": "Lutron",
-    "notified_at": "2026-11-03T19:25:20.816623+00:00",
+    "notified_at": "2026-11-15T18:45:14.950159+00:00",
     "sources": [
       "speedyapply/2027-SWE-College-Jobs"
     ],
