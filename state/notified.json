@@ -1034,6 +1034,18 @@
       "https://go.vansh.nyc/1vk?s=A"
     ]
   },
+  "bask::backend engineer junior": {
+    "company": "Bask",
+    "notified_at": "2026-11-16T21:55:20.535253+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Junior Backend Engineer",
+    "url": "https://apply.workable.com/bask-health-1/j/007CBE9F1D/",
+    "urls": [
+      "https://apply.workable.com/bask-health-1/j/007CBE9F1D/"
+    ]
+  },
   "bask::backend engineer junior platform": {
     "company": "Bask",
     "notified_at": "2026-11-15T18:45:14.950159+00:00",
@@ -1068,6 +1080,18 @@
     "url": "https://go.vansh.nyc/1vl?s=A",
     "urls": [
       "https://go.vansh.nyc/1vl?s=A"
+    ]
+  },
+  "bask::engineer software": {
+    "company": "Bask",
+    "notified_at": "2026-11-16T21:55:20.535253+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer - Early Career",
+    "url": "https://apply.workable.com/bask-health-1/j/3AC4353728/",
+    "urls": [
+      "https://apply.workable.com/bask-health-1/j/3AC4353728/"
     ]
   },
   "baskhealth::backend engineer": {
@@ -1198,6 +1222,18 @@
       "https://blackrock.wd1.myworkdayjobs.com/en-US/blackrock_professional/job/San-Francisco-CA/ETF-Product-Developer--Associate---ETF-Platform_R267103-1"
     ]
   },
+  "bluecrossblueshieldoftennessee::engineer software": {
+    "company": "BlueCross BlueShield of Tennessee",
+    "notified_at": "2026-11-16T21:55:20.535253+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer",
+    "url": "https://bcbst.wd1.myworkdayjobs.com/en-US/external/job/USA-TN-Chattanooga-Remote/Software-Engineer_R-51968",
+    "urls": [
+      "https://bcbst.wd1.myworkdayjobs.com/en-US/external/job/USA-TN-Chattanooga-Remote/Software-Engineer_R-51968"
+    ]
+  },
   "blueriver::cameras ci embedded engineer software": {
     "company": "Blue River Technology",
     "notified_at": "2026-10-31T17:10:11.243198+00:00",
@@ -1292,6 +1328,7 @@
     "title": "Software Systems Engineer - Associate or Experienced",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Seal-Beach-CA/Software-Systems-Engineer--Associate-or-Experienced-_JR2026523046",
     "urls": [
+      "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Seal-Beach-CA/Software-Systems-Engineer--Associate-or-Experienced-_JR2026523046-1",
       "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Seal-Beach-CA/Software-Systems-Engineer--Associate-or-Experienced-_JR2026523046"
     ]
   },
@@ -1346,16 +1383,14 @@
   },
   "boozallen::c engineer junior software": {
     "company": "Booz Allen",
-    "notified_at": "2026-11-13T00:05:10.579304+00:00",
+    "notified_at": "2026-11-16T21:55:20.535253+00:00",
     "sources": [
-      "SimplifyJobs/New-Grad-Positions",
-      "vanshb03/New-Grad-2027"
+      "speedyapply/2027-SWE-College-Jobs"
     ],
-    "title": "Junior C++ Software Engineer",
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/C---Software-Engineer--Junior_R0253425",
+    "title": "C++ Software Engineer - Junior",
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Beavercreek-OH/C---Software-Engineer--Junior_R0253425",
     "urls": [
-      "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/C---Software-Engineer--Junior_R0253425",
-      "https://go.vansh.nyc/1yd?s=A"
+      "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Beavercreek-OH/C---Software-Engineer--Junior_R0253425"
     ]
   },
   "boozallen::data scientist": {
@@ -2763,6 +2798,18 @@
       "https://jobs.ashbyhq.com/fellowai/f932dda0-8ad0-45d6-a327-d2143b7d82aa/application?embed=true"
     ]
   },
+  "fidelityinvestments::api aws backend engineer stack": {
+    "company": "Fidelity Investments",
+    "notified_at": "2026-11-16T21:55:20.535253+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Full Stack Engineer - backend API - AWS",
+    "url": "https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Durham-NC/Full-Stack-Engineer--backend-API--AWS-_2137360",
+    "urls": [
+      "https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Durham-NC/Full-Stack-Engineer--backend-API--AWS-_2137360"
+    ]
+  },
   "fidelitynationalinformationservices::engineer mainframe software": {
     "company": "Fidelity National Information Services",
     "notified_at": "2026-11-10T16:05:11.609824+00:00",
@@ -3152,6 +3199,18 @@
       "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902321002"
     ]
   },
+  "greatamericaninsurance::analyst associate embedded product solutions": {
+    "company": "Great American Insurance Group",
+    "notified_at": "2026-11-16T21:55:20.535253+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Associate Product Analyst - Embedded Solutions",
+    "url": "https://gaig.wd1.myworkdayjobs.com/en-US/gaig_external/job/Cincinnati-OH-USA/Associate-Product-Analyst---Embedded-Solutions_R9882",
+    "urls": [
+      "https://gaig.wd1.myworkdayjobs.com/en-US/gaig_external/job/Cincinnati-OH-USA/Associate-Product-Analyst---Embedded-Solutions_R9882"
+    ]
+  },
   "grvty::engineer junior software": {
     "company": "GRVTY",
     "notified_at": "2026-10-28T20:20:15.262903+00:00",
@@ -3277,6 +3336,18 @@
       "https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/GEORGIA---VIRTUAL---GA01/Cybersecurity-Software-Engineer-II---ML---AI--Remote-_Req193044"
     ]
   },
+  "homedepot::chain core engineer ii software sourcing supply": {
+    "company": "Home Depot",
+    "notified_at": "2026-11-16T21:55:20.535253+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer II - Supply Chain Sourcing Core - Remote",
+    "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-II--Supply-Chain-Sourcing-Core--Remote-_Req197159",
+    "urls": [
+      "https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-II--Supply-Chain-Sourcing-Core--Remote-_Req197159"
+    ]
+  },
   "hp::ai engineer hp iq software": {
     "company": "HP",
     "notified_at": "2026-11-03T19:25:20.816623+00:00",
@@ -3291,14 +3362,13 @@
   },
   "hp::engineer product security software": {
     "company": "HP",
-    "notified_at": "2026-11-09T22:10:14.575953+00:00",
+    "notified_at": "2026-11-16T21:55:20.535253+00:00",
     "sources": [
       "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Software Product Security Engineer",
     "url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer_UNI4745",
     "urls": [
-      "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer_UNI4745-1",
       "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer_UNI4745"
     ]
   },
@@ -4056,6 +4126,18 @@
       "https://leidos.wd5.myworkdayjobs.com/external/job/Eagan-MN/Jr-Software-Developer_R-00195855"
     ]
   },
+  "leidos::devops engineer junior": {
+    "company": "Leidos",
+    "notified_at": "2026-11-16T21:55:20.535253+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Junior DevOps Engineer",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Chantilly-VA/Junior-DevOps-Engineer_R-00190855",
+    "urls": [
+      "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Chantilly-VA/Junior-DevOps-Engineer_R-00190855"
+    ]
+  },
   "leidos::engineer jr software": {
     "company": "Leidos",
     "notified_at": "2026-11-12T23:00:26.033232+00:00",
@@ -4286,7 +4368,7 @@
   },
   "lutron::austin embedded engineer project software tx": {
     "company": "Lutron",
-    "notified_at": "2026-11-01T17:50:12.348430+00:00",
+    "notified_at": "2026-11-16T21:55:20.535253+00:00",
     "sources": [
       "speedyapply/2027-SWE-College-Jobs"
     ],
@@ -4310,7 +4392,7 @@
   },
   "lutron::boston embedded engineer ma project software": {
     "company": "Lutron",
-    "notified_at": "2026-11-08T17:50:13.370207+00:00",
+    "notified_at": "2026-11-16T21:55:20.535253+00:00",
     "sources": [
       "speedyapply/2027-SWE-College-Jobs"
     ],
@@ -6130,6 +6212,30 @@
       "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Software-Engineer-II---Advanced-System-Tools_01886082"
     ]
   },
+  "raytheon::air engineer software solutions traffic": {
+    "company": "Raytheon",
+    "notified_at": "2026-11-16T21:55:20.535253+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer I - Air Traffic Solutions - Onsite",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I---Air-Traffic-Solutions--Onsite-_01864077",
+    "urls": [
+      "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I---Air-Traffic-Solutions--Onsite-_01864077"
+    ]
+  },
+  "raytheon::associate cds engine engineer software system": {
+    "company": "Raytheon",
+    "notified_at": "2026-11-16T21:55:20.535253+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Associate Software Engineer I - CDS / Engine System Software - Onsite",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Associate-Software-Engineer-I---CDS---Engine-System-Software--Onsite-_01884197",
+    "urls": [
+      "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Associate-Software-Engineer-I---CDS---Engine-System-Software--Onsite-_01884197"
+    ]
+  },
   "raytheon::control engineer flight software": {
     "company": "Raytheon",
     "notified_at": "2026-11-01T17:50:12.348430+00:00",
@@ -6144,7 +6250,7 @@
   },
   "raytheon::embedded engineer s3e security software": {
     "company": "Raytheon",
-    "notified_at": "2026-10-31T17:10:11.243198+00:00",
+    "notified_at": "2026-11-16T21:55:20.535253+00:00",
     "sources": [
       "speedyapply/2027-SWE-College-Jobs"
     ],
@@ -6193,15 +6299,16 @@
     ]
   },
   "raytheon::engineer software": {
-    "company": "Raytheon Technologies",
-    "notified_at": "2026-11-10T19:45:12.065305+00:00",
+    "company": "Raytheon",
+    "notified_at": "2026-11-16T21:55:20.535253+00:00",
     "sources": [
-      "vanshb03/New-Grad-2027"
+      "speedyapply/2027-SWE-College-Jobs"
     ],
-    "title": "Software Engineer I \ud83c\uddfa\ud83c\uddf8",
-    "url": "https://go.vansh.nyc/1rZ?s=A",
+    "title": "Software Engineer I - Onsite",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineer-I--Onsite-_01888058",
     "urls": [
-      "https://go.vansh.nyc/1rZ?s=A"
+      "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01879214",
+      "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineer-I--Onsite-_01888058"
     ]
   },
   "realm::engineer software": {
@@ -7160,29 +7267,26 @@
   },
   "sierranevada::engineer software": {
     "company": "Sierra Nevada Corporation",
-    "notified_at": "2026-11-12T15:35:17.428478+00:00",
+    "notified_at": "2026-11-16T21:55:20.535253+00:00",
     "sources": [
-      "SimplifyJobs/New-Grad-Positions"
+      "speedyapply/2027-SWE-College-Jobs"
     ],
-    "title": "Software Engineer 1",
-    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I--For-2026-Interns-Only-_R0031346",
+    "title": "Software Engineer I",
+    "url": "https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031292",
     "urls": [
-      "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I--For-2026-Interns-Only-_R0031346",
-      "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031292"
+      "https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031292"
     ]
   },
   "sierraspace::devops devsecops engineer software": {
-    "company": "Sierraspace",
-    "notified_at": "2026-11-12T19:20:16.824591+00:00",
+    "company": "Sierra Space",
+    "notified_at": "2026-11-16T21:55:20.535253+00:00",
     "sources": [
-      "ApplyGuy/2027-New-Grad-Jobs",
-      "SimplifyJobs/New-Grad-Positions"
+      "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Software Engineer I - DevOps / DevSecOps",
-    "url": "https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/Louisville-CO/REQ-SWAP-Software-Engineer-I---DevOps---DevSecOps_R26535",
+    "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/sierra_space_external_career_site/job/Louisville-CO/REQ-SWAP-Software-Engineer-I---DevOps---DevSecOps_R26535",
     "urls": [
-      "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Louisville-CO/REQ-SWAP-Software-Engineer-I---DevOps---DevSecOps_R26535",
-      "https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/Louisville-CO/REQ-SWAP-Software-Engineer-I---DevOps---DevSecOps_R26535"
+      "https://sierraspace.wd1.myworkdayjobs.com/en-US/sierra_space_external_career_site/job/Louisville-CO/REQ-SWAP-Software-Engineer-I---DevOps---DevSecOps_R26535"
     ]
   },
   "skyryse::engineer junior software": {
@@ -7350,11 +7454,13 @@
     "company": "SpaceX",
     "notified_at": "2026-11-15T21:20:12.552277+00:00",
     "sources": [
+      "speedyapply/2027-SWE-College-Jobs",
       "vanshb03/New-Grad-2027"
     ],
     "title": "Full Stack Software Engineer (Starlink)",
     "url": "https://go.vansh.nyc/1zZ?s=A",
     "urls": [
+      "https://boards.greenhouse.io/spacex/jobs/8943586002?gh_jid=8943586002",
       "https://go.vansh.nyc/1zZ?s=A"
     ]
   },
@@ -7892,6 +7998,18 @@
     "url": "https://jobs.ashbyhq.com/viggle/98352e43-0f84-4df8-9f17-88520fe8314a/application?embed=true",
     "urls": [
       "https://jobs.ashbyhq.com/viggle/98352e43-0f84-4df8-9f17-88520fe8314a/application?embed=true"
+    ]
+  },
+  "viniksports::engineer software": {
+    "company": "Vinik Sports Group",
+    "notified_at": "2026-11-16T21:55:20.535253+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer I",
+    "url": "https://vsg.wd1.myworkdayjobs.com/en-US/vsg/job/Tampa-Bay-Lightning/Software-Engineer-I_R1264",
+    "urls": [
+      "https://vsg.wd1.myworkdayjobs.com/en-US/vsg/job/Tampa-Bay-Lightning/Software-Engineer-I_R1264"
     ]
   },
   "visa::associate data engineer": {
