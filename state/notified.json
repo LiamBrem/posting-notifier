@@ -7336,6 +7336,18 @@
       "https://go.vansh.nyc/1f7?s=A"
     ]
   },
+  "stripe::manager product": {
+    "company": "\ud83d\udd25 Stripe",
+    "notified_at": "2026-11-16T02:05:21.488861+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Product Manager New Grad",
+    "url": "https://stripe.com/jobs/search?gh_jid=7737124",
+    "urls": [
+      "https://stripe.com/jobs/search?gh_jid=7737124"
+    ]
+  },
   "stubhub::consumer engineer experience software": {
     "company": "StubHub",
     "notified_at": "2026-11-05T18:15:14.386026+00:00",
