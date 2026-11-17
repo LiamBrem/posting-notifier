@@ -4117,6 +4117,18 @@
       "https://go.vansh.nyc/1u5?s=A"
     ]
   },
+  "laboriemedical::engineer software": {
+    "company": "Laborie Medical Technologies",
+    "notified_at": "2026-11-17T03:05:10.491373+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer 1",
+    "url": "https://jobs.jobvite.com/laborie/job/oQOXAfwV?nl=1&nl=1&fr=false",
+    "urls": [
+      "https://jobs.jobvite.com/laborie/job/oQOXAfwV?nl=1&nl=1&fr=false"
+    ]
+  },
   "lanterisspace::engineer simulation software": {
     "company": "Lanteris Space",
     "notified_at": "2026-11-12T19:15:20.189852+00:00",
@@ -8288,6 +8300,18 @@
     "url": "https://careersen-wonderbrands.icims.com/jobs/27702/job?mobile=true&needsRedirect=false",
     "urls": [
       "https://careersen-wonderbrands.icims.com/jobs/27702/job?mobile=true&needsRedirect=false"
+    ]
+  },
+  "wyetech::0 engineer or software": {
+    "company": "Wyetech",
+    "notified_at": "2026-11-17T03:05:10.491373+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer 0 or 1",
+    "url": "https://wyetech.applytojob.com/apply/7d200RlbqP/Software-Engineer-Skill-Level-0-Or-1",
+    "urls": [
+      "https://wyetech.applytojob.com/apply/7d200RlbqP/Software-Engineer-Skill-Level-0-Or-1"
     ]
   },
   "xai::engineer software": {
