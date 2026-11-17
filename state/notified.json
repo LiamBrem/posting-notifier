@@ -2275,11 +2275,14 @@
     "company": "CrossCountry Consulting",
     "notified_at": "2026-11-17T00:05:11.430767+00:00",
     "sources": [
-      "SimplifyJobs/New-Grad-Positions"
+      "SimplifyJobs/New-Grad-Positions",
+      "vanshb03/New-Grad-2027"
     ],
     "title": "Junior Forward Deployed Software Engineer",
     "url": "https://jobs.lever.co/crosscountry-consulting/80bd96d8-b824-40ef-9cfe-01860583c4fe/apply",
     "urls": [
+      "https://go.vansh.nyc/1AH?s=A",
+      "https://go.vansh.nyc/1AI?s=A",
       "https://jobs.lever.co/crosscountry-consulting/5f8a920b-77ed-4200-b37d-1f5d68c1bc21/apply",
       "https://jobs.lever.co/crosscountry-consulting/80bd96d8-b824-40ef-9cfe-01860583c4fe/apply",
       "https://jobs.lever.co/crosscountry-consulting/dc96666d-77b0-4bc8-b209-a0b9250324a0/apply"
@@ -7337,6 +7340,18 @@
     "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/sierra_space_external_career_site/job/Louisville-CO/REQ-SWAP-Software-Engineer-I---DevOps---DevSecOps_R26535",
     "urls": [
       "https://sierraspace.wd1.myworkdayjobs.com/en-US/sierra_space_external_career_site/job/Louisville-CO/REQ-SWAP-Software-Engineer-I---DevOps---DevSecOps_R26535"
+    ]
+  },
+  "silnahealth::ai analyst deployment": {
+    "company": "Silna Health",
+    "notified_at": "2026-11-17T00:25:10.804672+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "AI Deployment Analyst",
+    "url": "https://go.vansh.nyc/1AG?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1AG?s=A"
     ]
   },
   "skyryse::engineer junior software": {
