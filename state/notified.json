@@ -538,6 +538,18 @@
       "https://amazon.jobs/en/jobs/10597803/software-development-engineer-amazon-leo-early-career-2027-us"
     ]
   },
+  "amazon::engineer software": {
+    "company": "Amazon",
+    "notified_at": "2026-11-18T23:20:12.780065+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Software Engineer I",
+    "url": "https://www.amazon.jobs/en/jobs/10608848/software-engineer-i",
+    "urls": [
+      "https://www.amazon.jobs/en/jobs/10608848/software-engineer-i"
+    ]
+  },
   "amazoncomservices::database development engineer software": {
     "company": "Amazon.com Services LLC",
     "notified_at": "2026-10-31T00:15:12.395882+00:00",
