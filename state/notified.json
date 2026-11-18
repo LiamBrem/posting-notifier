@@ -938,6 +938,19 @@
       "https://campus-globalcareers-atlassian.icims.com/jobs/26070/software-engineer%2c-2027-graduate-canada/job"
     ]
   },
+  "atoms::ai researcher": {
+    "company": "Atoms",
+    "notified_at": "2026-11-18T00:30:17.377621+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad: AI Researcher",
+    "url": "https://go.vansh.nyc/1BU?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1BU?s=A",
+      "https://go.vansh.nyc/1BW?s=A"
+    ]
+  },
   "att::ai analyst engineer native python software stack": {
     "company": "AT&T",
     "notified_at": "2026-10-27T22:40:15.170164+00:00",
@@ -3094,6 +3107,18 @@
       "https://careers-gdms.icims.com/jobs/75792/job?mobile=true&needsRedirect=false"
     ]
   },
+  "generalmatter::automation controls engineer": {
+    "company": "General Matter",
+    "notified_at": "2026-11-18T00:30:17.377621+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad: Automation & Controls Engineer",
+    "url": "https://go.vansh.nyc/1BY?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1BY?s=A"
+    ]
+  },
   "generalmatter::engineer software": {
     "company": "General Matter",
     "notified_at": "2026-11-08T17:50:13.370207+00:00",
@@ -3471,6 +3496,18 @@
     "url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer_UNI4745",
     "urls": [
       "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer_UNI4745"
+    ]
+  },
+  "hpe::ai automation engineer": {
+    "company": "HPE",
+    "notified_at": "2026-11-18T00:30:17.377621+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "AI Automation Engineer",
+    "url": "https://go.vansh.nyc/1BX?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1BX?s=A"
     ]
   },
   "hpe::engineer software systems": {
@@ -4672,6 +4709,18 @@
       "https://go.vansh.nyc/1hC?s=A"
     ]
   },
+  "microchip::engineer verification": {
+    "company": "Microchip Technology",
+    "notified_at": "2026-11-18T00:30:17.377621+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Engineer 1 - Verification",
+    "url": "https://go.vansh.nyc/1BS?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1BS?s=A"
+    ]
+  },
   "micron::architecture edge engineer systems": {
     "company": "Micron Technology",
     "notified_at": "2026-11-03T08:20:13.865758+00:00",
@@ -4847,11 +4896,13 @@
     "company": "Mirantis",
     "notified_at": "2026-11-18T00:05:12.247496+00:00",
     "sources": [
-      "SimplifyJobs/New-Grad-Positions"
+      "SimplifyJobs/New-Grad-Positions",
+      "vanshb03/New-Grad-2027"
     ],
     "title": "Software Engineer New Grad - Backend - Go",
     "url": "https://jobs.smartrecruiters.com/Mirantis/744000162186029",
     "urls": [
+      "https://go.vansh.nyc/1BV?s=A",
       "https://jobs.smartrecruiters.com/Mirantis/744000162186029"
     ]
   },
@@ -8106,6 +8157,18 @@
     "url": "https://go.vansh.nyc/1zn?s=A",
     "urls": [
       "https://go.vansh.nyc/1zn?s=A"
+    ]
+  },
+  "utilidata::embedded engineer firmware": {
+    "company": "Utilidata",
+    "notified_at": "2026-11-18T00:30:17.377621+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Embedded Firmware Engineer",
+    "url": "https://go.vansh.nyc/1BT?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1BT?s=A"
     ]
   },
   "valnet::android news police writer": {
