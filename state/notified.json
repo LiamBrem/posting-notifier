@@ -2948,6 +2948,18 @@
       "https://go.vansh.nyc/1l1?s=A"
     ]
   },
+  "fortinet::developer software": {
+    "company": "Fortinet",
+    "notified_at": "2026-11-18T00:05:12.247496+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Early Careers Software Developer",
+    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24983",
+    "urls": [
+      "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24983"
+    ]
+  },
   "fortinet::embedded engineer software": {
     "company": "Fortinet",
     "notified_at": "2026-11-17T00:05:11.430767+00:00",
@@ -4831,6 +4843,18 @@
       "https://apply.careers.microsoft.com/careers/job/1970393556999878"
     ]
   },
+  "mirantis::backend engineer go software": {
+    "company": "Mirantis",
+    "notified_at": "2026-11-18T00:05:12.247496+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer New Grad - Backend - Go",
+    "url": "https://jobs.smartrecruiters.com/Mirantis/744000162186029",
+    "urls": [
+      "https://jobs.smartrecruiters.com/Mirantis/744000162186029"
+    ]
+  },
   "mitelnetworks::developer junior stack web": {
     "company": "Mitel Networks",
     "notified_at": "2026-10-30T22:35:17.777377+00:00",
@@ -5796,6 +5820,18 @@
     "url": "https://oldrepublic.wd1.myworkdayjobs.com/en-US/oldrepublictitle/job/CA-Roseville-524-Gibson-Dr/Title-Insurance-Software-Application-Support_R-4406",
     "urls": [
       "https://oldrepublic.wd1.myworkdayjobs.com/en-US/oldrepublictitle/job/CA-Roseville-524-Gibson-Dr/Title-Insurance-Software-Application-Support_R-4406"
+    ]
+  },
+  "oracle::engineer intern software": {
+    "company": "\ud83d\udd25 Oracle",
+    "notified_at": "2026-11-18T00:05:12.247496+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer New Grad Intern",
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350821",
+    "urls": [
+      "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350821"
     ]
   },
   "oracle::engineer oci reliability site": {
@@ -8418,6 +8454,30 @@
     "url": "https://wyetech.applytojob.com/apply/7d200RlbqP/Software-Engineer-Skill-Level-0-Or-1",
     "urls": [
       "https://wyetech.applytojob.com/apply/7d200RlbqP/Software-Engineer-Skill-Level-0-Or-1"
+    ]
+  },
+  "wyetech::0 engineer software": {
+    "company": "Wyetech",
+    "notified_at": "2026-11-18T00:05:12.247496+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer 0",
+    "url": "https://wyetech.applytojob.com/apply/9N1fCIgQkv/SWE-0-Software-Engineer",
+    "urls": [
+      "https://wyetech.applytojob.com/apply/9N1fCIgQkv/SWE-0-Software-Engineer"
+    ]
+  },
+  "wyetech::cloud engineer software": {
+    "company": "Wyetech",
+    "notified_at": "2026-11-18T00:05:12.247496+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Cloud Software Engineer 1",
+    "url": "https://wyetech.applytojob.com/apply/vH1nr4O9nO/Cloud-Software-Engineer-1",
+    "urls": [
+      "https://wyetech.applytojob.com/apply/vH1nr4O9nO/Cloud-Software-Engineer-1"
     ]
   },
   "xai::engineer software": {
