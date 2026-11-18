@@ -6587,11 +6587,13 @@
     "company": "Relativity Space",
     "notified_at": "2026-11-18T00:00:18.480055+00:00",
     "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs",
       "vanshb03/New-Grad-2027"
     ],
     "title": "Software Engineer I, Factory Platform",
     "url": "https://go.vansh.nyc/1BH?s=A",
     "urls": [
+      "https://boards.greenhouse.io/relativity/jobs/8949325002?gh_jid=8949325002",
       "https://go.vansh.nyc/1BH?s=A"
     ]
   },
@@ -8048,14 +8050,14 @@
   },
   "twitch::commerce engineer software": {
     "company": "Twitch",
-    "notified_at": "2026-11-11T23:50:14.796861+00:00",
+    "notified_at": "2026-11-18T00:50:11.751596+00:00",
     "sources": [
       "ApplyGuy/2027-New-Grad-Jobs"
     ],
     "title": "Software Engineer I, Commerce",
-    "url": "https://job-boards.greenhouse.io/twitch/jobs/8934067002",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8949388002",
     "urls": [
-      "https://job-boards.greenhouse.io/twitch/jobs/8934067002"
+      "https://job-boards.greenhouse.io/twitch/jobs/8949388002"
     ]
   },
   "twitch::community engineer growth software": {
