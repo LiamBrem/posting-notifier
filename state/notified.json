@@ -1047,6 +1047,18 @@
       "https://go.vansh.nyc/1sq?s=A"
     ]
   },
+  "autura::associate data operations": {
+    "company": "Autura",
+    "notified_at": "2026-11-20T17:00:21.388692+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Data Operations Associate",
+    "url": "https://go.vansh.nyc/1EH?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1EH?s=A"
+    ]
+  },
   "aveva::cloud infrastructure operations": {
     "company": "AVEVA",
     "notified_at": "2026-11-11T06:00:17.034052+00:00",
@@ -4457,6 +4469,31 @@
     "url": "https://go.vansh.nyc/1yb?s=A",
     "urls": [
       "https://go.vansh.nyc/1yb?s=A"
+    ]
+  },
+  "l3harris::associate electrical engineering firmware fpga": {
+    "company": "L3Harris Technologies",
+    "notified_at": "2026-11-20T17:00:21.388692+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Associate, FPGA Firmware Electrical Engineering",
+    "url": "https://go.vansh.nyc/1EI?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1EI?s=A",
+      "https://go.vansh.nyc/1EJ?s=A"
+    ]
+  },
+  "l3harris::associate embedded engineer software": {
+    "company": "L3Harris Technologies",
+    "notified_at": "2026-11-20T17:00:21.388692+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Associate, Embedded Software Engineer",
+    "url": "https://go.vansh.nyc/1EK?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1EK?s=A"
     ]
   },
   "l3harris::associate engineer software": {
