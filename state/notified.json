@@ -3689,14 +3689,14 @@
   },
   "globalfoundries::biz engineering products tapeout": {
     "company": "GlobalFoundries",
-    "notified_at": "2026-11-12T06:15:12.149538+00:00",
+    "notified_at": "2026-11-22T23:05:13.452977+00:00",
     "sources": [
-      "vanshb03/New-Grad-2027"
+      "SimplifyJobs/New-Grad-Positions"
     ],
-    "title": "New Grad 2027: Tapeout Biz Products & Engineering",
-    "url": "https://go.vansh.nyc/1w3?s=A",
+    "title": "Tapeout Biz Products & Engineering New Grad",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1",
     "urls": [
-      "https://go.vansh.nyc/1w3?s=A"
+      "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1"
     ]
   },
   "globalfoundries::design engineer for test": {
@@ -8976,6 +8976,18 @@
     "url": "https://go.vansh.nyc/1fv?s=A",
     "urls": [
       "https://go.vansh.nyc/1fv?s=A"
+    ]
+  },
+  "trueanomaly::engineer software stack": {
+    "company": "True Anomaly",
+    "notified_at": "2026-11-22T23:05:13.452977+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer 1 New Grad - Full Stack",
+    "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092069007",
+    "urls": [
+      "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092069007"
     ]
   },
   "tsc::engineer junior software uas": {
