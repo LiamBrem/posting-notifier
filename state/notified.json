@@ -900,6 +900,18 @@
       "https://jobs.ashbyhq.com/applied/48bab48f-c708-40b6-ac2c-36bb704287b3"
     ]
   },
+  "appliedintuition::deployed engineer forward": {
+    "company": "Applied Intuition",
+    "notified_at": "2026-11-22T22:30:15.210383+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad 2027: Forward Deployed Engineer",
+    "url": "https://go.vansh.nyc/1Gu?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1Gu?s=A"
+    ]
+  },
   "appliedmaterials::bachelors clara degree engineer santa software": {
     "company": "Applied Materials",
     "notified_at": "2026-11-12T19:45:14.422976+00:00",
@@ -6524,6 +6536,18 @@
       "https://jobs.ashbyhq.com/old-mission-capital/78e433a8-cd5f-404d-8f58-3fcb61e9837d/application?embed=true"
     ]
   },
+  "oldmissioncapital::engineer production trading": {
+    "company": "Old Mission Capital",
+    "notified_at": "2026-11-22T22:30:15.210383+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad 2027: Trading Production Engineer",
+    "url": "https://go.vansh.nyc/1Gv?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1Gv?s=A"
+    ]
+  },
   "oldrepublictitle::application insurance software support title": {
     "company": "Old Republic Title",
     "notified_at": "2026-11-09T22:10:14.575953+00:00",
@@ -7414,6 +7438,18 @@
     "url": "https://rlicorp.wd1.myworkdayjobs.com/rli_corp_careers/job/Peoria-IL/Associate-Software-Engineer--Net----Peoria--IL-or-Tempe--AZ_R1864",
     "urls": [
       "https://rlicorp.wd1.myworkdayjobs.com/rli_corp_careers/job/Peoria-IL/Associate-Software-Engineer--Net----Peoria--IL-or-Tempe--AZ_R1864"
+    ]
+  },
+  "roadrunner::deployed engineer forward": {
+    "company": "RoadRunner",
+    "notified_at": "2026-11-22T22:30:15.210383+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad: Forward Deployed Engineer",
+    "url": "https://go.vansh.nyc/1Gw?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1Gw?s=A"
     ]
   },
   "roblox::acquisition data engineer phd senior software": {
@@ -8338,14 +8374,26 @@
   },
   "sierra::agent engineer software": {
     "company": "Sierra",
-    "notified_at": "2026-11-08T17:50:13.370207+00:00",
+    "notified_at": "2026-11-22T22:30:15.210383+00:00",
     "sources": [
-      "speedyapply/2027-SWE-College-Jobs"
+      "vanshb03/New-Grad-2027"
     ],
-    "title": "Software Engineer - Agent - New Grad 2027",
-    "url": "https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00",
+    "title": "New Grad 2027: Software Engineer, Agent",
+    "url": "https://go.vansh.nyc/1Gs?s=A",
     "urls": [
-      "https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00"
+      "https://go.vansh.nyc/1Gs?s=A"
+    ]
+  },
+  "sierra::apx": {
+    "company": "Sierra",
+    "notified_at": "2026-11-22T22:30:15.210383+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad 2027: APX",
+    "url": "https://go.vansh.nyc/1Gt?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1Gt?s=A"
     ]
   },
   "sierranevada::engineer software": {
