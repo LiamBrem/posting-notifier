@@ -3104,6 +3104,18 @@
       "https://go.vansh.nyc/1wT?s=A"
     ]
   },
+  "enterprise::data master s scientist": {
+    "company": "Enterprise Holdings",
+    "notified_at": "2026-11-23T16:25:14.320685+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Data Scientist 1 (Master's)",
+    "url": "https://go.vansh.nyc/1GS?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1GS?s=A"
+    ]
+  },
   "eqltech::edtech engineer fintech founding stack": {
     "company": "EQL Tech",
     "notified_at": "2026-11-22T00:35:15.020886+00:00",
@@ -4844,14 +4856,14 @@
   },
   "l3harris::associate engineering software": {
     "company": "L3Harris Technologies",
-    "notified_at": "2026-11-09T23:50:12.285863+00:00",
+    "notified_at": "2026-11-23T16:25:14.320685+00:00",
     "sources": [
       "vanshb03/New-Grad-2027"
     ],
-    "title": "Associate, Software Engineering",
-    "url": "https://go.vansh.nyc/1pC?s=A",
+    "title": "Associate, Software Engineering \ud83c\uddfa\ud83c\uddf8",
+    "url": "https://go.vansh.nyc/1GT?s=A",
     "urls": [
-      "https://go.vansh.nyc/1pC?s=A"
+      "https://go.vansh.nyc/1GT?s=A"
     ]
   },
   "l3harris::engineer software": {
@@ -7155,14 +7167,14 @@
   },
   "quantiq::developer software": {
     "company": "Quantiq",
-    "notified_at": "2026-10-29T14:35:15.311928+00:00",
+    "notified_at": "2026-11-23T16:25:14.320685+00:00",
     "sources": [
-      "SimplifyJobs/New-Grad-Positions"
+      "vanshb03/New-Grad-2027"
     ],
-    "title": "Software Developer New Grad",
-    "url": "https://job-boards.greenhouse.io/quantiq/jobs/4280650009",
+    "title": "New Grad: Software Developer",
+    "url": "https://go.vansh.nyc/1GR?s=A",
     "urls": [
-      "https://job-boards.greenhouse.io/quantiq/jobs/4280650009"
+      "https://go.vansh.nyc/1GR?s=A"
     ]
   },
   "quavered::ai developer junior team": {
