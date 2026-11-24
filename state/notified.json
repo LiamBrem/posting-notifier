@@ -270,6 +270,30 @@
       "https://go.vansh.nyc/Za?s=A"
     ]
   },
+  "aerovironment::associate engineer software": {
+    "company": "AeroVironment",
+    "notified_at": "2026-11-24T14:20:17.969737+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Associate Software Engineer",
+    "url": "https://avav.wd1.myworkdayjobs.com/avav/job/Moorpark-CA/Associate-Software-Engineer_9016",
+    "urls": [
+      "https://avav.wd1.myworkdayjobs.com/avav/job/Moorpark-CA/Associate-Software-Engineer_9016"
+    ]
+  },
+  "aerovironment::engineer jr software": {
+    "company": "AeroVironment",
+    "notified_at": "2026-11-24T14:20:17.969737+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Jr. Software Engineer",
+    "url": "https://avav.wd1.myworkdayjobs.com/avav/job/Jessup-MD/Jr-Software-Engineer_9123-1",
+    "urls": [
+      "https://avav.wd1.myworkdayjobs.com/avav/job/Jessup-MD/Jr-Software-Engineer_9123-1"
+    ]
+  },
   "affirm::backend continuous delivery engineer software": {
     "company": "Affirm",
     "notified_at": "2026-11-13T00:05:10.579304+00:00",
@@ -1573,6 +1597,30 @@
       "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Saint-Charles-MO/Software-Engineer-Developer--Phantom-Works-Weapons--Associate-or-Experienced-_JR2026517300"
     ]
   },
+  "boeing::associate developer engineer software": {
+    "company": "Boeing",
+    "notified_at": "2026-11-24T14:20:17.969737+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Associate Software Engineer - Developer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Associate-Software-Engineer---Developer_JR2026529495-1",
+    "urls": [
+      "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Associate-Software-Engineer---Developer_JR2026529495-1"
+    ]
+  },
+  "boeing::associate embedded engineer software": {
+    "company": "Boeing",
+    "notified_at": "2026-11-24T14:20:17.969737+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Associate Software Engineer\u2013Embedded",
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kent-WA/Associate-Software-Engineer-Embedded_JR2026519147-2",
+    "urls": [
+      "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kent-WA/Associate-Software-Engineer-Embedded_JR2026519147-2"
+    ]
+  },
   "boeing::associate engineer experienced or software": {
     "company": "Boeing",
     "notified_at": "2026-11-02T21:40:23.393577+00:00",
@@ -1599,15 +1647,27 @@
   },
   "boeing::associate engineer software": {
     "company": "Boeing",
-    "notified_at": "2026-10-31T17:10:11.243198+00:00",
+    "notified_at": "2026-11-24T14:20:17.969737+00:00",
     "sources": [
-      "speedyapply/2027-SWE-College-Jobs"
+      "ApplyGuy/2027-New-Grad-Jobs"
     ],
     "title": "Associate Software Engineer",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Albuquerque-NM/Associate-Software-Engineer_JR2026528420",
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026526419",
     "urls": [
-      "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Albuquerque-NM/Associate-Software-Engineer_JR2026528420-1",
-      "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Albuquerque-NM/Associate-Software-Engineer_JR2026528420"
+      "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Albuquerque-NM/Associate-Software-Engineer_JR2026528420-1",
+      "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026526419"
+    ]
+  },
+  "boeing::developer engineer software": {
+    "company": "Boeing",
+    "notified_at": "2026-11-24T14:20:17.969737+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Entry-Level Software Engineer\u2013Developer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382-1",
+    "urls": [
+      "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382-1"
     ]
   },
   "boeing::embedded engineer missions software systems": {
@@ -1620,6 +1680,18 @@
     "url": "https://go.vansh.nyc/1vN?s=A",
     "urls": [
       "https://go.vansh.nyc/1vN?s=A"
+    ]
+  },
+  "boeing::embedded engineer software": {
+    "company": "Boeing",
+    "notified_at": "2026-11-24T14:20:17.969737+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Embedded Software Engineer - Entry-Level",
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089-1",
+    "urls": [
+      "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089-1"
     ]
   },
   "boeing::engineer flight management software systems vehicle": {
@@ -1648,14 +1720,14 @@
   },
   "boeing::engineer software test verification": {
     "company": "Boeing",
-    "notified_at": "2026-11-20T21:00:25.265595+00:00",
+    "notified_at": "2026-11-24T14:20:17.969737+00:00",
     "sources": [
-      "vanshb03/New-Grad-2027"
+      "ApplyGuy/2027-New-Grad-Jobs"
     ],
-    "title": "Software Engineer \u2013 Test & Verification \ud83c\uddfa\ud83c\uddf8",
-    "url": "https://go.vansh.nyc/1EZ?s=A",
+    "title": "Entry-Level Software Engineer\u2013Test & Verification",
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Test---Verification_JR2026523081",
     "urls": [
-      "https://go.vansh.nyc/1EZ?s=A"
+      "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Test---Verification_JR2026523081"
     ]
   },
   "boozallen::c engineer junior software": {
@@ -2764,6 +2836,18 @@
     "urls": [
       "https://csiweb.wd1.myworkdayjobs.com/CSI_Careers/job/Paducah-KY-Corporate/Software-Engineer-I---C--NET---Hybrid---Paducah--KY_R-100739",
       "https://go.vansh.nyc/1oL?s=A"
+    ]
+  },
+  "csiweb::c engineer net software": {
+    "company": "Csiweb",
+    "notified_at": "2026-11-24T14:20:17.969737+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Software Engineer I \u2013 C#/.NET \\",
+    "url": "https://csiweb.wd1.myworkdayjobs.com/csi_careers/job/Paducah-KY-Corporate/Software-Engineer-I---C--NET---Hybrid---Paducah--KY_R-100739",
+    "urls": [
+      "https://csiweb.wd1.myworkdayjobs.com/csi_careers/job/Paducah-KY-Corporate/Software-Engineer-I---C--NET---Hybrid---Paducah--KY_R-100739"
     ]
   },
   "cummins::electronic engineer software systems": {
@@ -5643,15 +5727,15 @@
     ]
   },
   "micron::engineer software": {
-    "company": "Micron Technology",
-    "notified_at": "2026-11-18T03:25:22.713653+00:00",
+    "company": "Micron",
+    "notified_at": "2026-11-24T14:20:17.969737+00:00",
     "sources": [
-      "vanshb03/New-Grad-2027"
+      "ApplyGuy/2027-New-Grad-Jobs"
     ],
-    "title": "Software Engineer",
-    "url": "https://go.vansh.nyc/1C3?s=A",
+    "title": "New College Grad - Software Engineer",
+    "url": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692",
     "urls": [
-      "https://go.vansh.nyc/1C3?s=A"
+      "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692"
     ]
   },
   "microsoft::ai ceai commercial engineering software": {
@@ -7647,6 +7731,18 @@
       "https://go.vansh.nyc/13S?s=A"
     ]
   },
+  "relx::accelerate engineer program software tech": {
+    "company": "Relx",
+    "notified_at": "2026-11-24T14:20:17.969737+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Tech Accelerate Graduate Program - Software Engineer I",
+    "url": "https://relx.wd3.myworkdayjobs.com/risksolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836",
+    "urls": [
+      "https://relx.wd3.myworkdayjobs.com/risksolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836"
+    ]
+  },
   "relx::engineer software": {
     "company": "RELX",
     "notified_at": "2026-11-03T23:35:10.594205+00:00",
@@ -8800,6 +8896,30 @@
       "https://job-boards.greenhouse.io/smartsheet/jobs/8347710"
     ]
   },
+  "snc::current engineer fellows military only software": {
+    "company": "Snc",
+    "notified_at": "2026-11-24T14:20:17.969737+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Software Engineer I (Current Military Fellows Only)",
+    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-I--Current-Military-Fellows-Only-_R0031452-1",
+    "urls": [
+      "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-I--Current-Military-Fellows-Only-_R0031452-1"
+    ]
+  },
+  "snc::engineer software": {
+    "company": "Snc",
+    "notified_at": "2026-11-24T14:20:17.969737+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Software Engineer I",
+    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031455",
+    "urls": [
+      "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031455"
+    ]
+  },
   "solace::associate engineer software": {
     "company": "Solace",
     "notified_at": "2026-11-08T17:50:13.370207+00:00",
@@ -9483,6 +9603,30 @@
     "urls": [
       "https://careers-urbanscience.icims.com/jobs/5234/associate-software-engineer/job",
       "https://go.vansh.nyc/12w?s=A"
+    ]
+  },
+  "usbank::ai cloud engineer generative software stack": {
+    "company": "U.S. Bank",
+    "notified_at": "2026-11-24T14:20:17.969737+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Software Engineer 1 \u2013 Full-stack, Generative AI, Cloud",
+    "url": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Hopkins-MN/Software-Engineer-1---Full-stack--Generative-AI--Cloud_2026-0032031",
+    "urls": [
+      "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Hopkins-MN/Software-Engineer-1---Full-stack--Generative-AI--Cloud_2026-0032031"
+    ]
+  },
+  "usbank::cobol engineer mainframe software": {
+    "company": "U.S. Bank",
+    "notified_at": "2026-11-24T14:20:17.969737+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Software Engineer 1 - Mainframe (Cobol)",
+    "url": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Brookfield-WI/Software-Engineer-1---Mainframe--Cobol-_2026-0030686",
+    "urls": [
+      "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Brookfield-WI/Software-Engineer-1---Mainframe--Cobol-_2026-0030686"
     ]
   },
   "uthealthhouston::analyst business clinical intelligence": {
