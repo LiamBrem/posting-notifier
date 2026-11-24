@@ -1500,6 +1500,18 @@
       "https://www.bluerivertechnology.com/job/?gh_jid=8337794"
     ]
   },
+  "bmo::developer or recent software": {
+    "company": "Bmo",
+    "notified_at": "2026-11-24T12:50:17.269647+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Software Developer (New or Recent Graduate)",
+    "url": "https://bmo.wd3.myworkdayjobs.com/external/job/Berkeley-Heights-NJ-USA/Software-Developer_R260023733",
+    "urls": [
+      "https://bmo.wd3.myworkdayjobs.com/external/job/Berkeley-Heights-NJ-USA/Software-Developer_R260023733"
+    ]
+  },
   "bodyspec::engineer junior software": {
     "company": "BodySpec",
     "notified_at": "2026-10-30T15:05:12.439679+00:00",
@@ -5459,6 +5471,18 @@
     "url": "https://go.vansh.nyc/1kK?s=A",
     "urls": [
       "https://go.vansh.nyc/1kK?s=A"
+    ]
+  },
+  "medtronic::crm engineer software": {
+    "company": "Medtronic",
+    "notified_at": "2026-11-24T12:50:17.269647+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Software Engineer I - CRM",
+    "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I---CRM_R82448-2",
+    "urls": [
+      "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I---CRM_R82448-2"
     ]
   },
   "medtronic::engineer software test": {
