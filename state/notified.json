@@ -8024,6 +8024,18 @@
       "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Hybrid---Aguadilla--PR-_01887705"
     ]
   },
+  "rtx::aguadilla engineer pr software": {
+    "company": "RTX",
+    "notified_at": "2026-11-24T19:50:19.629463+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Software Engineer I (Hybrid - Aguadilla, PR)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Hybrid---Aguadilla--PR-_01890334",
+    "urls": [
+      "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Hybrid---Aguadilla--PR-_01890334"
+    ]
+  },
   "rtx::air engineer software solutions traffic": {
     "company": "RTX",
     "notified_at": "2026-11-12T23:35:14.659966+00:00",
@@ -8096,6 +8108,30 @@
       "https://go.vansh.nyc/1dJ?s=A"
     ]
   },
+  "rtx::e2dny engineer p1 software": {
+    "company": "RTX",
+    "notified_at": "2026-11-24T19:50:19.629463+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Software Engineer I (E2DNY-P1-1)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NY-BINGHAMTON-288--31-Lewis-Rd--LEWIS/Software-Engineer-I--E2DNY-P1-1-_01888023",
+    "urls": [
+      "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NY-BINGHAMTON-288--31-Lewis-Rd--LEWIS/Software-Engineer-I--E2DNY-P1-1-_01888023"
+    ]
+  },
+  "rtx::e2dva engineer p1 software": {
+    "company": "RTX",
+    "notified_at": "2026-11-24T19:50:19.629463+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Software Engineer I (E2DVA-P1-1)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineer-I--E2DVA-P1-1-_01888039",
+    "urls": [
+      "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineer-I--E2DVA-P1-1-_01888039"
+    ]
+  },
   "rtx::electrical engineer": {
     "company": "RTX",
     "notified_at": "2026-11-02T23:50:13.399874+00:00",
@@ -8160,11 +8196,14 @@
     "company": "RTX",
     "notified_at": "2026-11-24T19:25:17.349828+00:00",
     "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs",
       "vanshb03/New-Grad-2027"
     ],
     "title": "Software Engineer I \ud83c\uddfa\ud83c\uddf8",
     "url": "https://go.vansh.nyc/1Iq?s=A",
     "urls": [
+      "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineer-I--Onsite-_01887810",
+      "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineer-I--Onsite-_01889952",
       "https://go.vansh.nyc/1Iq?s=A"
     ]
   },
