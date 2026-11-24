@@ -2912,6 +2912,18 @@
       "https://go.vansh.nyc/1wB?s=A"
     ]
   },
+  "dmcengineering::engineer software": {
+    "company": "DMC Engineering",
+    "notified_at": "2026-11-24T10:35:13.113273+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Entry Level Software Engineer",
+    "url": "https://job-boards.greenhouse.io/dmcengineering_campus/jobs/5397642008",
+    "urls": [
+      "https://job-boards.greenhouse.io/dmcengineering_campus/jobs/5397642008"
+    ]
+  },
   "domino::engineer software": {
     "company": "Domino",
     "notified_at": "2026-11-10T07:15:15.108560+00:00",
@@ -6299,6 +6311,18 @@
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Hollywood/Software-Engineer---Principal-Software-Engineer_R10254398",
     "urls": [
       "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Hollywood/Software-Engineer---Principal-Software-Engineer_R10254398"
+    ]
+  },
+  "northwesternmutual::engineer software": {
+    "company": "Northwesternmutual",
+    "notified_at": "2026-11-24T10:35:13.113273+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Software Engineer I",
+    "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Software-Engineer-I_JR-46395-1",
+    "urls": [
+      "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Software-Engineer-I_JR-46395-1"
     ]
   },
   "northwoodspace::engineer platform software": {
