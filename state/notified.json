@@ -7322,6 +7322,7 @@
     "title": "Software Engineer I",
     "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-I_R-083895",
     "urls": [
+      "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-I_R-083877",
       "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-I_R-083895"
     ]
   },
@@ -8652,16 +8653,30 @@
       "https://sierraspace.wd1.myworkdayjobs.com/en-US/sierra_space_external_career_site/job/Louisville-CO/REQ-SWAP-Software-Engineer-I---DevOps---DevSecOps_R26535"
     ]
   },
+  "sierraspace::engineer flight software": {
+    "company": "Sierraspace",
+    "notified_at": "2026-11-24T11:50:14.698487+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Software Engineer I - Flight Software",
+    "url": "https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/Centennial-CO/Software-Engineer-I---Flight-Software_R26391-1",
+    "urls": [
+      "https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/Centennial-CO/Software-Engineer-I---Flight-Software_R26391-1"
+    ]
+  },
   "sierraspace::engineer ground software": {
     "company": "Sierra Space",
     "notified_at": "2026-11-23T02:35:14.958221+00:00",
     "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs",
       "SimplifyJobs/New-Grad-Positions"
     ],
     "title": "Software Engineer 1 - Ground Software",
     "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/Software-Engineer-I---Ground-Software_R26393-1",
     "urls": [
-      "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/Software-Engineer-I---Ground-Software_R26393-1"
+      "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/Software-Engineer-I---Ground-Software_R26393-1",
+      "https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/Centennial-CO/Software-Engineer-I---Ground-Software_R26393-1"
     ]
   },
   "silnahealth::ai analyst deployment": {
@@ -8898,6 +8913,18 @@
     "urls": [
       "https://go.vansh.nyc/1wP?s=A",
       "https://go.vansh.nyc/1wQ?s=A"
+    ]
+  },
+  "specialized::data engineer": {
+    "company": "Specialized",
+    "notified_at": "2026-11-24T11:50:14.698487+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Early Career Data Engineer",
+    "url": "https://specialized.wd5.myworkdayjobs.com/specialized_external_career_site/job/United-States-CA-Morgan-Hill-Office/Early-Career-Data-Engineer_R0012117",
+    "urls": [
+      "https://specialized.wd5.myworkdayjobs.com/specialized_external_career_site/job/United-States-CA-Morgan-Hill-Office/Early-Career-Data-Engineer_R0012117"
     ]
   },
   "springventure::devops engineer": {
