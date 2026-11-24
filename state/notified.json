@@ -5620,7 +5620,7 @@
   },
   "microsoft::ctj engineer poly software": {
     "company": "Microsoft",
-    "notified_at": "2026-11-21T10:20:14.617774+00:00",
+    "notified_at": "2026-11-24T10:20:16.091468+00:00",
     "sources": [
       "ApplyGuy/2027-New-Grad-Jobs"
     ],
@@ -6617,6 +6617,7 @@
     "title": "Software Engineer, DL Kernel Libraries - New College Grad 2027",
     "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
     "urls": [
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
       "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337"
     ]
   },
@@ -8200,11 +8201,13 @@
     "company": "Serko",
     "notified_at": "2026-11-24T08:05:16.254088+00:00",
     "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs",
       "SimplifyJobs/New-Grad-Positions"
     ],
     "title": "Software Engineer 1",
     "url": "https://apply.workable.com/serko-ltd/j/2BD3D4F4DE/apply",
     "urls": [
+      "https://apply.workable.com/serko-ltd/j/2BD3D4F4DE/",
       "https://apply.workable.com/serko-ltd/j/2BD3D4F4DE/apply"
     ]
   },
