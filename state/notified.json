@@ -73,6 +73,18 @@
       "https://jobs.smartrecruiters.com/AbbVie/3743990016715126"
     ]
   },
+  "abilitypath::developer job placement specialist": {
+    "company": "AbilityPath",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Job Developer I Job Placement Specialist",
+    "url": "https://job-boards.greenhouse.io/abilitypath/jobs/5299101007",
+    "urls": [
+      "https://job-boards.greenhouse.io/abilitypath/jobs/5299101007"
+    ]
+  },
   "abnormal::data engineer platforms software": {
     "company": "Abnormal",
     "notified_at": "2026-11-13T04:05:10.369089+00:00",
@@ -122,6 +134,18 @@
       "https://accenture.pinpointhq.com/en/postings/ace42afc-8144-49f7-84df-c9dbb66e352f?ats=pinpointhq",
       "https://accenture.pinpointhq.com/en/postings/c2cbc079-dce6-4033-88a2-79b1246cdf21?ats=pinpointhq",
       "https://accenture.pinpointhq.com/en/postings/fff24465-85e4-4642-a888-8df902586f39?ats=pinpointhq"
+    ]
+  },
+  "accenturefederalservices::associate engineer hire pega program software to train": {
+    "company": "Accenture Federal Services",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Associate Software Engineer-Hire-to-Train Program - Pega",
+    "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4711147006?gh_jid=4711147006",
+    "urls": [
+      "https://boards.greenhouse.io/accenturefederalservices/jobs/4711147006?gh_jid=4711147006"
     ]
   },
   "accenturefederalservices::developer mobile tak": {
@@ -490,6 +514,18 @@
       "https://go.vansh.nyc/1iP?s=A"
     ]
   },
+  "amazon::amz10628341 dev engineer ii software": {
+    "company": "Amazon",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Dev Engineer II - AMZ10628341",
+    "url": "https://www.amazon.jobs/jobs/10611628/apply",
+    "urls": [
+      "https://www.amazon.jobs/jobs/10611628/apply"
+    ]
+  },
   "amazon::annapurna developer engineer graviton labs software": {
     "company": "\ud83d\udd25 Amazon",
     "notified_at": "2026-10-27T22:35:10.442924+00:00",
@@ -538,6 +574,18 @@
       "https://www.amazon.jobs/en/jobs/10598223/software-development-engineer-i-inference-models-optimization-aws-neuron-inference"
     ]
   },
+  "amazon::center data engineer robotics software": {
+    "company": "Amazon",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Robotics Software Engineer - Data Center Robotics",
+    "url": "https://www.amazon.jobs/jobs/10612129/apply",
+    "urls": [
+      "https://www.amazon.jobs/jobs/10612129/apply"
+    ]
+  },
   "amazon::commerce engineer software": {
     "company": "Amazon",
     "notified_at": "2026-11-19T01:50:13.106436+00:00",
@@ -548,6 +596,18 @@
     "url": "https://www.amazon.jobs/en/jobs/10607758/software-engineer-i-commerce",
     "urls": [
       "https://www.amazon.jobs/en/jobs/10607758/software-engineer-i-commerce"
+    ]
+  },
+  "amazon::data development engineer software": {
+    "company": "Amazon",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Development Engineer - Data",
+    "url": "https://www.amazon.jobs/jobs/10611635/apply",
+    "urls": [
+      "https://www.amazon.jobs/jobs/10611635/apply"
     ]
   },
   "amazon::database development engineer software": {
@@ -766,6 +826,18 @@
     "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer---SECRET_R0173771",
     "urls": [
       "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer---SECRET_R0173771"
+    ]
+  },
+  "american::software tester": {
+    "company": "AMERICAN SYSTEMS",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Tester I",
+    "url": "https://careers-americansystems.icims.com/jobs/5851/software-tester-i/job",
+    "urls": [
+      "https://careers-americansystems.icims.com/jobs/5851/software-tester-i/job"
     ]
   },
   "americanexpress::campus engineer software undergraduate": {
@@ -1326,7 +1398,7 @@
   },
   "bask::backend engineer junior platform": {
     "company": "Bask",
-    "notified_at": "2026-11-15T18:45:14.950159+00:00",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
     "sources": [
       "speedyapply/2027-SWE-College-Jobs"
     ],
@@ -1611,7 +1683,7 @@
   },
   "boeing::associate developer engineer experienced or phantom software weapons works": {
     "company": "Boeing",
-    "notified_at": "2026-11-12T19:45:14.422976+00:00",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
     "sources": [
       "speedyapply/2027-SWE-College-Jobs"
     ],
@@ -1711,12 +1783,14 @@
     "company": "Boeing",
     "notified_at": "2026-11-24T14:20:17.969737+00:00",
     "sources": [
-      "ApplyGuy/2027-New-Grad-Jobs"
+      "ApplyGuy/2027-New-Grad-Jobs",
+      "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Embedded Software Engineer - Entry-Level",
     "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089-1",
     "urls": [
-      "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089-1"
+      "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089-1",
+      "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089-1"
     ]
   },
   "boeing::engineer flight management software systems vehicle": {
@@ -1818,7 +1892,7 @@
   },
   "boozallen::devops engineer": {
     "company": "Booz Allen",
-    "notified_at": "2026-11-21T19:00:19.048513+00:00",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
     "sources": [
       "speedyapply/2027-SWE-College-Jobs"
     ],
@@ -2328,6 +2402,18 @@
       "https://go.vansh.nyc/WZ?s=A"
     ]
   },
+  "charlesschwab::angular developer net": {
+    "company": "Charles Schwab",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": ".NET/Angular Developer",
+    "url": "https://career-schwab.icims.com/jobs/127245/.net-angular-developer/job",
+    "urls": [
+      "https://career-schwab.icims.com/jobs/127245/.net-angular-developer/job"
+    ]
+  },
   "charlesschwab::associate development engineering software": {
     "company": "Charles Schwab",
     "notified_at": "2026-11-06T16:25:10.245430+00:00",
@@ -2476,6 +2562,18 @@
     "url": "https://go.vansh.nyc/1lV?s=A",
     "urls": [
       "https://go.vansh.nyc/1lV?s=A"
+    ]
+  },
+  "cisco::backend engineer ii software stack states united": {
+    "company": "Cisco",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer Full Stack / Backend II - Full-Time - United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer-Full-Stack---Backend-II--Full-Time----United-States_2026779",
+    "urls": [
+      "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer-Full-Stack---Backend-II--Full-Time----United-States_2026779"
     ]
   },
   "cisco::backend engineer software stack": {
@@ -2759,12 +2857,14 @@
     "company": "Cox",
     "notified_at": "2026-11-24T19:20:15.450403+00:00",
     "sources": [
-      "ApplyGuy/2027-New-Grad-Jobs"
+      "ApplyGuy/2027-New-Grad-Jobs",
+      "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Software Engineer I  - 13851",
     "url": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Atlanta-GA/Software-Engineer-I----13851_R202684592-1",
     "urls": [
-      "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Atlanta-GA/Software-Engineer-I----13851_R202684592-1"
+      "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Atlanta-GA/Software-Engineer-I----13851_R202684592-1",
+      "https://cox.wd1.myworkdayjobs.com/en-US/cox_external_career_site_1/job/Atlanta-GA/Software-Engineer-I----13851_R202684592-1"
     ]
   },
   "cox::19025 engineer software": {
@@ -2995,6 +3095,18 @@
     "url": "https://boards.greenhouse.io/embed/job_app?token=8847747002",
     "urls": [
       "https://boards.greenhouse.io/embed/job_app?token=8847747002"
+    ]
+  },
+  "datalabusa::developer production programmer sql": {
+    "company": "DataLab USA",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Production Programmer - Entry Level SQL Developer",
+    "url": "https://jobs.lever.co/datalabusa/df8bf76b-2626-4bb2-b4f2-dbefb165228a",
+    "urls": [
+      "https://jobs.lever.co/datalabusa/df8bf76b-2626-4bb2-b4f2-dbefb165228a"
     ]
   },
   "decagon::member of staff technical": {
@@ -3310,6 +3422,18 @@
       "https://go.vansh.nyc/1GS?s=A"
     ]
   },
+  "enterprise::engineer management revenue software": {
+    "company": "Enterprise",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Engineer 1 - Software - Revenue Management",
+    "url": "https://us-erac.icims.com/jobs/598218/engineer-1%2c-software---revenue-management/job",
+    "urls": [
+      "https://us-erac.icims.com/jobs/598218/engineer-1%2c-software---revenue-management/job"
+    ]
+  },
   "eqltech::edtech engineer fintech founding stack": {
     "company": "EQL Tech",
     "notified_at": "2026-11-22T00:35:15.020886+00:00",
@@ -3358,6 +3482,18 @@
     "url": "https://go.vansh.nyc/1zG?s=A",
     "urls": [
       "https://go.vansh.nyc/1zG?s=A"
+    ]
+  },
+  "evertz::embedded engineer pittsburgh software": {
+    "company": "Evertz",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Embedded Software Engineer - Pittsburgh",
+    "url": "https://evertz.applytojob.com/apply/wTfwS5pJdj/Embedded-Software-Engineer-Pittsburgh",
+    "urls": [
+      "https://evertz.applytojob.com/apply/wTfwS5pJdj/Embedded-Software-Engineer-Pittsburgh"
     ]
   },
   "everwatch::engineer junior software": {
@@ -3758,6 +3894,18 @@
       "https://go.vansh.nyc/YY?s=A"
     ]
   },
+  "gdit::automation developer process robotic uipath": {
+    "company": "GDIT",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "UiPath Robotic Process Automation Developer",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-LA-Home-Office-LAHOME/UiPath-Robotic-Process-Automation-Developer_RQ232614-2",
+    "urls": [
+      "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-LA-Home-Office-LAHOME/UiPath-Robotic-Process-Automation-Developer_RQ232614-2"
+    ]
+  },
   "geaerospace::design engineer fpga verification": {
     "company": "GE Aerospace",
     "notified_at": "2026-11-11T06:00:17.034052+00:00",
@@ -3866,6 +4014,18 @@
     "url": "https://go.vansh.nyc/1h6?s=A",
     "urls": [
       "https://go.vansh.nyc/1h6?s=A"
+    ]
+  },
+  "genpact::5b applications developer enterprise": {
+    "company": "Genpact",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Developer - Enterprise Applications 5B",
+    "url": "https://genpact.wd108.myworkdayjobs.com/en-US/external_careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Developer--Enterprise-Applications-5B_JR10035469",
+    "urls": [
+      "https://genpact.wd108.myworkdayjobs.com/en-US/external_careers/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Developer--Enterprise-Applications-5B_JR10035469"
     ]
   },
   "gevernova::ai engineer": {
@@ -4462,14 +4622,14 @@
   },
   "inductiveautomation::engineer software solutions": {
     "company": "Inductive Automation",
-    "notified_at": "2026-10-31T17:10:11.243198+00:00",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
     "sources": [
       "speedyapply/2027-SWE-College-Jobs"
     ],
-    "title": "Software Solutions Engineer I",
-    "url": "https://jobs.ashbyhq.com/inductive-automation-llc/30720689-1747-4983-a482-7e19a5d4d151",
+    "title": "Software Solutions Engineer I - Hybrid",
+    "url": "https://jobs.ashbyhq.com/inductive-automation-llc/1942308d-84ac-4feb-83f0-5d16a1f2c0bf",
     "urls": [
-      "https://jobs.ashbyhq.com/inductive-automation-llc/30720689-1747-4983-a482-7e19a5d4d151"
+      "https://jobs.ashbyhq.com/inductive-automation-llc/1942308d-84ac-4feb-83f0-5d16a1f2c0bf"
     ]
   },
   "infinitive::consultant technology": {
@@ -4688,6 +4848,18 @@
     "url": "https://go.vansh.nyc/1HZ?s=A",
     "urls": [
       "https://go.vansh.nyc/1HZ?s=A"
+    ]
+  },
+  "iridiumsatellitecommunications::engineer software test": {
+    "company": "Iridium Satellite Communications",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Test Engineer I",
+    "url": "https://careers-iridium.icims.com/jobs/5154/software-test-engineer-i/job",
+    "urls": [
+      "https://careers-iridium.icims.com/jobs/5154/software-test-engineer-i/job"
     ]
   },
   "isu::developer software": {
@@ -5072,6 +5244,18 @@
       "https://job-boards.greenhouse.io/koddi/jobs/8944769002"
     ]
   },
+  "kodiakrobotics::quality simulation software specialist": {
+    "company": "Kodiak Robotics",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Quality Simulation Specialist",
+    "url": "https://job-boards.greenhouse.io/kodiak/jobs/4518079009",
+    "urls": [
+      "https://job-boards.greenhouse.io/kodiak/jobs/4518079009"
+    ]
+  },
   "kraunelectric::developer junior software": {
     "company": "Kraun Electric",
     "notified_at": "2026-11-17T08:05:26.046519+00:00",
@@ -5353,6 +5537,18 @@
       "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836"
     ]
   },
+  "libertymutual::engineer investments software technology": {
+    "company": "Liberty Mutual",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer - Investments Technology",
+    "url": "https://careers-libertymutual.icims.com/jobs/262229/software-engineer%2c-investments-technology/job",
+    "urls": [
+      "https://careers-libertymutual.icims.com/jobs/262229/software-engineer%2c-investments-technology/job"
+    ]
+  },
   "lightfield::engineer software": {
     "company": "Lightfield",
     "notified_at": "2026-11-08T17:50:13.370207+00:00",
@@ -5524,7 +5720,7 @@
   },
   "lutron::austin embedded engineer project software tx": {
     "company": "Lutron",
-    "notified_at": "2026-11-16T21:55:36.988433+00:00",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
     "sources": [
       "speedyapply/2027-SWE-College-Jobs"
     ],
@@ -6314,14 +6510,14 @@
   },
   "northropgrumman::associate boulder co engineer pathways software": {
     "company": "Northrop Grumman",
-    "notified_at": "2026-11-12T04:20:12.723775+00:00",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
     "sources": [
-      "ApplyGuy/2027-New-Grad-Jobs"
+      "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "2027 Associate Software Engineer - Pathways - Boulder CO",
-    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Pathways---Boulder-CO_R10260171",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Pathways---Boulder-CO_R10260171",
     "urls": [
-      "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Pathways---Boulder-CO_R10260171"
+      "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Pathways---Boulder-CO_R10260171"
     ]
   },
   "northropgrumman::associate boulder co engineer software": {
@@ -6352,11 +6548,13 @@
     "company": "Northrop Grumman",
     "notified_at": "2026-11-24T11:05:27.469410+00:00",
     "sources": [
-      "ApplyGuy/2027-New-Grad-Jobs"
+      "ApplyGuy/2027-New-Grad-Jobs",
+      "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "2027 Associate Software Engineer / Software Engineer - Colorado Springs CO",
     "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10261637",
     "urls": [
+      "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10261637",
       "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10261637"
     ]
   },
@@ -6458,6 +6656,18 @@
       "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018"
     ]
   },
+  "northropgrumman::associate engineer linthicum md pathways software": {
+    "company": "Northrop Grumman",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "2027 Associate/Software Engineer Pathways Linthicum MD",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499",
+    "urls": [
+      "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499"
+    ]
+  },
   "northropgrumman::associate engineer pathways program software": {
     "company": "Northrop Grumman",
     "notified_at": "2026-10-28T22:45:15.752082+00:00",
@@ -6519,16 +6729,30 @@
       "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Hollywood/Software-Engineer---Principal-Software-Engineer_R10254398"
     ]
   },
+  "northwestbank::engineer ii software": {
+    "company": "Northwest Bank",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer II",
+    "url": "https://northwest.wd1.myworkdayjobs.com/en-US/northwest_careers/job/Buffalo-NY/Software-Engineer-II_R-102561",
+    "urls": [
+      "https://northwest.wd1.myworkdayjobs.com/en-US/northwest_careers/job/Buffalo-NY/Software-Engineer-II_R-102561"
+    ]
+  },
   "northwesternmutual::engineer software": {
     "company": "Northwesternmutual",
     "notified_at": "2026-11-24T10:35:13.113273+00:00",
     "sources": [
-      "ApplyGuy/2027-New-Grad-Jobs"
+      "ApplyGuy/2027-New-Grad-Jobs",
+      "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Software Engineer I",
     "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Software-Engineer-I_JR-46395-1",
     "urls": [
-      "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Software-Engineer-I_JR-46395-1"
+      "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Software-Engineer-I_JR-46395-1",
+      "https://northwesternmutual.wd5.myworkdayjobs.com/en-US/corporate-careers/job/Milwaukee-WI-Corporate/Software-Engineer_JR-46291"
     ]
   },
   "northwoodspace::engineer platform software": {
@@ -7913,6 +8137,18 @@
       "https://careers.roblox.com/jobs/8315883?gh_jid=8315883"
     ]
   },
+  "roblox::data engineer software tooling": {
+    "company": "Roblox",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer - Data Tooling",
+    "url": "https://careers.roblox.com/jobs/8395051?gh_jid=8395051",
+    "urls": [
+      "https://careers.roblox.com/jobs/8395051?gh_jid=8395051"
+    ]
+  },
   "roblox::discovery engineer software ux": {
     "company": "Roblox",
     "notified_at": "2026-10-31T17:10:11.243198+00:00",
@@ -8256,6 +8492,18 @@
       "https://go.vansh.nyc/1vE?s=A"
     ]
   },
+  "ryan::ai engineer may stack": {
+    "company": "Ryan",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Full Stack AI Engineer - May 2027 Grads",
+    "url": "https://ryan.wd1.myworkdayjobs.com/en-US/ryancareers/job/Plano/Full-Stack-AI-Engineer_R0019979-1",
+    "urls": [
+      "https://ryan.wd1.myworkdayjobs.com/en-US/ryancareers/job/Plano/Full-Stack-AI-Engineer_R0019979-1"
+    ]
+  },
   "saabusa::associate engineer software": {
     "company": "Saabusa",
     "notified_at": "2026-10-30T09:20:11.632086+00:00",
@@ -8518,7 +8766,8 @@
     "notified_at": "2026-11-24T08:05:16.254088+00:00",
     "sources": [
       "ApplyGuy/2027-New-Grad-Jobs",
-      "SimplifyJobs/New-Grad-Positions"
+      "SimplifyJobs/New-Grad-Positions",
+      "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Software Engineer 1",
     "url": "https://apply.workable.com/serko-ltd/j/2BD3D4F4DE/apply",
@@ -8920,15 +9169,29 @@
       "https://go.vansh.nyc/1Gt?s=A"
     ]
   },
+  "sierranevada::current engineer fellows military only software": {
+    "company": "Sierra Nevada Corporation",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer I - Current Military Fellows Only",
+    "url": "https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-I--Current-Military-Fellows-Only-_R0031452-1",
+    "urls": [
+      "https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-I--Current-Military-Fellows-Only-_R0031452-1"
+    ]
+  },
   "sierranevada::engineer software": {
     "company": "Sierra Nevada Corporation",
     "notified_at": "2026-11-22T03:05:12.166473+00:00",
     "sources": [
-      "SimplifyJobs/New-Grad-Positions"
+      "SimplifyJobs/New-Grad-Positions",
+      "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Software Engineer 1",
     "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031418",
     "urls": [
+      "https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031455",
       "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031418"
     ]
   },
@@ -9029,6 +9292,18 @@
     "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8347710",
     "urls": [
       "https://job-boards.greenhouse.io/smartsheet/jobs/8347710"
+    ]
+  },
+  "smx::5510 engineer junior software": {
+    "company": "SMX",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Junior Software Engineer - 5510",
+    "url": "https://www.smxtech.com/careers/?gh_jid=7832667003",
+    "urls": [
+      "https://www.smxtech.com/careers/?gh_jid=7832667003"
     ]
   },
   "snc::current engineer fellows military only software": {
@@ -9189,6 +9464,18 @@
     "urls": [
       "https://boards.greenhouse.io/spacex/jobs/8927257002?gh_jid=8927257002",
       "https://go.vansh.nyc/1dT?s=A"
+    ]
+  },
+  "spacex::engineer ground network software starlink": {
+    "company": "SpaceX",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer - Ground Network - Starlink",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8958880002?gh_jid=8958880002",
+    "urls": [
+      "https://boards.greenhouse.io/spacex/jobs/8958880002?gh_jid=8958880002"
     ]
   },
   "spacex::engineer internal platforms software stack": {
@@ -10019,6 +10306,18 @@
       "https://jobs.smartrecruiters.com/Wavestone1/744000160277010-ai-full-stack-engineer?oga=true"
     ]
   },
+  "webai::developer jr software": {
+    "company": "webAI",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Jr Software Developer",
+    "url": "https://jobs.ashbyhq.com/webAI/571ff25a-c3ad-44f5-8f35-f4a7944899df",
+    "urls": [
+      "https://jobs.ashbyhq.com/webAI/571ff25a-c3ad-44f5-8f35-f4a7944899df"
+    ]
+  },
   "webai::developer junior software": {
     "company": "WebAI",
     "notified_at": "2026-11-24T00:05:14.343894+00:00",
@@ -10182,6 +10481,18 @@
     "urls": [
       "https://go.vansh.nyc/1oT?s=A",
       "https://wolve.pinpointhq.com/en/postings/33228344-bcc7-4bcd-b3cb-22b60aaee82c?ats=pinpointhq"
+    ]
+  },
+  "wonder::associate engineer robotics software": {
+    "company": "Wonder",
+    "notified_at": "2026-11-24T22:15:16.299593+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Associate Software Engineer - Robotics",
+    "url": "https://wonder.wd1.myworkdayjobs.com/en-US/wg/job/Spyce/Associate-Software-Engineer--Robotics_JR101475",
+    "urls": [
+      "https://wonder.wd1.myworkdayjobs.com/en-US/wg/job/Spyce/Associate-Software-Engineer--Robotics_JR101475"
     ]
   },
   "wonderbrands::developer fullstack software": {
