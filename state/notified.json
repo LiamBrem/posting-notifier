@@ -10247,12 +10247,14 @@
     "company": "Veeva Systems",
     "notified_at": "2026-11-25T01:05:12.666491+00:00",
     "sources": [
+      "SimplifyJobs/New-Grad-Positions",
       "vanshb03/New-Grad-2027"
     ],
     "title": "New Grad 2027: Associate Software Engineer \ud83d\udec2",
     "url": "https://go.vansh.nyc/1IJ?s=A",
     "urls": [
-      "https://go.vansh.nyc/1IJ?s=A"
+      "https://go.vansh.nyc/1IJ?s=A",
+      "https://jobs.lever.co/veeva/7272b636-1a5e-4e4b-a0af-763d2951429f/apply"
     ]
   },
   "velocityexplorations::engineer software": {
