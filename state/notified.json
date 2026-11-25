@@ -1448,7 +1448,7 @@
   },
   "bask::backend engineer junior": {
     "company": "Bask",
-    "notified_at": "2026-11-21T19:00:19.048513+00:00",
+    "notified_at": "2026-11-25T21:30:18.296577+00:00",
     "sources": [
       "speedyapply/2027-SWE-College-Jobs"
     ],
@@ -1847,12 +1847,14 @@
     "company": "Boeing",
     "notified_at": "2026-11-24T14:20:17.969737+00:00",
     "sources": [
-      "ApplyGuy/2027-New-Grad-Jobs"
+      "ApplyGuy/2027-New-Grad-Jobs",
+      "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Entry-Level Software Engineer\u2013Developer",
     "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382-1",
     "urls": [
       "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382-1",
+      "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382-1",
       "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382-1"
     ]
   },
@@ -1911,12 +1913,15 @@
     "company": "Boeing",
     "notified_at": "2026-11-24T14:20:17.969737+00:00",
     "sources": [
-      "ApplyGuy/2027-New-Grad-Jobs"
+      "ApplyGuy/2027-New-Grad-Jobs",
+      "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Entry-Level Software Engineer\u2013Test & Verification",
     "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Test---Verification_JR2026523081",
     "urls": [
-      "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Test---Verification_JR2026523081"
+      "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Test---Verification_JR2026523081",
+      "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Test---Verification_JR2026523081",
+      "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Test---Verification_JR2026523081-2"
     ]
   },
   "boozallen::c engineer junior software": {
@@ -1990,7 +1995,8 @@
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/DevOps-Engineer_R0253777",
     "urls": [
       "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Arlington-VA/DevOps-Engineer_R0253740",
-      "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/DevOps-Engineer_R0253777"
+      "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/DevOps-Engineer_R0253777",
+      "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/San-Antonio-TX/DevOps-Engineer_R0253780"
     ]
   },
   "boozallenhamilton::analyst cybersecurity junior": {
@@ -5938,6 +5944,18 @@
     "url": "https://studentopportunities-lutron.icims.com/jobs/5478/project-embedded-software-engineer-2027---boston%2c-ma/job",
     "urls": [
       "https://studentopportunities-lutron.icims.com/jobs/5478/project-embedded-software-engineer-2027---boston%2c-ma/job"
+    ]
+  },
+  "lutron::embedded engineer firmware lehigh pa project valley": {
+    "company": "Lutron",
+    "notified_at": "2026-11-25T21:30:18.296577+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Project Embedded Firmware Engineer 2027 - Lehigh Valley - PA",
+    "url": "https://studentopportunities-lutron.icims.com/jobs/5454/project-embedded-firmware-engineer-2027---lehigh-valley%2c-pa/job",
+    "urls": [
+      "https://studentopportunities-lutron.icims.com/jobs/5454/project-embedded-firmware-engineer-2027---lehigh-valley%2c-pa/job"
     ]
   },
   "m1::engineer junior software": {
