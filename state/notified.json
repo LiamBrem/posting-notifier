@@ -1132,12 +1132,14 @@
     "company": "Appodeal",
     "notified_at": "2026-11-24T16:55:12.650607+00:00",
     "sources": [
+      "SimplifyJobs/New-Grad-Positions",
       "vanshb03/New-Grad-2027"
     ],
     "title": "Junior Software Engineer",
     "url": "https://go.vansh.nyc/1Ig?s=A",
     "urls": [
-      "https://go.vansh.nyc/1Ig?s=A"
+      "https://go.vansh.nyc/1Ig?s=A",
+      "https://job-boards.greenhouse.io/appodeal/jobs/4918549008"
     ]
   },
   "aprio::ai associate automation": {
@@ -1850,7 +1852,8 @@
     "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089-1",
     "urls": [
       "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089-1",
-      "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089-1"
+      "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089-1",
+      "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089-1"
     ]
   },
   "boeing::engineer flight management software systems vehicle": {
