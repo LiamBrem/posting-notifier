@@ -10545,12 +10545,14 @@
     "company": "webAI",
     "notified_at": "2026-11-24T22:15:16.299593+00:00",
     "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs",
       "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Jr Software Developer",
     "url": "https://jobs.ashbyhq.com/webAI/571ff25a-c3ad-44f5-8f35-f4a7944899df",
     "urls": [
-      "https://jobs.ashbyhq.com/webAI/571ff25a-c3ad-44f5-8f35-f4a7944899df"
+      "https://jobs.ashbyhq.com/webAI/571ff25a-c3ad-44f5-8f35-f4a7944899df",
+      "https://jobs.ashbyhq.com/webai/571ff25a-c3ad-44f5-8f35-f4a7944899df"
     ]
   },
   "webai::developer junior software": {
