@@ -2514,28 +2514,27 @@
   },
   "chewy::engineer promotions software stack": {
     "company": "Chewy",
-    "notified_at": "2026-11-07T00:05:10.591995+00:00",
+    "notified_at": "2026-11-25T08:05:15.576272+00:00",
     "sources": [
-      "SimplifyJobs/New-Grad-Positions",
-      "speedyapply/2027-SWE-College-Jobs"
+      "ApplyGuy/2027-New-Grad-Jobs"
     ],
-    "title": "Software Engineer 1 - Full Stack - Promotions",
-    "url": "https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Boston-MA/Software-Engineer-I--Full-Stack--Promotions_R31442",
+    "title": "Software Engineer I, Full Stack, Promotions",
+    "url": "https://chewy.wd5.myworkdayjobs.com/external/job/Boston-MA/Software-Engineer-I--Full-Stack--Promotions_R31442",
     "urls": [
-      "https://chewy.wd5.myworkdayjobs.com/en-US/external/job/Boston-MA/Software-Engineer-I--Full-Stack--Promotions_R31442",
-      "https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Boston-MA/Software-Engineer-I--Full-Stack--Promotions_R31442"
+      "https://chewy.wd5.myworkdayjobs.com/external/job/Boston-MA/Software-Engineer-I--Full-Stack--Promotions_R31442"
     ]
   },
   "chewy::engineer software": {
     "company": "Chewy",
-    "notified_at": "2026-11-09T22:10:14.575953+00:00",
+    "notified_at": "2026-11-25T08:05:15.576272+00:00",
     "sources": [
-      "speedyapply/2027-SWE-College-Jobs"
+      "ApplyGuy/2027-New-Grad-Jobs"
     ],
     "title": "Software Engineer I",
-    "url": "https://chewy.wd5.myworkdayjobs.com/en-US/external/job/Boston-MA/Software-Engineer-I_R31431",
+    "url": "https://chewy.wd5.myworkdayjobs.com/external/job/Bellevue-WA/Software-Engineer-I_R30985-1",
     "urls": [
-      "https://chewy.wd5.myworkdayjobs.com/en-US/external/job/Boston-MA/Software-Engineer-I_R31431"
+      "https://chewy.wd5.myworkdayjobs.com/external/job/Bellevue-WA/Software-Engineer-I_R30985-1",
+      "https://chewy.wd5.myworkdayjobs.com/external/job/Boston-MA/Software-Engineer-I_R31431"
     ]
   },
   "chicagotrading::associate quant trading": {
@@ -3293,6 +3292,7 @@
     "company": "DMC Engineering",
     "notified_at": "2026-11-24T10:35:13.113273+00:00",
     "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs",
       "SimplifyJobs/New-Grad-Positions"
     ],
     "title": "Entry Level Software Engineer",
