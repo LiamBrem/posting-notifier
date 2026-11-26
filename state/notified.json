@@ -5982,6 +5982,18 @@
       "https://go.vansh.nyc/1uB?s=A"
     ]
   },
+  "mantech::analyst data junior": {
+    "company": "ManTech",
+    "notified_at": "2026-11-26T00:00:19.305995+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Junior Data Analyst \ud83c\uddfa\ud83c\uddf8",
+    "url": "https://go.vansh.nyc/1JG?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1JG?s=A"
+    ]
+  },
   "mantech::developer junior software": {
     "company": "ManTech",
     "notified_at": "2026-11-16T23:35:19.190595+00:00",
@@ -7572,11 +7584,13 @@
     "company": "Parallel Web Systems",
     "notified_at": "2026-11-25T23:35:14.868301+00:00",
     "sources": [
-      "SimplifyJobs/New-Grad-Positions"
+      "SimplifyJobs/New-Grad-Positions",
+      "vanshb03/New-Grad-2027"
     ],
     "title": "Early Career Software Engineer - Developer Experience",
     "url": "https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c/application?embed=true",
     "urls": [
+      "https://go.vansh.nyc/1JH?s=A",
       "https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c/application?embed=true"
     ]
   },
@@ -10248,6 +10262,18 @@
     "url": "https://job-boards.greenhouse.io/twitch/jobs/8887222002",
     "urls": [
       "https://job-boards.greenhouse.io/twitch/jobs/8887222002"
+    ]
+  },
+  "twosigma::quantitative trader": {
+    "company": "Two Sigma",
+    "notified_at": "2026-11-26T00:00:19.305995+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Quantitative Trader",
+    "url": "https://go.vansh.nyc/1JI?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1JI?s=A"
     ]
   },
   "unitedlaunchalliance::avionics engineer ground infrastructure software": {
