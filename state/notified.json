@@ -1386,6 +1386,30 @@
       "https://go.vansh.nyc/1um?s=A"
     ]
   },
+  "ayosemiconductor::engineer learning machine master s": {
+    "company": "Ayo Semiconductor",
+    "notified_at": "2026-11-26T00:30:18.063517+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Machine Learning Engineer (Master's)",
+    "url": "https://go.vansh.nyc/1JX?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1JX?s=A"
+    ]
+  },
+  "ayosemiconductor::learning machine master researcher s": {
+    "company": "Ayo Semiconductor",
+    "notified_at": "2026-11-26T00:30:18.063517+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Machine Learning Researcher (Master's)",
+    "url": "https://go.vansh.nyc/1JW?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1JW?s=A"
+    ]
+  },
   "bae::engineer software": {
     "company": "BAE Systems",
     "notified_at": "2026-11-11T15:15:14.295370+00:00",
@@ -2845,11 +2869,13 @@
     "notified_at": "2026-11-26T00:05:14.002847+00:00",
     "sources": [
       "ApplyGuy/2027-New-Grad-Jobs",
-      "SimplifyJobs/New-Grad-Positions"
+      "SimplifyJobs/New-Grad-Positions",
+      "vanshb03/New-Grad-2027"
     ],
     "title": "Software Engineer New Grad",
     "url": "https://jobs.ashbyhq.com/coderabbit/50e51501-4421-496f-95ea-c793aed3bd51/application?embed=true",
     "urls": [
+      "https://go.vansh.nyc/1JS?s=A",
       "https://jobs.ashbyhq.com/coderabbit/50e51501-4421-496f-95ea-c793aed3bd51",
       "https://jobs.ashbyhq.com/coderabbit/50e51501-4421-496f-95ea-c793aed3bd51/application?embed=true"
     ]
@@ -6625,6 +6651,18 @@
     "url": "https://go.vansh.nyc/1Fn?s=A",
     "urls": [
       "https://go.vansh.nyc/1Fn?s=A"
+    ]
+  },
+  "nexvel::coder marketing tools vibe": {
+    "company": "Nexvel",
+    "notified_at": "2026-11-26T00:30:18.063517+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Vibe Coder - Marketing Tools",
+    "url": "https://go.vansh.nyc/1JV?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1JV?s=A"
     ]
   },
   "nightwing::developer security software system": {
