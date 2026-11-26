@@ -3087,6 +3087,18 @@
       "https://go.vansh.nyc/1EV?s=A"
     ]
   },
+  "credence::cloud engineer platform": {
+    "company": "Credence",
+    "notified_at": "2026-11-26T06:20:13.878962+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Cloud Platform Engineer- Entry Level",
+    "url": "https://jobs.workable.com/view/kFgHbYSvPSPPF6S8YP2oJZ/hybrid-cloud-platform-engineer--entry-level-in-mclean-at-credence",
+    "urls": [
+      "https://jobs.workable.com/view/kFgHbYSvPSPPF6S8YP2oJZ/hybrid-cloud-platform-engineer--entry-level-in-mclean-at-credence"
+    ]
+  },
   "crosscountryconsulting::deployed engineer forward junior software": {
     "company": "CrossCountry Consulting",
     "notified_at": "2026-11-17T00:05:11.430767+00:00",
@@ -9048,6 +9060,7 @@
     "company": "Scout AI",
     "notified_at": "2026-11-26T02:30:19.229709+00:00",
     "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs",
       "SimplifyJobs/New-Grad-Positions",
       "vanshb03/New-Grad-2027"
     ],
@@ -9055,6 +9068,7 @@
     "url": "https://go.vansh.nyc/1K4?s=A",
     "urls": [
       "https://go.vansh.nyc/1K4?s=A",
+      "https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897",
       "https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897/application?embed=true"
     ]
   },
