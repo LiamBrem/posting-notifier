@@ -5732,6 +5732,18 @@
       "https://go.vansh.nyc/1k1?s=A"
     ]
   },
+  "lseg::ai associate business product": {
+    "company": "LSEG",
+    "notified_at": "2026-11-27T09:40:17.648673+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad 2027: AI Product & Business Associate",
+    "url": "https://go.vansh.nyc/1Lo?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1Lo?s=A"
+    ]
+  },
   "lseg::engineering programme": {
     "company": "LSEG",
     "notified_at": "2026-11-11T06:00:17.034052+00:00",
@@ -6372,6 +6384,30 @@
     "url": "https://go.vansh.nyc/1j9?s=A",
     "urls": [
       "https://go.vansh.nyc/1j9?s=A"
+    ]
+  },
+  "mtbank::ai development engineering platforms program software technology": {
+    "company": "M&T Bank",
+    "notified_at": "2026-11-27T09:40:17.648673+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad 2027: Technology Development Program - Software Engineering (AI & Engineering Platforms)",
+    "url": "https://go.vansh.nyc/1Ln?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1Ln?s=A"
+    ]
+  },
+  "mtbank::application commercial development engineering program software technology": {
+    "company": "M&T Bank",
+    "notified_at": "2026-11-27T09:40:17.648673+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "New Grad 2027: Technology Development Program - Software Engineering (Commercial Application Development)",
+    "url": "https://go.vansh.nyc/1Lm?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1Lm?s=A"
     ]
   },
   "mtbank::cloud data development engineer program protection storage technology": {
