@@ -7080,21 +7080,6 @@
       "https://go.vansh.nyc/I3?s=A"
     ]
   },
-  "nvidia::asic design engineer": {
-    "company": "NVIDIA",
-    "notified_at": "2026-10-28T18:50:11.684743+00:00",
-    "sources": [
-      "vanshb03/New-Grad-2027"
-    ],
-    "title": "New Grad 2027: ASIC Design Engineer",
-    "url": "https://go.vansh.nyc/XR?s=A",
-    "urls": [
-      "https://go.vansh.nyc/11F?s=A",
-      "https://go.vansh.nyc/11m?s=A",
-      "https://go.vansh.nyc/11o?s=A",
-      "https://go.vansh.nyc/XR?s=A"
-    ]
-  },
   "nvidia::asic design engineer floorplan master s": {
     "company": "NVIDIA",
     "notified_at": "2026-10-30T23:10:16.796482+00:00",
@@ -7129,32 +7114,6 @@
     "url": "https://go.vansh.nyc/11C?s=A",
     "urls": [
       "https://go.vansh.nyc/11C?s=A"
-    ]
-  },
-  "nvidia::asic engineer management memory verification": {
-    "company": "NVIDIA",
-    "notified_at": "2026-10-28T18:50:11.684743+00:00",
-    "sources": [
-      "vanshb03/New-Grad-2027"
-    ],
-    "title": "New Grad 2027: ASIC Verification Engineer, Memory Management",
-    "url": "https://go.vansh.nyc/XS?s=A",
-    "urls": [
-      "https://go.vansh.nyc/11l?s=A",
-      "https://go.vansh.nyc/XS?s=A"
-    ]
-  },
-  "nvidia::asic engineer verification": {
-    "company": "NVIDIA",
-    "notified_at": "2026-10-28T18:50:11.684743+00:00",
-    "sources": [
-      "vanshb03/New-Grad-2027"
-    ],
-    "title": "ASIC Verification Engineer",
-    "url": "https://go.vansh.nyc/XP?s=A",
-    "urls": [
-      "https://go.vansh.nyc/XP?s=A",
-      "https://go.vansh.nyc/XT?s=A"
     ]
   },
   "nvidia::communications deep engineer framework learning": {
