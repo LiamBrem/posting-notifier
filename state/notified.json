@@ -1400,14 +1400,14 @@
   },
   "bask::backend engineer": {
     "company": "Bask",
-    "notified_at": "2026-11-11T21:45:16.841244+00:00",
+    "notified_at": "2026-11-27T21:00:26.809369+00:00",
     "sources": [
-      "vanshb03/New-Grad-2027"
+      "speedyapply/2027-SWE-College-Jobs"
     ],
-    "title": "New Grad: Backend Engineer",
-    "url": "https://go.vansh.nyc/1vk?s=A",
+    "title": "Backend Engineer - New Grad",
+    "url": "https://apply.workable.com/bask-health-1/j/472CF47F60/",
     "urls": [
-      "https://go.vansh.nyc/1vk?s=A"
+      "https://apply.workable.com/bask-health-1/j/472CF47F60/"
     ]
   },
   "bask::backend engineer junior": {
@@ -1796,14 +1796,14 @@
   },
   "boeing::associate engineer experienced or software systems": {
     "company": "Boeing",
-    "notified_at": "2026-11-21T19:00:19.048513+00:00",
+    "notified_at": "2026-11-27T21:00:26.809369+00:00",
     "sources": [
       "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Software Systems Engineer - Associate or Experienced",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Seal-Beach-CA/Software-Systems-Engineer--Associate-or-Experienced-_JR2026523046-1",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Colorado-Springs-CO/Software-Systems-Engineer--Associate-or-Experienced-_JR2026520215",
     "urls": [
-      "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Seal-Beach-CA/Software-Systems-Engineer--Associate-or-Experienced-_JR2026523046-1"
+      "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Colorado-Springs-CO/Software-Systems-Engineer--Associate-or-Experienced-_JR2026520215"
     ]
   },
   "boeing::associate engineer software": {
@@ -1902,6 +1902,18 @@
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Beavercreek-OH/C---Software-Engineer--Junior_R0253425",
     "urls": [
       "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Beavercreek-OH/C---Software-Engineer--Junior_R0253425"
+    ]
+  },
+  "boozallen::cloud cybersecurity engineer": {
+    "company": "Booz Allen",
+    "notified_at": "2026-11-27T21:00:26.809369+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Cloud Cybersecurity Engineer",
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Rome-NY/Cloud-Cybersecurity-Engineer_R0253733",
+    "urls": [
+      "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Rome-NY/Cloud-Cybersecurity-Engineer_R0253733"
     ]
   },
   "boozallen::data scientist": {
@@ -5645,6 +5657,22 @@
       "https://go.vansh.nyc/1CI?s=A"
     ]
   },
+  "lockheedmartin::engineer software": {
+    "company": "Lockheed Martin",
+    "notified_at": "2026-11-27T21:00:26.809369+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Engineer - Early Career",
+    "url": "https://lockheedmartin.eightfold.ai/careers/job/996478132136",
+    "urls": [
+      "https://lockheedmartin.eightfold.ai/careers/job/996478015115",
+      "https://lockheedmartin.eightfold.ai/careers/job/996478015124",
+      "https://lockheedmartin.eightfold.ai/careers/job/996478043233",
+      "https://lockheedmartin.eightfold.ai/careers/job/996478126701",
+      "https://lockheedmartin.eightfold.ai/careers/job/996478132136"
+    ]
+  },
   "loganacheatservices::automation business developer junior systems": {
     "company": "Logan A/C & Heat Services",
     "notified_at": "2026-11-20T20:30:20.720114+00:00",
@@ -6149,6 +6177,18 @@
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556982635",
     "urls": [
       "https://apply.careers.microsoft.com/careers/job/1970393556982635"
+    ]
+  },
+  "microsoft::engineer software solution": {
+    "company": "Microsoft",
+    "notified_at": "2026-11-27T21:00:26.809369+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Solution Engineer",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557050055",
+    "urls": [
+      "https://apply.careers.microsoft.com/careers/job/1970393557050055"
     ]
   },
   "microsoft::engineering ic2 software": {
@@ -7238,6 +7278,42 @@
       "https://oldrepublic.wd1.myworkdayjobs.com/en-US/oldrepublictitle/job/CA-Roseville-524-Gibson-Dr/Title-Insurance-Software-Application-Support_R-4406"
     ]
   },
+  "omegahires::architect azure cloud": {
+    "company": "OmegaHires",
+    "notified_at": "2026-11-27T21:00:26.809369+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Azure Cloud Architect",
+    "url": "https://omegahires.applytojob.com/apply/QsNXxqCBJM/Azure-Cloud-Architect",
+    "urls": [
+      "https://omegahires.applytojob.com/apply/QsNXxqCBJM/Azure-Cloud-Architect"
+    ]
+  },
+  "omegahires::cloud engineer gcp operations": {
+    "company": "OmegaHires",
+    "notified_at": "2026-11-27T21:00:26.809369+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "GCP Cloud Operations Engineer",
+    "url": "https://omegahires.applytojob.com/apply/NP9thoqhRR/GCP-Cloud-Operations-Engineer",
+    "urls": [
+      "https://omegahires.applytojob.com/apply/NP9thoqhRR/GCP-Cloud-Operations-Engineer"
+    ]
+  },
+  "omegahires::devops engineer network": {
+    "company": "OmegaHires",
+    "notified_at": "2026-11-27T21:00:26.809369+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Network DevOps Engineer",
+    "url": "https://omegahires.applytojob.com/apply/H84tSQWoX4/Network-DevOps-Engineer",
+    "urls": [
+      "https://omegahires.applytojob.com/apply/H84tSQWoX4/Network-DevOps-Engineer"
+    ]
+  },
   "opower::cloud engineer infrastructure oci oracle software": {
     "company": "OPOWER",
     "notified_at": "2026-11-20T19:15:16.361312+00:00",
@@ -7819,6 +7895,42 @@
     "url": "https://go.vansh.nyc/1Ec?s=A",
     "urls": [
       "https://go.vansh.nyc/1Ec?s=A"
+    ]
+  },
+  "qualcomm::applications dsp engineer software": {
+    "company": "Qualcomm",
+    "notified_at": "2026-11-27T21:00:26.809369+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "DSP Applications Software Engineer",
+    "url": "https://careers.qualcomm.com/careers/job/446722230518",
+    "urls": [
+      "https://careers.qualcomm.com/careers/job/446722230518"
+    ]
+  },
+  "qualcomm::audio embedded engineer software": {
+    "company": "Qualcomm",
+    "notified_at": "2026-11-27T21:00:26.809369+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "#Embedded Audio Software Engineer",
+    "url": "https://careers.qualcomm.com/careers/job/446722197774",
+    "urls": [
+      "https://careers.qualcomm.com/careers/job/446722197774"
+    ]
+  },
+  "qualcomm::automation developer engineer": {
+    "company": "Qualcomm",
+    "notified_at": "2026-11-27T21:00:26.809369+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Automation Developer Engineer",
+    "url": "https://careers.qualcomm.com/careers/job/446721803210",
+    "urls": [
+      "https://careers.qualcomm.com/careers/job/446721803210"
     ]
   },
   "qualtrics::data development engineer platform software": {
@@ -9736,6 +9848,18 @@
       "https://go.vansh.nyc/1v7?s=A"
     ]
   },
+  "starbucks::61393 barista cloud crossroads st store": {
+    "company": "Starbucks",
+    "notified_at": "2026-11-27T21:00:26.809369+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "barista - Store# 61393 - CROSSROADS & ST CLOUD",
+    "url": "https://apply.starbucks.com/careers/job/481081792920",
+    "urls": [
+      "https://apply.starbucks.com/careers/job/481081792920"
+    ]
+  },
   "starfish::engineer modeling simulation software": {
     "company": "Starfish",
     "notified_at": "2026-11-23T02:05:12.962158+00:00",
@@ -9851,11 +9975,36 @@
       "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496"
     ]
   },
+  "synecticsolutions::developer ii software": {
+    "company": "Synectic Solutions",
+    "notified_at": "2026-11-27T21:00:26.809369+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Developer II",
+    "url": "https://synecsolu.applytojob.com/apply/iEkrgj9sWZ/Software-Developer-II",
+    "urls": [
+      "https://synecsolu.applytojob.com/apply/iEkrgj9sWZ/Software-Developer-II"
+    ]
+  },
+  "synecticsolutions::developer iii software": {
+    "company": "Synectic Solutions",
+    "notified_at": "2026-11-27T21:00:26.809369+00:00",
+    "sources": [
+      "speedyapply/2027-SWE-College-Jobs"
+    ],
+    "title": "Software Developer III",
+    "url": "https://synecsolu.applytojob.com/apply/bYBTaGZvZg/Software-Developer-III",
+    "urls": [
+      "https://synecsolu.applytojob.com/apply/bYBTaGZvZg/Software-Developer-III"
+    ]
+  },
   "synecticsolutions::engineer software": {
     "company": "Synectic Solutions",
     "notified_at": "2026-11-27T03:05:13.675982+00:00",
     "sources": [
-      "SimplifyJobs/New-Grad-Positions"
+      "SimplifyJobs/New-Grad-Positions",
+      "speedyapply/2027-SWE-College-Jobs"
     ],
     "title": "Software Engineer 1",
     "url": "https://synecsolu.applytojob.com/apply/kQT1OASGDG/Software-Engineer-I",
