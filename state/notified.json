@@ -1707,18 +1707,6 @@
       "https://bodyspec.applytojob.com/apply/YsrsS9yEg7/Junior-Developer"
     ]
   },
-  "boeing::15 data engineer f flight test": {
-    "company": "Boeing",
-    "notified_at": "2026-10-29T01:00:21.267566+00:00",
-    "sources": [
-      "ApplyGuy/2027-New-Grad-Jobs"
-    ],
-    "title": "Entry-Level F-15 Flight Test Data Engineer",
-    "url": "https://boeing.wd1.myworkdayjobs.com/external_recall/job/USA---Eglin-AFB-FL/Entry-Level-F-15-Flight-Test-Data-Engineer_JR2026506850-3",
-    "urls": [
-      "https://boeing.wd1.myworkdayjobs.com/external_recall/job/USA---Eglin-AFB-FL/Entry-Level-F-15-Flight-Test-Data-Engineer_JR2026506850-3"
-    ]
-  },
   "boeing::asic design digital engineer fpga master s": {
     "company": "Boeing",
     "notified_at": "2026-11-02T21:20:28.967020+00:00",
@@ -4367,6 +4355,18 @@
     "urls": [
       "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821",
       "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821-2"
+    ]
+  },
+  "hirehawk::associate engineer software": {
+    "company": "HireHawk",
+    "notified_at": "2026-11-28T01:00:32.395305+00:00",
+    "sources": [
+      "ApplyGuy/2027-New-Grad-Jobs"
+    ],
+    "title": "Associate Software Engineer (Remote) \\",
+    "url": "https://jobs.workable.com/view/tYMFUP84Ychfr8o5RbAFJu/associate-software-engineer-(remote",
+    "urls": [
+      "https://jobs.workable.com/view/tYMFUP84Ychfr8o5RbAFJu/associate-software-engineer-(remote"
     ]
   },
   "hitachi::analyst data": {
