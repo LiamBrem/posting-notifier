@@ -1067,6 +1067,18 @@
       "https://go.vansh.nyc/1Gu?s=A"
     ]
   },
+  "appliedmaterials::2 engineer software": {
+    "company": "Applied Materials",
+    "notified_at": "2026-11-28T01:35:13.596620+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer 2 New Grad \ud83c\udf93",
+    "url": "https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Software-Engineer-II-New-College-Grad--Master-s--Chandler--AZ-_R2627909",
+    "urls": [
+      "https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Software-Engineer-II-New-College-Grad--Master-s--Chandler--AZ-_R2627909"
+    ]
+  },
   "appliedmaterials::ai data engineer scientist": {
     "company": "Applied Materials",
     "notified_at": "2026-11-27T22:00:18.931057+00:00",
@@ -1399,14 +1411,14 @@
   },
   "bankofmontreal::developer software": {
     "company": "Bank of Montreal",
-    "notified_at": "2026-11-10T00:05:12.710169+00:00",
+    "notified_at": "2026-11-28T01:35:13.596620+00:00",
     "sources": [
       "SimplifyJobs/New-Grad-Positions"
     ],
     "title": "Software Developer New Grad",
-    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer_R260028581",
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Berkeley-Heights-NJ-USA/Software-Developer_R260023733",
     "urls": [
-      "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer_R260028581"
+      "https://bmo.wd3.myworkdayjobs.com/External/job/Berkeley-Heights-NJ-USA/Software-Developer_R260023733"
     ]
   },
   "bask::backend engineer": {
@@ -2565,6 +2577,18 @@
       "https://go.vansh.nyc/Nk?s=A"
     ]
   },
+  "ciena::engineer software": {
+    "company": "Ciena",
+    "notified_at": "2026-11-28T01:35:13.596620+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Software Engineer New Grad",
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering---New-Grad_R032171",
+    "urls": [
+      "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering---New-Grad_R032171"
+    ]
+  },
   "cisco::ai data engineer ii software states united": {
     "company": "Cisco",
     "notified_at": "2026-11-09T22:10:14.575953+00:00",
@@ -2719,6 +2743,18 @@
     "url": "https://cisive.wd108.myworkdayjobs.com/Cisive/job/Headquarters-MD/Associate-Software-Developer_JR100449-1",
     "urls": [
       "https://cisive.wd108.myworkdayjobs.com/Cisive/job/Headquarters-MD/Associate-Software-Developer_JR100449-1"
+    ]
+  },
+  "citi::ai engineer generative junior platforms software": {
+    "company": "Citi",
+    "notified_at": "2026-11-28T01:35:13.596620+00:00",
+    "sources": [
+      "SimplifyJobs/New-Grad-Positions"
+    ],
+    "title": "Junior Software Engineer - Generative AI Platforms",
+    "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Junior-Software-Engineer---Generative-AI-Platforms_26989233",
+    "urls": [
+      "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Junior-Software-Engineer---Generative-AI-Platforms_26989233"
     ]
   },
   "citi::avp derivatives engineer equity exotic master quantitative s": {
@@ -4229,18 +4265,6 @@
     "url": "https://gradientmsp.bamboohr.com/careers/72/",
     "urls": [
       "https://gradientmsp.bamboohr.com/careers/72/"
-    ]
-  },
-  "graphcore::ai compute engineer libraries performance software": {
-    "company": "Graphcore",
-    "notified_at": "2026-10-29T01:35:12.726539+00:00",
-    "sources": [
-      "SimplifyJobs/New-Grad-Positions"
-    ],
-    "title": "Software Engineer New Grad - AI Compute Libraries & Performance",
-    "url": "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902321002",
-    "urls": [
-      "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902321002"
     ]
   },
   "greatamericaninsurance::analyst associate embedded product solutions": {
