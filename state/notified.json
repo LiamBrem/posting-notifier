@@ -817,15 +817,14 @@
   },
   "amentum::engineer software": {
     "company": "Amentum",
-    "notified_at": "2026-10-30T23:05:11.090430+00:00",
+    "notified_at": "2026-11-28T01:05:13.846745+00:00",
     "sources": [
-      "SimplifyJobs/New-Grad-Positions",
-      "speedyapply/2027-SWE-College-Jobs"
+      "SimplifyJobs/New-Grad-Positions"
     ],
-    "title": "Entry Level Software Engineer",
-    "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer---SECRET_R0173771",
+    "title": "Software Engineer 1",
+    "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0176222",
     "urls": [
-      "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer---SECRET_R0173771"
+      "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0176222"
     ]
   },
   "ameren::analyst analytics business data": {
@@ -6060,15 +6059,15 @@
     ]
   },
   "micron::engineer software": {
-    "company": "Micron",
-    "notified_at": "2026-11-24T14:20:17.969737+00:00",
+    "company": "Micron Technology",
+    "notified_at": "2026-11-28T01:05:13.846745+00:00",
     "sources": [
-      "ApplyGuy/2027-New-Grad-Jobs"
+      "SimplifyJobs/New-Grad-Positions"
     ],
-    "title": "New College Grad - Software Engineer",
-    "url": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692",
+    "title": "Software Engineer New Grad",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692",
     "urls": [
-      "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692"
+      "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692"
     ]
   },
   "microsoft::ai ceai commercial engineering software": {
@@ -6817,17 +6816,15 @@
     ]
   },
   "northwesternmutual::engineer software": {
-    "company": "Northwesternmutual",
-    "notified_at": "2026-11-24T10:35:13.113273+00:00",
+    "company": "Northwestern Mutual",
+    "notified_at": "2026-11-28T01:05:13.846745+00:00",
     "sources": [
-      "ApplyGuy/2027-New-Grad-Jobs",
-      "speedyapply/2027-SWE-College-Jobs"
+      "SimplifyJobs/New-Grad-Positions"
     ],
-    "title": "Software Engineer I",
+    "title": "Software Engineer 1",
     "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Software-Engineer-I_JR-46395-1",
     "urls": [
-      "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Software-Engineer-I_JR-46395-1",
-      "https://northwesternmutual.wd5.myworkdayjobs.com/en-US/corporate-careers/job/Milwaukee-WI-Corporate/Software-Engineer_JR-46291"
+      "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Software-Engineer-I_JR-46395-1"
     ]
   },
   "northwoodspace::engineer platform software": {
@@ -7085,16 +7082,15 @@
     ]
   },
   "nvidia::dl engineer kernel libraries software": {
-    "company": "NVIDIA",
-    "notified_at": "2026-11-24T08:50:17.605958+00:00",
+    "company": "\ud83d\udd25 NVIDIA",
+    "notified_at": "2026-11-28T01:05:13.846745+00:00",
     "sources": [
-      "ApplyGuy/2027-New-Grad-Jobs"
+      "SimplifyJobs/New-Grad-Positions"
     ],
-    "title": "Software Engineer, DL Kernel Libraries - New College Grad 2027",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
+    "title": "Software Engineer New Grad - DL Kernel Libraries",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
     "urls": [
-      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
-      "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337"
+      "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337"
     ]
   },
   "nvidia::engineer formal verification": {
