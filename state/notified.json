@@ -1413,12 +1413,14 @@
     "company": "Bank of Montreal",
     "notified_at": "2026-11-28T01:35:13.596620+00:00",
     "sources": [
-      "SimplifyJobs/New-Grad-Positions"
+      "SimplifyJobs/New-Grad-Positions",
+      "vanshb03/New-Grad-2027"
     ],
     "title": "Software Developer New Grad",
     "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Berkeley-Heights-NJ-USA/Software-Developer_R260023733",
     "urls": [
-      "https://bmo.wd3.myworkdayjobs.com/External/job/Berkeley-Heights-NJ-USA/Software-Developer_R260023733"
+      "https://bmo.wd3.myworkdayjobs.com/External/job/Berkeley-Heights-NJ-USA/Software-Developer_R260023733",
+      "https://go.vansh.nyc/1LY?s=A"
     ]
   },
   "bask::backend engineer": {
@@ -2513,6 +2515,18 @@
     "url": "https://career-schwab.icims.com/jobs/129410/job?mobile=true&needsRedirect=false",
     "urls": [
       "https://career-schwab.icims.com/jobs/129410/job?mobile=true&needsRedirect=false"
+    ]
+  },
+  "chep::applications developer software": {
+    "company": "CHEP",
+    "notified_at": "2026-11-28T02:35:13.402267+00:00",
+    "sources": [
+      "vanshb03/New-Grad-2027"
+    ],
+    "title": "Software Developer - Applications",
+    "url": "https://go.vansh.nyc/1LZ?s=A",
+    "urls": [
+      "https://go.vansh.nyc/1LZ?s=A"
     ]
   },
   "chewy::engineer promotions software stack": {
